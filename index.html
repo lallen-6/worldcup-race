@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Family World Cup Stakes</title>
+<meta name="description" content="Family World Cup 2026 sweepstake race tracker">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏇</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bevan&family=Barlow+Condensed:wght@400;500;600;700&family=Barlow:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root {
+  --parchment: #f3ecdb;
+  --parchment-dark: #e9dfc8;
+  --ink: #221f18;
+  --ink-soft: #51493a;
+  --turf: #1d6a3c;
+  --turf-dark: #175a32;
+  --turf-deep: #114526;
+  --rail: #f6f1e2;
+  --gold: #c9a227;
+  --gold-deep: #a0801a;
+  --red: #b3402f;
+  --lane-h: 58px;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  background: var(--parchment);
+  color: var(--ink);
+  font-family: 'Barlow', sans-serif;
+  position: relative;
+}
+/* paper grain */
+body::before {
+  content: ""; position: fixed; inset: 0; pointer-events: none; z-index: 50; opacity: .35;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2'/%3E%3CfeColorMatrix values='0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 .04 0'/%3E%3C/filter%3E%3Crect width='180' height='180' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+/* ---------- race-card header ---------- */
+header {
+  text-align: center;
+  padding: 26px 16px 18px;
+  border-bottom: 3px double var(--ink);
+  background:
+    linear-gradient(var(--parchment), var(--parchment-dark));
+}
+.meet-line {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 12px; letter-spacing: .34em; text-transform: uppercase;
+  color: var(--ink-soft);
+  display: flex; align-items: center; justify-content: center; gap: 12px;
+}
+.meet-line::before, .meet-line::after { content: ""; height: 1px; width: 36px; background: var(--ink-soft); }
+h1 {
+  font-family: 'Bevan', serif;
+  font-size: clamp(26px, 7vw, 52px);
+  line-height: 1.05;
+  margin: 10px auto 6px;
+  max-width: 14ch;
+  text-transform: uppercase;
+}
+h1 .amp { color: var(--red); }
+.subtitle {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 15px; letter-spacing: .14em; text-transform: uppercase; color: var(--ink-soft);
+}
+.race-count {
+  display: inline-block; margin-top: 12px; padding: 5px 18px;
+  border: 1.5px solid var(--ink); border-radius: 99px;
+  font-family: 'Barlow Condensed', sans-serif; font-weight: 600;
+  font-size: 13px; letter-spacing: .2em; text-transform: uppercase;
+  background: var(--gold); color: var(--ink);
+  box-shadow: 2px 2px 0 var(--ink);
+}
+
+/* ---------- live strip ---------- */
+.live-strip {
+  display: none;
+  background: var(--ink); color: var(--parchment);
+  font-family: 'Barlow Condensed', sans-serif;
+  padding: 8px 14px; text-align: center; font-size: 15px; letter-spacing: .04em;
+}
+.live-strip.on { display: block; }
+.live-dot {
+  display: inline-block; width: 8px; height: 8px; border-radius: 50%;
+  background: #ff5341; margin-right: 8px; animation: pulse 1.2s infinite;
+}
+@keyframes pulse { 50% { opacity: .25; } }
+
+/* ---------- the track ---------- */
+.course { position: relative; padding: 0; }
+.rail { height: 10px; background:
+  repeating-linear-gradient(90deg, var(--rail) 0 26px, transparent 26px 34px),
+  var(--turf-deep);
+  border-top: 2px solid var(--ink); border-bottom: 2px solid var(--ink);
+}
+.track {
+  position: relative;
+  background: var(--turf);
+  overflow: hidden;
+}
+/* furlong posts */
+.track::before {
+  content: ""; position: absolute; inset: 0; pointer-events: none; z-index: 1;
+  background:
+    repeating-linear-gradient(90deg, transparent 0 calc(25% - 1px), rgba(246,241,226,.32) calc(25% - 1px) 25%);
+}
+/* finish line */
+.track::after {
+  content: ""; position: absolute; top: 0; bottom: 0; right: 14px; width: 14px; z-index: 1;
+  background:
+    conic-gradient(var(--ink) 90deg, var(--rail) 90deg 180deg, var(--ink) 180deg 270deg, var(--rail) 270deg) 0 0/14px 14px;
+  border-left: 2px solid var(--ink); border-right: 2px solid var(--ink);
+}
+.lane {
+  position: relative;
+  height: var(--lane-h);
+  background: var(--turf);
+}
+.lane:nth-child(even) { background: var(--turf-dark); }
+.lane + .lane { border-top: 1px solid rgba(246,241,226,.14); }
+.runner {
+  position: absolute; top: 50%; left: 9px;
+  transform: translateY(-50%);
+  transition: left 2.6s cubic-bezier(.22,.9,.3,1);
+  z-index: 2;
+  display: flex; align-items: center; gap: 6px;
+  will-change: left;
+}
+.saddlecloth {
+  order: 1;
+  font-family: 'Barlow Condensed', sans-serif; font-weight: 700;
+  font-size: 13px; letter-spacing: .06em; text-transform: uppercase;
+  color: #fff; padding: 3px 9px 2px; border-radius: 3px;
+  border: 1.5px solid rgba(0,0,0,.35);
+  box-shadow: 1.5px 1.5px 0 rgba(0,0,0,.35);
+  white-space: nowrap; line-height: 1.15;
+}
+.saddlecloth .pts { opacity: .85; font-weight: 500; margin-left: 5px; }
+.horse {
+  order: 2;
+  font-size: 34px; line-height: 1;
+  display: inline-block; transform: scaleX(-1);
+  filter: drop-shadow(2px 3px 2px rgba(0,0,0,.35));
+}
+.running .horse { animation: gallop .42s ease-in-out infinite; }
+.settled .horse { animation: idle 3.2s ease-in-out infinite; }
+@keyframes gallop {
+  0%,100% { transform: scaleX(-1) translateY(0) rotate(0deg); }
+  50% { transform: scaleX(-1) translateY(-5px) rotate(-4deg); }
+}
+@keyframes idle {
+  0%,100% { transform: scaleX(-1) translateY(0); }
+  50% { transform: scaleX(-1) translateY(-2px); }
+}
+.crown { order: 3; font-size: 15px; margin-left: 2px; filter: none; }
+
+/* ---------- sections ---------- */
+main { max-width: 760px; margin: 0 auto; padding: 8px 14px 60px; }
+.section-head {
+  font-family: 'Bevan', serif; font-size: 19px; text-transform: uppercase;
+  margin: 34px 0 4px; display: flex; align-items: baseline; gap: 10px;
+}
+.section-head small {
+  font-family: 'Barlow Condensed', sans-serif; font-size: 12px;
+  letter-spacing: .22em; color: var(--ink-soft); font-weight: 600;
+}
+.rule { height: 3px; border-top: 1px solid var(--ink); border-bottom: 1px solid var(--ink); margin-bottom: 14px; }
+
+/* standings cards */
+.card {
+  border: 2px solid var(--ink); border-radius: 6px; background: #fbf7ec;
+  box-shadow: 3px 3px 0 rgba(34,31,24,.8);
+  margin-bottom: 12px; overflow: hidden;
+  animation: rise .5s ease-out backwards;
+}
+@keyframes rise { from { opacity: 0; transform: translateY(10px); } }
+.card-head {
+  display: flex; align-items: center; gap: 12px; padding: 10px 14px;
+  cursor: pointer; -webkit-tap-highlight-color: transparent; user-select: none;
+}
+.pos {
+  font-family: 'Bevan', serif; font-size: 18px; width: 30px; text-align: center;
+  flex: none; color: var(--ink-soft);
+}
+.pos.first { color: var(--gold-deep); }
+.silk {
+  width: 26px; height: 26px; border-radius: 50%; flex: none;
+  border: 2px solid var(--ink);
+  background: linear-gradient(135deg, var(--c) 0 50%, color-mix(in srgb, var(--c) 70%, black) 50%);
+}
+.card-name {
+  font-family: 'Barlow Condensed', sans-serif; font-weight: 700;
+  font-size: 21px; letter-spacing: .04em; text-transform: uppercase; flex: 1;
+}
+.card-record { font-family: 'Barlow Condensed', sans-serif; font-size: 13px; color: var(--ink-soft); letter-spacing: .08em; }
+.card-pts {
+  font-family: 'Bevan', serif; font-size: 24px; min-width: 44px; text-align: right;
+}
+.card-pts small { font-family: 'Barlow Condensed', sans-serif; font-size: 11px; letter-spacing: .12em; color: var(--ink-soft); display: block; margin-top: -4px; text-align: right;}
+.chev { flex: none; transition: transform .25s; color: var(--ink-soft); font-size: 12px; }
+.card.open .chev { transform: rotate(180deg); }
+.card-body { display: none; border-top: 1.5px dashed var(--ink-soft); padding: 8px 14px 12px; }
+.card.open .card-body { display: block; }
+.team-row {
+  display: flex; align-items: center; gap: 10px; padding: 7px 0;
+  font-size: 14.5px;
+}
+.team-row + .team-row { border-top: 1px solid var(--parchment-dark); }
+.team-row img { width: 26px; height: 19.5px; object-fit: cover; border: 1px solid rgba(34,31,24,.4); border-radius: 2px; flex: none; }
+.team-name { font-weight: 600; flex: 1; }
+.team-sub { display: block; font-size: 12px; color: var(--ink-soft); font-weight: 400; }
+.team-rec { font-family: 'Barlow Condensed', sans-serif; letter-spacing: .1em; font-size: 13px; color: var(--ink-soft); }
+.team-pts { font-family: 'Barlow Condensed', sans-serif; font-weight: 700; font-size: 16px; width: 38px; text-align: right; }
+.team-row.out { opacity: .45; }
+.team-row.out img { filter: grayscale(1); }
+.out-tag {
+  font-family: 'Barlow Condensed', sans-serif; font-size: 10px; font-weight: 700;
+  letter-spacing: .14em; color: #fff; background: var(--red);
+  padding: 2px 6px; border-radius: 3px;
+}
+
+/* fixtures + results lists */
+.fixture, .result {
+  display: flex; align-items: center; gap: 10px;
+  padding: 9px 2px; font-size: 14.5px;
+  border-bottom: 1px solid var(--parchment-dark);
+}
+.fx-date { font-family: 'Barlow Condensed', sans-serif; font-size: 12.5px; letter-spacing: .06em; color: var(--ink-soft); width: 74px; flex: none; text-transform: uppercase; }
+.fx-teams { flex: 1; font-weight: 600; }
+.owner-tag {
+  display: inline-block; font-family: 'Barlow Condensed', sans-serif;
+  font-weight: 700; font-size: 10.5px; letter-spacing: .08em; text-transform: uppercase;
+  color: #fff; padding: 1.5px 6px 1px; border-radius: 3px; margin: 0 2px 0 5px;
+  border: 1px solid rgba(0,0,0,.25); vertical-align: 1.5px; white-space: nowrap;
+}
+.score {
+  font-family: 'Barlow Condensed', sans-serif; font-weight: 700; font-size: 17px;
+  background: var(--ink); color: var(--parchment); border-radius: 3px;
+  padding: 2px 8px; flex: none; letter-spacing: .05em;
+}
+.fx-flag { width: 22px; height: 16.5px; object-fit: cover; border: 1px solid rgba(34,31,24,.35); border-radius: 2px; vertical-align: -3px; margin: 0 4px; }
+.empty-note { color: var(--ink-soft); font-size: 14px; padding: 10px 2px; font-style: italic; }
+
+footer {
+  text-align: center; padding: 26px 16px 40px;
+  border-top: 3px double var(--ink);
+  font-family: 'Barlow Condensed', sans-serif; font-size: 13px;
+  letter-spacing: .1em; text-transform: uppercase; color: var(--ink-soft);
+  background: var(--parchment-dark);
+}
+footer .tiny { display: block; margin-top: 6px; font-size: 11px; letter-spacing: .18em; }
+
+@media (min-width: 640px) {
+  :root { --lane-h: 64px; }
+  .horse { font-size: 40px; }
+  .saddlecloth { font-size: 14px; }
+}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="meet-line">World Cup 2026 · Going: Firm</div>
+  <h1>The Family <span class="amp">World Cup</span> Stakes</h1>
+  <div class="subtitle" id="subtitle">8 runners · 48 nations</div>
+  <div class="race-count" id="raceCount">Loading the card…</div>
+</header>
+
+<div class="live-strip" id="liveStrip"></div>
+
+<div class="course">
+  <div class="rail"></div>
+  <div class="track" id="track"></div>
+  <div class="rail"></div>
+</div>
+
+<main>
+  <div class="section-head">Standings <small>tap a runner for their stable</small></div>
+  <div class="rule"></div>
+  <div id="standings"></div>
+
+  <div class="section-head">Next Up <small>next 48 hours</small></div>
+  <div class="rule"></div>
+  <div id="upcoming"></div>
+
+  <div class="section-head">Results <small>every match played</small></div>
+  <div class="rule"></div>
+  <div id="results"></div>
+</main>
+
+<footer>
+  <span id="scoring"></span>
+  <span class="tiny" id="updated"></span>
+</footer>
+
+<script>
+const FLAG = c => `https://flagcdn.com/w40/${c}.png`;
+const esc = s => String(s ?? '').replace(/[&<>"']/g, m => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));
+let ownerColors = {};
+
+function fmtDate(iso) {
+  const d = new Date(iso);
+  return d.toLocaleDateString('en-GB', { weekday: 'short', day: 'numeric', month: 'short' });
+}
+function fmtTime(iso) {
+  const d = new Date(iso);
+  return d.toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit' });
+}
+function tag(owner) {
+  if (!owner) return '';
+  return `<span class="owner-tag" style="background:${ownerColors[owner] || '#999'}">${esc(owner)}</span>`;
+}
+
+function renderTrack(owners) {
+  const leader = Math.max(...owners.map(o => o.points), 1);
+  const track = document.getElementById('track');
+  track.innerHTML = owners.map((o, i) => {
+    const frac = o.points / leader;
+    const crown = (o.points > 0 && o.points === leader) ? '<span class="crown">🏆</span>' : '';
+    return `<div class="lane">
+      <div class="runner running" data-frac="${frac}" style="transition-delay:${i * .14}s">
+        <span class="saddlecloth" style="background:${o.color}">${esc(o.name)}<span class="pts">${o.points}</span></span>
+        <span class="horse">🏇</span>${crown}
+      </div>
+    </div>`;
+  }).join('');
+  requestAnimationFrame(() => requestAnimationFrame(() => {
+    track.querySelectorAll('.runner').forEach(r => {
+      // Clamp the run so the whole horse stays on screen at both ends.
+      const w = r.offsetWidth + 18;
+      r.style.left = `calc((100% - ${w}px) * ${r.dataset.frac} + 9px)`;
+    });
+    setTimeout(() => track.querySelectorAll('.runner').forEach(r => {
+      r.classList.remove('running'); r.classList.add('settled');
+    }), 3600);
+  }));
+}
+
+function renderStandings(owners) {
+  const el = document.getElementById('standings');
+  el.innerHTML = owners.map((o, i) => {
+    const teams = [...o.teams].sort((a, b) => b.points - a.points || a.out - b.out);
+    const rows = teams.map(t => {
+      const sub = t.out ? '' : (t.next ? `<span class="team-sub">next: v ${esc(t.next.vs)}, ${fmtDate(t.next.date)}</span>`
+                : (t.last ? `<span class="team-sub">last: ${t.last.res} ${esc(t.last.score)} v ${esc(t.last.vs)}</span>` : ''));
+      return `<div class="team-row${t.out ? ' out' : ''}">
+        <img src="${FLAG(t.flag)}" alt="" loading="lazy">
+        <span class="team-name">${esc(t.display)}${sub}</span>
+        ${t.out ? '<span class="out-tag">OUT</span>' : ''}
+        <span class="team-rec">${t.w}W ${t.d}D ${t.l}L</span>
+        <span class="team-pts">${t.points}</span>
+      </div>`;
+    }).join('');
+    return `<div class="card" style="animation-delay:${i * 70}ms">
+      <div class="card-head" onclick="this.parentElement.classList.toggle('open')">
+        <span class="pos${i === 0 ? ' first' : ''}">${i + 1}</span>
+        <span class="silk" style="--c:${o.color}"></span>
+        <span class="card-name">${esc(o.name)}<span class="card-record" style="display:block">${o.w}W ${o.d}D ${o.l}L · ${o.alive}/6 still in</span></span>
+        <span class="card-pts">${o.points}<small>PTS</small></span>
+        <span class="chev">▼</span>
+      </div>
+      <div class="card-body">${rows}</div>
+    </div>`;
+  }).join('');
+}
+
+function matchLine(m, isResult) {
+  const mid = isResult
+    ? `<span class="score">${m.hs}–${m.as}</span>`
+    : `<span class="fx-date" style="width:auto">${fmtTime(m.date)}</span>`;
+  const flag = c => c ? `<img class="fx-flag" src="${FLAG(c)}" alt="" loading="lazy">` : '';
+  return `<div class="${isResult ? 'result' : 'fixture'}">
+    <span class="fx-date">${fmtDate(m.date)}</span>
+    <span class="fx-teams">${flag(m.homeFlag)}${esc(m.home)}${tag(m.homeOwner)} v ${flag(m.awayFlag)}${esc(m.away)}${tag(m.awayOwner)}</span>
+    ${mid}
+  </div>`;
+}
+
+function render(data) {
+  ownerColors = Object.fromEntries(data.owners.map(o => [o.name, o.color]));
+  const owners = [...data.owners].sort((a, b) => b.points - a.points || b.w - a.w || a.name.localeCompare(b.name));
+
+  document.getElementById('subtitle').textContent = data.subtitle;
+  document.getElementById('raceCount').textContent =
+    `After ${data.matchesCompleted} of ${data.totalMatches} matches`;
+  document.getElementById('scoring').textContent = data.scoring;
+  document.getElementById('updated').textContent =
+    `Updated ${new Date(data.generated).toLocaleString('en-GB', { day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' })} · refreshes hourly`;
+
+  const live = document.getElementById('liveStrip');
+  if (data.live && data.live.length) {
+    live.classList.add('on');
+    live.innerHTML = data.live.map(m =>
+      `<span class="live-dot"></span><strong>${esc(m.home)}</strong> ${m.hs}–${m.as} <strong>${esc(m.away)}</strong> (${esc(m.clock)})`
+    ).join(' &nbsp;·&nbsp; ');
+  } else { live.classList.remove('on'); }
+
+  renderTrack(owners);
+  renderStandings(owners);
+
+  document.getElementById('upcoming').innerHTML = (data.upcoming && data.upcoming.length)
+    ? data.upcoming.map(m => matchLine(m, false)).join('')
+    : '<div class="empty-note">No fixtures in the next two days.</div>';
+
+  document.getElementById('results').innerHTML = (data.results && data.results.length)
+    ? data.results.map(m => matchLine(m, true)).join('')
+    : '<div class="empty-note">No results yet. They&rsquo;re under starter&rsquo;s orders…</div>';
+}
+
+async function load() {
+  try {
+    const res = await fetch('data.json?t=' + Date.now());
+    render(await res.json());
+  } catch (e) {
+    document.getElementById('raceCount').textContent = 'Could not load the card, pull to refresh';
+  }
+}
+load();
+setInterval(load, 5 * 60 * 1000);
+</script>
+</body>
+</html>

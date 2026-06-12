@@ -1,0 +1,987 @@
+{
+ "generated": "2026-06-12T18:40:25+00:00",
+ "matchesCompleted": 2,
+ "totalMatches": 104,
+ "title": "The Family World Cup Stakes",
+ "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
+ "scoring": "3 pts a win · 1 pt a draw · knockout wins count",
+ "owners": [
+  {
+   "name": "Beth",
+   "color": "#d94f30",
+   "points": 0,
+   "w": 0,
+   "d": 0,
+   "l": 0,
+   "alive": 6,
+   "teams": [
+    {
+     "display": "Japan",
+     "flag": "jp",
+     "w": 0,
+     "d": 0,
+     "l": 0,
+     "gf": 0,
+     "ga": 0,
+     "points": 0,
+     "out": false,
+     "next": {
+      "vs": "Netherlands",
+      "date": "2026-06-14T20:00Z"
+     },
+     "last": null
+    },
+    {
+     "display": "USA",
+     "flag": "us",
+     "w": 0,
+     "d": 0,
+     "l": 0,
+     "gf": 0,
+     "ga": 0,
+     "points": 0,
+     "out": false,
+     "next": {
+      "vs": "Paraguay",
+      "date": "2026-06-13T01:00Z"
+     },
+     "last": null
+    },
+    {
+     "display": "Morocco",
+     "flag": "ma",
+     "w": 0,
+     "d": 0,
+     "l": 0,
+     "gf": 0,
+     "ga": 0,
+     "points": 0,
+     "out": false,
+     "next": {
+      "vs": "Brazil",
+      "date": "2026-06-13T22:00Z"
+     },
+     "last": null
+    },
+    {
+     "display": "Canada",
+     "flag": "ca",
+     "w": 0,
+     "d": 0,
+     "l": 0,
+     "gf": 0,
+     "ga": 0,
+     "points": 0,
+     "out": false,
+     "next": {
+      "vs": "Bosnia",
+      "date": "2026-06-12T19:00Z"
+     },
+     "last": null
+    },
+    {
+     "display": "Ghana",
+     "flag": "gh",
+     "w": 0,
+     "d": 0,
+     "l": 0,
+     "gf": 0,
+     "ga": 0,
+     "points": 0,
+     "out": false,
+     "next": {
+      "vs": "Panama",
+      "date": "2026-06-17T23:00Z"
+     },
+     "last": null
+    },
+    {
+     "display": "Saudi Arabia",
+     "flag": "sa",
+     "w": 0,
+     "d": 0,
+     "l": 0,
+     "gf": 0,
+     "ga": 0,
+     "points": 0,
+     "out": false,
+     "next": {
+      "vs": "Uruguay",
+      "date": "2026-06-15T22:00Z"
+     },
+     "last": null
+    }
+   ]
+  },
+  {
+   "name": "Dad",
+   "color": "#1f5fa8",
+   "points": 0,
+   "w": 0,
+   "d": 0,
+   "l": 0,
+   "alive": 6,
+   "teams": [
+    {
+     "display": "Germany",
+     "flag": "de",
+     "w": 0,
+     "d": 0,
+     "l": 0,
+     "gf": 0,
+     "ga": 0,
+     "points": 0,
+     "out": false,
+     "next": {
+      "vs": "Curaçao",
+      "date": "2026-06-14T17:00Z"
+     },
+     "last": null
+    },
+    {
+     "display": "Belgium",
+     "flag": "be",
+     "w": 0,
+     "d": 0,
+     "l": 0,
+     "gf": 0,
+     "ga": 0,
+     "points": 0,
+     "out": false,
+     "next": {
+      "vs": "Egypt",
+      "date": "2026-06-15T19:00Z"
+     },
+     "last": null
+    },
+    {
+     "display": "France",
+     "flag": "fr",
+     "w": 0,
+     "d": 0,
+     "l": 0,
+     "gf": 0,
+     "ga": 0,
+     "points": 0,
+     "out": false,
+     "next": {
+      "vs": "Senegal",
+      "date": "2026-06-16T19:00Z"
+     },
+     "last": null
+    },
+    {
+     "display": "Netherlands",
+     "flag": "nl",
+     "w": 0,
+     "d": 0,
+     "l": 0,
+     "gf": 0,
+     "ga": 0,
+     "points": 0,
+     "out": false,
+     "next": {
+      "vs": "Japan",
+      "date": "2026-06-14T20:00Z"
+     },
+     "last": null
+    },
+    {
+     "display": "Tunisia",
+     "flag": "tn",
+     "w": 0,
+     "d": 0,
+     "l": 0,
+     "gf": 0,
+     "ga": 0,
+     "points": 0,
+     "out": false,
+     "next": {
+      "vs": "Sweden",
+      "date": "2026-06-15T02:00Z"
+     },
+     "last": null
+    },
+    {
+     "display": "Norway",
+     "flag": "no",
+     "w": 0,
+     "d": 0,
+     "l": 0,
+     "gf": 0,
+     "ga": 0,
+     "points": 0,
+     "out": false,
+     "next": {
+      "vs": "Iraq",
+      "date": "2026-06-16T22:00Z"
+     },
+     "last": null
+    }
+   ]
+  },
+  {
+   "name": "Finley",
+   "color": "#c9a227",
+   "points": 0,
+   "w": 0,
+   "d": 0,
+   "l": 1,
+   "alive": 6,
+   "teams": [
+    {
+     "display": "Croatia",
+     "flag": "hr",
+     "w": 0,
+     "d": 0,
+     "l": 0,
+     "gf": 0,
+     "ga": 0,
+     "points": 0,
+     "out": false,
+     "next": {
+      "vs": "England",
+      "date": "2026-06-17T20:00Z"
+     },
+     "last": null
+    },
+    {
+     "display": "Ivory Coast",
+     "flag": "ci",
+     "w": 0,
+     "d": 0,
+     "l": 0,
+     "gf": 0,
+     "ga": 0,
+     "points": 0,
+     "out": false,
+     "next": {
+      "vs": "Ecuador",
+      "date": "2026-06-14T23:00Z"
+     },
+     "last": null
+    },
+    {
+     "display": "Spain",
+     "flag": "es",
+     "w": 0,
+     "d": 0,
+     "l": 0,
+     "gf": 0,
+     "ga": 0,
+     "points": 0,
+     "out": false,
+     "next": {
+      "vs": "Cape Verde",
+      "date": "2026-06-15T16:00Z"
+     },
+     "last": null
+    },
+    {
+     "display": "Sweden",
+     "flag": "se",
+     "w": 0,
+     "d": 0,
+     "l": 0,
+     "gf": 0,
+     "ga": 0,
+     "points": 0,
+     "out": false,
+     "next": {
+      "vs": "Tunisia",
+      "date": "2026-06-15T02:00Z"
+     },
+     "last": null
+    },
+    {
+     "display": "South Africa",
+     "flag": "za",
+     "w": 0,
+     "d": 0,
+     "l": 1,
+     "gf": 0,
+     "ga": 2,
+     "points": 0,
+     "out": false,
+     "next": {
+      "vs": "Czech Republic",
+      "date": "2026-06-18T16:00Z"
+     },
+     "last": {
+      "vs": "Mexico",
+      "score": "0-2",
+      "res": "L",
+      "detail": "FT"
+     }
+    },
+    {
+     "display": "Egypt",
+     "flag": "eg",
+     "w": 0,
+     "d": 0,
+     "l": 0,
+     "gf": 0,
+     "ga": 0,
+     "points": 0,
+     "out": false,
+     "next": {
+      "vs": "Belgium",
+      "date": "2026-06-15T19:00Z"
+     },
+     "last": null
+    }
+   ]
+  },
+  {
+   "name": "Jasper",
+   "color": "#5a3b8c",
+   "points": 3,
+   "w": 1,
+   "d": 0,
+   "l": 0,
+   "alive": 6,
+   "teams": [
+    {
+     "display": "Turkey",
+     "flag": "tr",
+     "w": 0,
+     "d": 0,
+     "l": 0,
+     "gf": 0,
+     "ga": 0,
+     "points": 0,
+     "out": false,
+     "next": {
+      "vs": "Australia",
+      "date": "2026-06-14T04:00Z"
+     },
+     "last": null
+    },
+    {
+     "display": "Scotland",
+     "flag": "gb-sct",
+     "w": 0,
+     "d": 0,
+     "l": 0,
+     "gf": 0,
+     "ga": 0,
+     "points": 0,
+     "out": false,
+     "next": {
+      "vs": "Haiti",
+      "date": "2026-06-14T01:00Z"
+     },
+     "last": null
+    },
+    {
+     "display": "England",
+     "flag": "gb-eng",
+     "w": 0,
+     "d": 0,
+     "l": 0,
+     "gf": 0,
+     "ga": 0,
+     "points": 0,
+     "out": false,
+     "next": {
+      "vs": "Croatia",
+      "date": "2026-06-17T20:00Z"
+     },
+     "last": null
+    },
+    {
+     "display": "New Zealand",
+     "flag": "nz",
+     "w": 0,
+     "d": 0,
+     "l": 0,
+     "gf": 0,
+     "ga": 0,
+     "points": 0,
+     "out": false,
+     "next": {
+      "vs": "Iran",
+      "date": "2026-06-16T01:00Z"
+     },
+     "last": null
+    },
+    {
+     "display": "Mexico",
+     "flag": "mx",
+     "w": 1,
+     "d": 0,
+     "l": 0,
+     "gf": 2,
+     "ga": 0,
+     "points": 3,
+     "out": false,
+     "next": {
+      "vs": "South Korea",
+      "date": "2026-06-19T01:00Z"
+     },
+     "last": {
+      "vs": "South Africa",
+      "score": "2-0",
+      "res": "W",
+      "detail": "FT"
+     }
+    },
+    {
+     "display": "Cape Verde",
+     "flag": "cv",
+     "w": 0,
+     "d": 0,
+     "l": 0,
+     "gf": 0,
+     "ga": 0,
+     "points": 0,
+     "out": false,
+     "next": {
+      "vs": "Spain",
+      "date": "2026-06-15T16:00Z"
+     },
+     "last": null
+    }
+   ]
+  },
+  {
+   "name": "KTB",
+   "color": "#2a8c82",
+   "points": 3,
+   "w": 1,
+   "d": 0,
+   "l": 0,
+   "alive": 6,
+   "teams": [
+    {
+     "display": "South Korea",
+     "flag": "kr",
+     "w": 1,
+     "d": 0,
+     "l": 0,
+     "gf": 2,
+     "ga": 1,
+     "points": 3,
+     "out": false,
+     "next": {
+      "vs": "Mexico",
+      "date": "2026-06-19T01:00Z"
+     },
+     "last": {
+      "vs": "Czech Republic",
+      "score": "2-1",
+      "res": "W",
+      "detail": "FT"
+     }
+    },
+    {
+     "display": "Algeria",
+     "flag": "dz",
+     "w": 0,
+     "d": 0,
+     "l": 0,
+     "gf": 0,
+     "ga": 0,
+     "points": 0,
+     "out": false,
+     "next": {
+      "vs": "Argentina",
+      "date": "2026-06-17T01:00Z"
+     },
+     "last": null
+    },
+    {
+     "display": "Colombia",
+     "flag": "co",
+     "w": 0,
+     "d": 0,
+     "l": 0,
+     "gf": 0,
+     "ga": 0,
+     "points": 0,
+     "out": false,
+     "next": {
+      "vs": "Uzbekistan",
+      "date": "2026-06-18T02:00Z"
+     },
+     "last": null
+    },
+    {
+     "display": "Iran",
+     "flag": "ir",
+     "w": 0,
+     "d": 0,
+     "l": 0,
+     "gf": 0,
+     "ga": 0,
+     "points": 0,
+     "out": false,
+     "next": {
+      "vs": "New Zealand",
+      "date": "2026-06-16T01:00Z"
+     },
+     "last": null
+    },
+    {
+     "display": "Switzerland",
+     "flag": "ch",
+     "w": 0,
+     "d": 0,
+     "l": 0,
+     "gf": 0,
+     "ga": 0,
+     "points": 0,
+     "out": false,
+     "next": {
+      "vs": "Qatar",
+      "date": "2026-06-13T19:00Z"
+     },
+     "last": null
+    },
+    {
+     "display": "Senegal",
+     "flag": "sn",
+     "w": 0,
+     "d": 0,
+     "l": 0,
+     "gf": 0,
+     "ga": 0,
+     "points": 0,
+     "out": false,
+     "next": {
+      "vs": "France",
+      "date": "2026-06-16T19:00Z"
+     },
+     "last": null
+    }
+   ]
+  },
+  {
+   "name": "Keir",
+   "color": "#b03a5b",
+   "points": 0,
+   "w": 0,
+   "d": 0,
+   "l": 0,
+   "alive": 6,
+   "teams": [
+    {
+     "display": "Australia",
+     "flag": "au",
+     "w": 0,
+     "d": 0,
+     "l": 0,
+     "gf": 0,
+     "ga": 0,
+     "points": 0,
+     "out": false,
+     "next": {
+      "vs": "Turkey",
+      "date": "2026-06-14T04:00Z"
+     },
+     "last": null
+    },
+    {
+     "display": "Argentina",
+     "flag": "ar",
+     "w": 0,
+     "d": 0,
+     "l": 0,
+     "gf": 0,
+     "ga": 0,
+     "points": 0,
+     "out": false,
+     "next": {
+      "vs": "Algeria",
+      "date": "2026-06-17T01:00Z"
+     },
+     "last": null
+    },
+    {
+     "display": "Jordan",
+     "flag": "jo",
+     "w": 0,
+     "d": 0,
+     "l": 0,
+     "gf": 0,
+     "ga": 0,
+     "points": 0,
+     "out": false,
+     "next": {
+      "vs": "Austria",
+      "date": "2026-06-17T04:00Z"
+     },
+     "last": null
+    },
+    {
+     "display": "Panama",
+     "flag": "pa",
+     "w": 0,
+     "d": 0,
+     "l": 0,
+     "gf": 0,
+     "ga": 0,
+     "points": 0,
+     "out": false,
+     "next": {
+      "vs": "Ghana",
+      "date": "2026-06-17T23:00Z"
+     },
+     "last": null
+    },
+    {
+     "display": "Austria",
+     "flag": "at",
+     "w": 0,
+     "d": 0,
+     "l": 0,
+     "gf": 0,
+     "ga": 0,
+     "points": 0,
+     "out": false,
+     "next": {
+      "vs": "Jordan",
+      "date": "2026-06-17T04:00Z"
+     },
+     "last": null
+    },
+    {
+     "display": "Brazil",
+     "flag": "br",
+     "w": 0,
+     "d": 0,
+     "l": 0,
+     "gf": 0,
+     "ga": 0,
+     "points": 0,
+     "out": false,
+     "next": {
+      "vs": "Morocco",
+      "date": "2026-06-13T22:00Z"
+     },
+     "last": null
+    }
+   ]
+  },
+  {
+   "name": "Louis",
+   "color": "#3d7a2e",
+   "points": 0,
+   "w": 0,
+   "d": 0,
+   "l": 1,
+   "alive": 6,
+   "teams": [
+    {
+     "display": "Haiti",
+     "flag": "ht",
+     "w": 0,
+     "d": 0,
+     "l": 0,
+     "gf": 0,
+     "ga": 0,
+     "points": 0,
+     "out": false,
+     "next": {
+      "vs": "Scotland",
+      "date": "2026-06-14T01:00Z"
+     },
+     "last": null
+    },
+    {
+     "display": "Qatar",
+     "flag": "qa",
+     "w": 0,
+     "d": 0,
+     "l": 0,
+     "gf": 0,
+     "ga": 0,
+     "points": 0,
+     "out": false,
+     "next": {
+      "vs": "Switzerland",
+      "date": "2026-06-13T19:00Z"
+     },
+     "last": null
+    },
+    {
+     "display": "Curaçao",
+     "flag": "cw",
+     "w": 0,
+     "d": 0,
+     "l": 0,
+     "gf": 0,
+     "ga": 0,
+     "points": 0,
+     "out": false,
+     "next": {
+      "vs": "Germany",
+      "date": "2026-06-14T17:00Z"
+     },
+     "last": null
+    },
+    {
+     "display": "Czech Republic",
+     "flag": "cz",
+     "w": 0,
+     "d": 0,
+     "l": 1,
+     "gf": 1,
+     "ga": 2,
+     "points": 0,
+     "out": false,
+     "next": {
+      "vs": "South Africa",
+      "date": "2026-06-18T16:00Z"
+     },
+     "last": {
+      "vs": "South Korea",
+      "score": "1-2",
+      "res": "L",
+      "detail": "FT"
+     }
+    },
+    {
+     "display": "Iraq",
+     "flag": "iq",
+     "w": 0,
+     "d": 0,
+     "l": 0,
+     "gf": 0,
+     "ga": 0,
+     "points": 0,
+     "out": false,
+     "next": {
+      "vs": "Norway",
+      "date": "2026-06-16T22:00Z"
+     },
+     "last": null
+    },
+    {
+     "display": "Portugal",
+     "flag": "pt",
+     "w": 0,
+     "d": 0,
+     "l": 0,
+     "gf": 0,
+     "ga": 0,
+     "points": 0,
+     "out": false,
+     "next": {
+      "vs": "DR Congo",
+      "date": "2026-06-17T17:00Z"
+     },
+     "last": null
+    }
+   ]
+  },
+  {
+   "name": "Mum",
+   "color": "#d77f2f",
+   "points": 0,
+   "w": 0,
+   "d": 0,
+   "l": 0,
+   "alive": 6,
+   "teams": [
+    {
+     "display": "Bosnia",
+     "flag": "ba",
+     "w": 0,
+     "d": 0,
+     "l": 0,
+     "gf": 0,
+     "ga": 0,
+     "points": 0,
+     "out": false,
+     "next": {
+      "vs": "Canada",
+      "date": "2026-06-12T19:00Z"
+     },
+     "last": null
+    },
+    {
+     "display": "DR Congo",
+     "flag": "cd",
+     "w": 0,
+     "d": 0,
+     "l": 0,
+     "gf": 0,
+     "ga": 0,
+     "points": 0,
+     "out": false,
+     "next": {
+      "vs": "Portugal",
+      "date": "2026-06-17T17:00Z"
+     },
+     "last": null
+    },
+    {
+     "display": "Uzbekistan",
+     "flag": "uz",
+     "w": 0,
+     "d": 0,
+     "l": 0,
+     "gf": 0,
+     "ga": 0,
+     "points": 0,
+     "out": false,
+     "next": {
+      "vs": "Colombia",
+      "date": "2026-06-18T02:00Z"
+     },
+     "last": null
+    },
+    {
+     "display": "Uruguay",
+     "flag": "uy",
+     "w": 0,
+     "d": 0,
+     "l": 0,
+     "gf": 0,
+     "ga": 0,
+     "points": 0,
+     "out": false,
+     "next": {
+      "vs": "Saudi Arabia",
+      "date": "2026-06-15T22:00Z"
+     },
+     "last": null
+    },
+    {
+     "display": "Ecuador",
+     "flag": "ec",
+     "w": 0,
+     "d": 0,
+     "l": 0,
+     "gf": 0,
+     "ga": 0,
+     "points": 0,
+     "out": false,
+     "next": {
+      "vs": "Ivory Coast",
+      "date": "2026-06-14T23:00Z"
+     },
+     "last": null
+    },
+    {
+     "display": "Paraguay",
+     "flag": "py",
+     "w": 0,
+     "d": 0,
+     "l": 0,
+     "gf": 0,
+     "ga": 0,
+     "points": 0,
+     "out": false,
+     "next": {
+      "vs": "USA",
+      "date": "2026-06-13T01:00Z"
+     },
+     "last": null
+    }
+   ]
+  }
+ ],
+ "live": [],
+ "results": [
+  {
+   "date": "2026-06-12T02:00Z",
+   "round": "Group A",
+   "home": "South Korea",
+   "away": "Czech Republic",
+   "homeFlag": "kr",
+   "awayFlag": "cz",
+   "homeOwner": "KTB",
+   "awayOwner": "Louis",
+   "hs": 2,
+   "as": 1,
+   "detail": "FT"
+  },
+  {
+   "date": "2026-06-11T19:00Z",
+   "round": "Group A",
+   "home": "Mexico",
+   "away": "South Africa",
+   "homeFlag": "mx",
+   "awayFlag": "za",
+   "homeOwner": "Jasper",
+   "awayOwner": "Finley",
+   "hs": 2,
+   "as": 0,
+   "detail": "FT"
+  }
+ ],
+ "upcoming": [
+  {
+   "date": "2026-06-12T19:00Z",
+   "round": "Group B",
+   "home": "Canada",
+   "away": "Bosnia",
+   "homeFlag": "ca",
+   "awayFlag": "ba",
+   "homeOwner": "Beth",
+   "awayOwner": "Mum"
+  },
+  {
+   "date": "2026-06-13T01:00Z",
+   "round": "Group D",
+   "home": "USA",
+   "away": "Paraguay",
+   "homeFlag": "us",
+   "awayFlag": "py",
+   "homeOwner": "Beth",
+   "awayOwner": "Mum"
+  },
+  {
+   "date": "2026-06-13T19:00Z",
+   "round": "Group B",
+   "home": "Qatar",
+   "away": "Switzerland",
+   "homeFlag": "qa",
+   "awayFlag": "ch",
+   "homeOwner": "Louis",
+   "awayOwner": "KTB"
+  },
+  {
+   "date": "2026-06-13T22:00Z",
+   "round": "Group C",
+   "home": "Brazil",
+   "away": "Morocco",
+   "homeFlag": "br",
+   "awayFlag": "ma",
+   "homeOwner": "Keir",
+   "awayOwner": "Beth"
+  },
+  {
+   "date": "2026-06-14T01:00Z",
+   "round": "Group C",
+   "home": "Haiti",
+   "away": "Scotland",
+   "homeFlag": "ht",
+   "awayFlag": "gb-sct",
+   "homeOwner": "Louis",
+   "awayOwner": "Jasper"
+  },
+  {
+   "date": "2026-06-14T04:00Z",
+   "round": "Group D",
+   "home": "Australia",
+   "away": "Turkey",
+   "homeFlag": "au",
+   "awayFlag": "tr",
+   "homeOwner": "Keir",
+   "awayOwner": "Jasper"
+  },
+  {
+   "date": "2026-06-14T17:00Z",
+   "round": "Group E",
+   "home": "Germany",
+   "away": "Curaçao",
+   "homeFlag": "de",
+   "awayFlag": "cw",
+   "homeOwner": "Dad",
+   "awayOwner": "Louis"
+  }
+ ]
+}

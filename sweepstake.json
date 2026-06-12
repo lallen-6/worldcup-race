@@ -1,0 +1,103 @@
+{
+  "title": "The Family World Cup Stakes",
+  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
+  "scoring": "3 pts a win · 1 pt a draw · knockout wins count",
+  "owners": [
+    {
+      "name": "Beth",
+      "color": "#d94f30",
+      "teams": [
+        { "espn": "Japan", "display": "Japan", "flag": "jp" },
+        { "espn": "United States", "display": "USA", "flag": "us" },
+        { "espn": "Morocco", "display": "Morocco", "flag": "ma" },
+        { "espn": "Canada", "display": "Canada", "flag": "ca" },
+        { "espn": "Ghana", "display": "Ghana", "flag": "gh" },
+        { "espn": "Saudi Arabia", "display": "Saudi Arabia", "flag": "sa" }
+      ]
+    },
+    {
+      "name": "Dad",
+      "color": "#1f5fa8",
+      "teams": [
+        { "espn": "Germany", "display": "Germany", "flag": "de" },
+        { "espn": "Belgium", "display": "Belgium", "flag": "be" },
+        { "espn": "France", "display": "France", "flag": "fr" },
+        { "espn": "Netherlands", "display": "Netherlands", "flag": "nl" },
+        { "espn": "Tunisia", "display": "Tunisia", "flag": "tn" },
+        { "espn": "Norway", "display": "Norway", "flag": "no" }
+      ]
+    },
+    {
+      "name": "Finley",
+      "color": "#c9a227",
+      "teams": [
+        { "espn": "Croatia", "display": "Croatia", "flag": "hr" },
+        { "espn": "Ivory Coast", "display": "Ivory Coast", "flag": "ci" },
+        { "espn": "Spain", "display": "Spain", "flag": "es" },
+        { "espn": "Sweden", "display": "Sweden", "flag": "se" },
+        { "espn": "South Africa", "display": "South Africa", "flag": "za" },
+        { "espn": "Egypt", "display": "Egypt", "flag": "eg" }
+      ]
+    },
+    {
+      "name": "Jasper",
+      "color": "#5a3b8c",
+      "teams": [
+        { "espn": "Türkiye", "display": "Turkey", "flag": "tr" },
+        { "espn": "Scotland", "display": "Scotland", "flag": "gb-sct" },
+        { "espn": "England", "display": "England", "flag": "gb-eng" },
+        { "espn": "New Zealand", "display": "New Zealand", "flag": "nz" },
+        { "espn": "Mexico", "display": "Mexico", "flag": "mx" },
+        { "espn": "Cape Verde", "display": "Cape Verde", "flag": "cv" }
+      ]
+    },
+    {
+      "name": "KTB",
+      "color": "#2a8c82",
+      "teams": [
+        { "espn": "South Korea", "display": "South Korea", "flag": "kr" },
+        { "espn": "Algeria", "display": "Algeria", "flag": "dz" },
+        { "espn": "Colombia", "display": "Colombia", "flag": "co" },
+        { "espn": "Iran", "display": "Iran", "flag": "ir" },
+        { "espn": "Switzerland", "display": "Switzerland", "flag": "ch" },
+        { "espn": "Senegal", "display": "Senegal", "flag": "sn" }
+      ]
+    },
+    {
+      "name": "Keir",
+      "color": "#b03a5b",
+      "teams": [
+        { "espn": "Australia", "display": "Australia", "flag": "au" },
+        { "espn": "Argentina", "display": "Argentina", "flag": "ar" },
+        { "espn": "Jordan", "display": "Jordan", "flag": "jo" },
+        { "espn": "Panama", "display": "Panama", "flag": "pa" },
+        { "espn": "Austria", "display": "Austria", "flag": "at" },
+        { "espn": "Brazil", "display": "Brazil", "flag": "br" }
+      ]
+    },
+    {
+      "name": "Louis",
+      "color": "#3d7a2e",
+      "teams": [
+        { "espn": "Haiti", "display": "Haiti", "flag": "ht" },
+        { "espn": "Qatar", "display": "Qatar", "flag": "qa" },
+        { "espn": "Curaçao", "display": "Curaçao", "flag": "cw" },
+        { "espn": "Czechia", "display": "Czech Republic", "flag": "cz" },
+        { "espn": "Iraq", "display": "Iraq", "flag": "iq" },
+        { "espn": "Portugal", "display": "Portugal", "flag": "pt" }
+      ]
+    },
+    {
+      "name": "Mum",
+      "color": "#d77f2f",
+      "teams": [
+        { "espn": "Bosnia-Herzegovina", "display": "Bosnia", "flag": "ba" },
+        { "espn": "Congo DR", "display": "DR Congo", "flag": "cd" },
+        { "espn": "Uzbekistan", "display": "Uzbekistan", "flag": "uz" },
+        { "espn": "Uruguay", "display": "Uruguay", "flag": "uy" },
+        { "espn": "Ecuador", "display": "Ecuador", "flag": "ec" },
+        { "espn": "Paraguay", "display": "Paraguay", "flag": "py" }
+      ]
+    }
+  ]
+}
