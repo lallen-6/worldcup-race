@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-12T20:55:36+00:00",
- "matchesCompleted": 2,
+ "generated": "2026-06-12T22:46:56+00:00",
+ "matchesCompleted": 3,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -9,9 +9,9 @@
   {
    "name": "Beth",
    "color": "#d94f30",
-   "points": 0,
+   "points": 1,
    "w": 0,
-   "d": 0,
+   "d": 1,
    "l": 0,
    "alive": 6,
    "teams": [
@@ -67,17 +67,22 @@
      "display": "Canada",
      "flag": "ca",
      "w": 0,
-     "d": 0,
+     "d": 1,
      "l": 0,
-     "gf": 0,
-     "ga": 0,
-     "points": 0,
+     "gf": 1,
+     "ga": 1,
+     "points": 1,
      "out": false,
      "next": {
       "vs": "Qatar",
       "date": "2026-06-18T22:00Z"
      },
-     "last": null
+     "last": {
+      "vs": "Bosnia",
+      "score": "1-1",
+      "res": "D",
+      "detail": "FT"
+     }
     },
     {
      "display": "Ghana",
@@ -778,9 +783,9 @@
   {
    "name": "Mum",
    "color": "#d77f2f",
-   "points": 0,
+   "points": 1,
    "w": 0,
-   "d": 0,
+   "d": 1,
    "l": 0,
    "alive": 6,
    "teams": [
@@ -788,17 +793,22 @@
      "display": "Bosnia",
      "flag": "ba",
      "w": 0,
-     "d": 0,
+     "d": 1,
      "l": 0,
-     "gf": 0,
-     "ga": 0,
-     "points": 0,
+     "gf": 1,
+     "ga": 1,
+     "points": 1,
      "out": false,
      "next": {
       "vs": "Switzerland",
       "date": "2026-06-18T19:00Z"
      },
-     "last": null
+     "last": {
+      "vs": "Canada",
+      "score": "1-1",
+      "res": "D",
+      "detail": "FT"
+     }
     },
     {
      "display": "DR Congo",
@@ -883,7 +893,8 @@
    ]
   }
  ],
- "live": [
+ "live": [],
+ "results": [
   {
    "date": "2026-06-12T19:00Z",
    "round": "Group B",
@@ -895,10 +906,8 @@
    "awayOwner": "Mum",
    "hs": 1,
    "as": 1,
-   "clock": "90'+4'"
-  }
- ],
- "results": [
+   "detail": "FT"
+  },
   {
    "date": "2026-06-12T02:00Z",
    "round": "Group A",
