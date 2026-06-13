@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-13T20:07:41+00:00",
- "matchesCompleted": 4,
+ "generated": "2026-06-13T21:37:26+00:00",
+ "matchesCompleted": 5,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -457,9 +457,9 @@
   {
    "name": "KTB",
    "color": "#2a8c82",
-   "points": 3,
+   "points": 4,
    "w": 1,
-   "d": 0,
+   "d": 1,
    "l": 0,
    "alive": 6,
    "teams": [
@@ -536,17 +536,22 @@
      "display": "Switzerland",
      "flag": "ch",
      "w": 0,
-     "d": 0,
+     "d": 1,
      "l": 0,
-     "gf": 0,
-     "ga": 0,
-     "points": 0,
+     "gf": 1,
+     "ga": 1,
+     "points": 1,
      "out": false,
      "next": {
       "vs": "Bosnia",
       "date": "2026-06-18T19:00Z"
      },
-     "last": null
+     "last": {
+      "vs": "Qatar",
+      "score": "1-1",
+      "res": "D",
+      "detail": "FT"
+     }
     },
     {
      "display": "Senegal",
@@ -676,9 +681,9 @@
   {
    "name": "Louis",
    "color": "#3d7a2e",
-   "points": 0,
+   "points": 1,
    "w": 0,
-   "d": 0,
+   "d": 1,
    "l": 1,
    "alive": 6,
    "teams": [
@@ -702,17 +707,22 @@
      "display": "Qatar",
      "flag": "qa",
      "w": 0,
-     "d": 0,
+     "d": 1,
      "l": 0,
-     "gf": 0,
-     "ga": 0,
-     "points": 0,
+     "gf": 1,
+     "ga": 1,
+     "points": 1,
      "out": false,
      "next": {
       "vs": "Canada",
       "date": "2026-06-18T22:00Z"
      },
-     "last": null
+     "last": {
+      "vs": "Switzerland",
+      "score": "1-1",
+      "res": "D",
+      "detail": "FT"
+     }
     },
     {
      "display": "Curaçao",
@@ -903,7 +913,8 @@
    ]
   }
  ],
- "live": [
+ "live": [],
+ "results": [
   {
    "date": "2026-06-13T19:00Z",
    "round": "Group B",
@@ -913,12 +924,10 @@
    "awayFlag": "ch",
    "homeOwner": "Louis",
    "awayOwner": "KTB",
-   "hs": 0,
+   "hs": 1,
    "as": 1,
-   "clock": "45'+6'"
-  }
- ],
- "results": [
+   "detail": "FT"
+  },
   {
    "date": "2026-06-13T01:00Z",
    "round": "Group D",
