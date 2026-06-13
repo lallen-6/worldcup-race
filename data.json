@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-13T15:11:02+00:00",
+ "generated": "2026-06-13T16:45:55+00:00",
  "matchesCompleted": 4,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -1038,6 +1038,16 @@
    "awayFlag": "tn",
    "homeOwner": "Finley",
    "awayOwner": "Dad"
+  },
+  {
+   "date": "2026-06-15T16:00Z",
+   "round": "Group H",
+   "home": "Spain",
+   "away": "Cape Verde",
+   "homeFlag": "es",
+   "awayFlag": "cv",
+   "homeOwner": "Finley",
+   "awayOwner": "Jasper"
   }
  ]
 }
