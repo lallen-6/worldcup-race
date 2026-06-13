@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-13T01:34:05+00:00",
- "matchesCompleted": 3,
+ "generated": "2026-06-13T06:02:18+00:00",
+ "matchesCompleted": 4,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -9,8 +9,8 @@
   {
    "name": "Beth",
    "color": "#d94f30",
-   "points": 1,
-   "w": 0,
+   "points": 4,
+   "w": 1,
    "d": 1,
    "l": 0,
    "alive": 6,
@@ -34,18 +34,23 @@
     {
      "display": "USA",
      "flag": "us",
-     "w": 0,
+     "w": 1,
      "d": 0,
      "l": 0,
-     "gf": 0,
-     "ga": 0,
-     "points": 0,
+     "gf": 4,
+     "ga": 1,
+     "points": 3,
      "out": false,
      "next": {
       "vs": "Australia",
       "date": "2026-06-19T19:00Z"
      },
-     "last": null
+     "last": {
+      "vs": "Paraguay",
+      "score": "4-1",
+      "res": "W",
+      "detail": "FT"
+     }
     },
     {
      "display": "Morocco",
@@ -786,7 +791,7 @@
    "points": 1,
    "w": 0,
    "d": 1,
-   "l": 0,
+   "l": 1,
    "alive": 6,
    "teams": [
     {
@@ -879,21 +884,27 @@
      "flag": "py",
      "w": 0,
      "d": 0,
-     "l": 0,
-     "gf": 0,
-     "ga": 0,
+     "l": 1,
+     "gf": 1,
+     "ga": 4,
      "points": 0,
      "out": false,
      "next": {
       "vs": "Turkey",
       "date": "2026-06-20T03:00Z"
      },
-     "last": null
+     "last": {
+      "vs": "USA",
+      "score": "1-4",
+      "res": "L",
+      "detail": "FT"
+     }
     }
    ]
   }
  ],
- "live": [
+ "live": [],
+ "results": [
   {
    "date": "2026-06-13T01:00Z",
    "round": "Group D",
@@ -903,12 +914,10 @@
    "awayFlag": "py",
    "homeOwner": "Beth",
    "awayOwner": "Mum",
-   "hs": 2,
-   "as": 0,
-   "clock": "31'"
-  }
- ],
- "results": [
+   "hs": 4,
+   "as": 1,
+   "detail": "FT"
+  },
   {
    "date": "2026-06-12T19:00Z",
    "round": "Group B",
@@ -1019,6 +1028,16 @@
    "awayFlag": "ec",
    "homeOwner": "Finley",
    "awayOwner": "Mum"
+  },
+  {
+   "date": "2026-06-15T02:00Z",
+   "round": "Group F",
+   "home": "Sweden",
+   "away": "Tunisia",
+   "homeFlag": "se",
+   "awayFlag": "tn",
+   "homeOwner": "Finley",
+   "awayOwner": "Dad"
   }
  ]
 }
