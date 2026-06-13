@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-12T22:46:56+00:00",
+ "generated": "2026-06-13T01:34:05+00:00",
  "matchesCompleted": 3,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -42,8 +42,8 @@
      "points": 0,
      "out": false,
      "next": {
-      "vs": "Paraguay",
-      "date": "2026-06-13T01:00Z"
+      "vs": "Australia",
+      "date": "2026-06-19T19:00Z"
      },
      "last": null
     },
@@ -885,15 +885,29 @@
      "points": 0,
      "out": false,
      "next": {
-      "vs": "USA",
-      "date": "2026-06-13T01:00Z"
+      "vs": "Turkey",
+      "date": "2026-06-20T03:00Z"
      },
      "last": null
     }
    ]
   }
  ],
- "live": [],
+ "live": [
+  {
+   "date": "2026-06-13T01:00Z",
+   "round": "Group D",
+   "home": "USA",
+   "away": "Paraguay",
+   "homeFlag": "us",
+   "awayFlag": "py",
+   "homeOwner": "Beth",
+   "awayOwner": "Mum",
+   "hs": 2,
+   "as": 0,
+   "clock": "31'"
+  }
+ ],
  "results": [
   {
    "date": "2026-06-12T19:00Z",
@@ -936,16 +950,6 @@
   }
  ],
  "upcoming": [
-  {
-   "date": "2026-06-13T01:00Z",
-   "round": "Group D",
-   "home": "USA",
-   "away": "Paraguay",
-   "homeFlag": "us",
-   "awayFlag": "py",
-   "homeOwner": "Beth",
-   "awayOwner": "Mum"
-  },
   {
    "date": "2026-06-13T19:00Z",
    "round": "Group B",
@@ -1005,6 +1009,16 @@
    "awayFlag": "jp",
    "homeOwner": "Dad",
    "awayOwner": "Beth"
+  },
+  {
+   "date": "2026-06-14T23:00Z",
+   "round": "Group E",
+   "home": "Ivory Coast",
+   "away": "Ecuador",
+   "homeFlag": "ci",
+   "awayFlag": "ec",
+   "homeOwner": "Finley",
+   "awayOwner": "Mum"
   }
  ]
 }
