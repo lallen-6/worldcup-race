@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-13T18:43:10+00:00",
+ "generated": "2026-06-13T20:07:41+00:00",
  "matchesCompleted": 4,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -543,8 +543,8 @@
      "points": 0,
      "out": false,
      "next": {
-      "vs": "Qatar",
-      "date": "2026-06-13T19:00Z"
+      "vs": "Bosnia",
+      "date": "2026-06-18T19:00Z"
      },
      "last": null
     },
@@ -709,8 +709,8 @@
      "points": 0,
      "out": false,
      "next": {
-      "vs": "Switzerland",
-      "date": "2026-06-13T19:00Z"
+      "vs": "Canada",
+      "date": "2026-06-18T22:00Z"
      },
      "last": null
     },
@@ -903,7 +903,21 @@
    ]
   }
  ],
- "live": [],
+ "live": [
+  {
+   "date": "2026-06-13T19:00Z",
+   "round": "Group B",
+   "home": "Qatar",
+   "away": "Switzerland",
+   "homeFlag": "qa",
+   "awayFlag": "ch",
+   "homeOwner": "Louis",
+   "awayOwner": "KTB",
+   "hs": 0,
+   "as": 1,
+   "clock": "45'+6'"
+  }
+ ],
  "results": [
   {
    "date": "2026-06-13T01:00Z",
@@ -959,16 +973,6 @@
   }
  ],
  "upcoming": [
-  {
-   "date": "2026-06-13T19:00Z",
-   "round": "Group B",
-   "home": "Qatar",
-   "away": "Switzerland",
-   "homeFlag": "qa",
-   "awayFlag": "ch",
-   "homeOwner": "Louis",
-   "awayOwner": "KTB"
-  },
   {
    "date": "2026-06-13T22:00Z",
    "round": "Group C",
@@ -1048,6 +1052,16 @@
    "awayFlag": "cv",
    "homeOwner": "Finley",
    "awayOwner": "Jasper"
+  },
+  {
+   "date": "2026-06-15T19:00Z",
+   "round": "Group G",
+   "home": "Belgium",
+   "away": "Egypt",
+   "homeFlag": "be",
+   "awayFlag": "eg",
+   "homeOwner": "Dad",
+   "awayOwner": "Finley"
   }
  ]
 }
