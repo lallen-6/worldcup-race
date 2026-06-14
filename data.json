@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-14T21:39:17+00:00",
- "matchesCompleted": 9,
+ "generated": "2026-06-14T22:50:31+00:00",
+ "matchesCompleted": 10,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -9,9 +9,9 @@
   {
    "name": "Beth",
    "color": "#d94f30",
-   "points": 5,
+   "points": 6,
    "w": 1,
-   "d": 2,
+   "d": 3,
    "l": 0,
    "alive": 6,
    "teams": [
@@ -19,17 +19,22 @@
      "display": "Japan",
      "flag": "jp",
      "w": 0,
-     "d": 0,
+     "d": 1,
      "l": 0,
-     "gf": 0,
-     "ga": 0,
-     "points": 0,
+     "gf": 2,
+     "ga": 2,
+     "points": 1,
      "out": false,
      "next": {
       "vs": "Tunisia",
       "date": "2026-06-21T04:00Z"
      },
-     "last": null
+     "last": {
+      "vs": "Netherlands",
+      "score": "2-2",
+      "res": "D",
+      "detail": "FT"
+     }
     },
     {
      "display": "USA",
@@ -131,9 +136,9 @@
   {
    "name": "Dad",
    "color": "#1f5fa8",
-   "points": 3,
+   "points": 4,
    "w": 1,
-   "d": 0,
+   "d": 1,
    "l": 0,
    "alive": 6,
    "teams": [
@@ -194,17 +199,22 @@
      "display": "Netherlands",
      "flag": "nl",
      "w": 0,
-     "d": 0,
+     "d": 1,
      "l": 0,
-     "gf": 0,
-     "ga": 0,
-     "points": 0,
+     "gf": 2,
+     "ga": 2,
+     "points": 1,
      "out": false,
      "next": {
       "vs": "Sweden",
       "date": "2026-06-20T17:00Z"
      },
-     "last": null
+     "last": {
+      "vs": "Japan",
+      "score": "2-2",
+      "res": "D",
+      "detail": "FT"
+     }
     },
     {
      "display": "Tunisia",
@@ -953,7 +963,8 @@
    ]
   }
  ],
- "live": [
+ "live": [],
+ "results": [
   {
    "date": "2026-06-14T20:00Z",
    "round": "Group F",
@@ -964,11 +975,9 @@
    "homeOwner": "Dad",
    "awayOwner": "Beth",
    "hs": 2,
-   "as": 1,
-   "clock": "80'"
-  }
- ],
- "results": [
+   "as": 2,
+   "detail": "FT"
+  },
   {
    "date": "2026-06-14T17:00Z",
    "round": "Group E",
@@ -1157,6 +1166,16 @@
    "awayFlag": "sn",
    "homeOwner": "Dad",
    "awayOwner": "KTB"
+  },
+  {
+   "date": "2026-06-16T22:00Z",
+   "round": "Group I",
+   "home": "Iraq",
+   "away": "Norway",
+   "homeFlag": "iq",
+   "awayFlag": "no",
+   "homeOwner": "Louis",
+   "awayOwner": "Dad"
   }
  ]
 }
