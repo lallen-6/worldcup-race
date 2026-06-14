@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-14T17:02:02+00:00",
+ "generated": "2026-06-14T18:44:06+00:00",
  "matchesCompleted": 8,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -148,8 +148,8 @@
      "points": 0,
      "out": false,
      "next": {
-      "vs": "Curaçao",
-      "date": "2026-06-14T17:00Z"
+      "vs": "Ivory Coast",
+      "date": "2026-06-20T20:00Z"
      },
      "last": null
     },
@@ -765,8 +765,8 @@
      "points": 0,
      "out": false,
      "next": {
-      "vs": "Germany",
-      "date": "2026-06-14T17:00Z"
+      "vs": "Ecuador",
+      "date": "2026-06-21T00:00Z"
      },
      "last": null
     },
@@ -943,7 +943,21 @@
    ]
   }
  ],
- "live": [],
+ "live": [
+  {
+   "date": "2026-06-14T17:00Z",
+   "round": "Group E",
+   "home": "Germany",
+   "away": "Curaçao",
+   "homeFlag": "de",
+   "awayFlag": "cw",
+   "homeOwner": "Dad",
+   "awayOwner": "Louis",
+   "hs": 6,
+   "as": 1,
+   "clock": "81'"
+  }
+ ],
  "results": [
   {
    "date": "2026-06-14T04:00Z",
@@ -1051,16 +1065,6 @@
   }
  ],
  "upcoming": [
-  {
-   "date": "2026-06-14T17:00Z",
-   "round": "Group E",
-   "home": "Germany",
-   "away": "Curaçao",
-   "homeFlag": "de",
-   "awayFlag": "cw",
-   "homeOwner": "Dad",
-   "awayOwner": "Louis"
-  },
   {
    "date": "2026-06-14T20:00Z",
    "round": "Group F",
