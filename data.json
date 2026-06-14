@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-14T18:44:06+00:00",
- "matchesCompleted": 8,
+ "generated": "2026-06-14T20:10:49+00:00",
+ "matchesCompleted": 9,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -26,8 +26,8 @@
      "points": 0,
      "out": false,
      "next": {
-      "vs": "Netherlands",
-      "date": "2026-06-14T20:00Z"
+      "vs": "Tunisia",
+      "date": "2026-06-21T04:00Z"
      },
      "last": null
     },
@@ -131,8 +131,8 @@
   {
    "name": "Dad",
    "color": "#1f5fa8",
-   "points": 0,
-   "w": 0,
+   "points": 3,
+   "w": 1,
    "d": 0,
    "l": 0,
    "alive": 6,
@@ -140,18 +140,23 @@
     {
      "display": "Germany",
      "flag": "de",
-     "w": 0,
+     "w": 1,
      "d": 0,
      "l": 0,
-     "gf": 0,
-     "ga": 0,
-     "points": 0,
+     "gf": 7,
+     "ga": 1,
+     "points": 3,
      "out": false,
      "next": {
       "vs": "Ivory Coast",
       "date": "2026-06-20T20:00Z"
      },
-     "last": null
+     "last": {
+      "vs": "Curaçao",
+      "score": "7-1",
+      "res": "W",
+      "detail": "FT"
+     }
     },
     {
      "display": "Belgium",
@@ -196,8 +201,8 @@
      "points": 0,
      "out": false,
      "next": {
-      "vs": "Japan",
-      "date": "2026-06-14T20:00Z"
+      "vs": "Sweden",
+      "date": "2026-06-20T17:00Z"
      },
      "last": null
     },
@@ -709,7 +714,7 @@
    "points": 1,
    "w": 0,
    "d": 1,
-   "l": 2,
+   "l": 3,
    "alive": 6,
    "teams": [
     {
@@ -759,16 +764,21 @@
      "flag": "cw",
      "w": 0,
      "d": 0,
-     "l": 0,
-     "gf": 0,
-     "ga": 0,
+     "l": 1,
+     "gf": 1,
+     "ga": 7,
      "points": 0,
      "out": false,
      "next": {
       "vs": "Ecuador",
       "date": "2026-06-21T00:00Z"
      },
-     "last": null
+     "last": {
+      "vs": "Germany",
+      "score": "1-7",
+      "res": "L",
+      "detail": "FT"
+     }
     },
     {
      "display": "Czech Republic",
@@ -945,6 +955,21 @@
  ],
  "live": [
   {
+   "date": "2026-06-14T20:00Z",
+   "round": "Group F",
+   "home": "Netherlands",
+   "away": "Japan",
+   "homeFlag": "nl",
+   "awayFlag": "jp",
+   "homeOwner": "Dad",
+   "awayOwner": "Beth",
+   "hs": 0,
+   "as": 0,
+   "clock": "10'"
+  }
+ ],
+ "results": [
+  {
    "date": "2026-06-14T17:00Z",
    "round": "Group E",
    "home": "Germany",
@@ -953,12 +978,10 @@
    "awayFlag": "cw",
    "homeOwner": "Dad",
    "awayOwner": "Louis",
-   "hs": 6,
+   "hs": 7,
    "as": 1,
-   "clock": "81'"
-  }
- ],
- "results": [
+   "detail": "FT"
+  },
   {
    "date": "2026-06-14T04:00Z",
    "round": "Group D",
@@ -1066,16 +1089,6 @@
  ],
  "upcoming": [
   {
-   "date": "2026-06-14T20:00Z",
-   "round": "Group F",
-   "home": "Netherlands",
-   "away": "Japan",
-   "homeFlag": "nl",
-   "awayFlag": "jp",
-   "homeOwner": "Dad",
-   "awayOwner": "Beth"
-  },
-  {
    "date": "2026-06-14T23:00Z",
    "round": "Group E",
    "home": "Ivory Coast",
@@ -1134,6 +1147,16 @@
    "awayFlag": "nz",
    "homeOwner": "KTB",
    "awayOwner": "Jasper"
+  },
+  {
+   "date": "2026-06-16T19:00Z",
+   "round": "Group I",
+   "home": "France",
+   "away": "Senegal",
+   "homeFlag": "fr",
+   "awayFlag": "sn",
+   "homeOwner": "Dad",
+   "awayOwner": "KTB"
   }
  ]
 }
