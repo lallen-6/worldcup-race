@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-14T05:20:08+00:00",
- "matchesCompleted": 7,
+ "generated": "2026-06-14T08:55:38+00:00",
+ "matchesCompleted": 8,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -353,7 +353,7 @@
    "points": 6,
    "w": 2,
    "d": 0,
-   "l": 0,
+   "l": 1,
    "alive": 6,
    "teams": [
     {
@@ -361,16 +361,21 @@
      "flag": "tr",
      "w": 0,
      "d": 0,
-     "l": 0,
+     "l": 1,
      "gf": 0,
-     "ga": 0,
+     "ga": 2,
      "points": 0,
      "out": false,
      "next": {
       "vs": "Paraguay",
       "date": "2026-06-20T03:00Z"
      },
-     "last": null
+     "last": {
+      "vs": "Australia",
+      "score": "0-2",
+      "res": "L",
+      "detail": "FT"
+     }
     },
     {
      "display": "Scotland",
@@ -584,8 +589,8 @@
   {
    "name": "Keir",
    "color": "#b03a5b",
-   "points": 1,
-   "w": 0,
+   "points": 4,
+   "w": 1,
    "d": 1,
    "l": 0,
    "alive": 6,
@@ -593,18 +598,23 @@
     {
      "display": "Australia",
      "flag": "au",
-     "w": 0,
+     "w": 1,
      "d": 0,
      "l": 0,
-     "gf": 0,
+     "gf": 2,
      "ga": 0,
-     "points": 0,
+     "points": 3,
      "out": false,
      "next": {
       "vs": "USA",
       "date": "2026-06-19T19:00Z"
      },
-     "last": null
+     "last": {
+      "vs": "Turkey",
+      "score": "2-0",
+      "res": "W",
+      "detail": "FT"
+     }
     },
     {
      "display": "Argentina",
@@ -933,7 +943,8 @@
    ]
   }
  ],
- "live": [
+ "live": [],
+ "results": [
   {
    "date": "2026-06-14T04:00Z",
    "round": "Group D",
@@ -943,12 +954,10 @@
    "awayFlag": "tr",
    "homeOwner": "Keir",
    "awayOwner": "Jasper",
-   "hs": 1,
+   "hs": 2,
    "as": 0,
-   "clock": "60'"
-  }
- ],
- "results": [
+   "detail": "FT"
+  },
   {
    "date": "2026-06-14T01:00Z",
    "round": "Group C",
