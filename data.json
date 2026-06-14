@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-14T00:20:08+00:00",
- "matchesCompleted": 6,
+ "generated": "2026-06-14T05:20:08+00:00",
+ "matchesCompleted": 7,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -350,8 +350,8 @@
   {
    "name": "Jasper",
    "color": "#5a3b8c",
-   "points": 3,
-   "w": 1,
+   "points": 6,
+   "w": 2,
    "d": 0,
    "l": 0,
    "alive": 6,
@@ -367,26 +367,31 @@
      "points": 0,
      "out": false,
      "next": {
-      "vs": "Australia",
-      "date": "2026-06-14T04:00Z"
+      "vs": "Paraguay",
+      "date": "2026-06-20T03:00Z"
      },
      "last": null
     },
     {
      "display": "Scotland",
      "flag": "gb-sct",
-     "w": 0,
+     "w": 1,
      "d": 0,
      "l": 0,
-     "gf": 0,
+     "gf": 1,
      "ga": 0,
-     "points": 0,
+     "points": 3,
      "out": false,
      "next": {
-      "vs": "Haiti",
-      "date": "2026-06-14T01:00Z"
+      "vs": "Morocco",
+      "date": "2026-06-19T22:00Z"
      },
-     "last": null
+     "last": {
+      "vs": "Haiti",
+      "score": "1-0",
+      "res": "W",
+      "detail": "FT"
+     }
     },
     {
      "display": "England",
@@ -596,8 +601,8 @@
      "points": 0,
      "out": false,
      "next": {
-      "vs": "Turkey",
-      "date": "2026-06-14T04:00Z"
+      "vs": "USA",
+      "date": "2026-06-19T19:00Z"
      },
      "last": null
     },
@@ -694,7 +699,7 @@
    "points": 1,
    "w": 0,
    "d": 1,
-   "l": 1,
+   "l": 2,
    "alive": 6,
    "teams": [
     {
@@ -702,16 +707,21 @@
      "flag": "ht",
      "w": 0,
      "d": 0,
-     "l": 0,
+     "l": 1,
      "gf": 0,
-     "ga": 0,
+     "ga": 1,
      "points": 0,
      "out": false,
      "next": {
-      "vs": "Scotland",
-      "date": "2026-06-14T01:00Z"
+      "vs": "Brazil",
+      "date": "2026-06-20T00:30Z"
      },
-     "last": null
+     "last": {
+      "vs": "Scotland",
+      "score": "0-1",
+      "res": "L",
+      "detail": "FT"
+     }
     },
     {
      "display": "Qatar",
@@ -923,8 +933,35 @@
    ]
   }
  ],
- "live": [],
+ "live": [
+  {
+   "date": "2026-06-14T04:00Z",
+   "round": "Group D",
+   "home": "Australia",
+   "away": "Turkey",
+   "homeFlag": "au",
+   "awayFlag": "tr",
+   "homeOwner": "Keir",
+   "awayOwner": "Jasper",
+   "hs": 1,
+   "as": 0,
+   "clock": "60'"
+  }
+ ],
  "results": [
+  {
+   "date": "2026-06-14T01:00Z",
+   "round": "Group C",
+   "home": "Haiti",
+   "away": "Scotland",
+   "homeFlag": "ht",
+   "awayFlag": "gb-sct",
+   "homeOwner": "Louis",
+   "awayOwner": "Jasper",
+   "hs": 0,
+   "as": 1,
+   "detail": "FT"
+  },
   {
    "date": "2026-06-13T22:00Z",
    "round": "Group C",
@@ -1006,26 +1043,6 @@
  ],
  "upcoming": [
   {
-   "date": "2026-06-14T01:00Z",
-   "round": "Group C",
-   "home": "Haiti",
-   "away": "Scotland",
-   "homeFlag": "ht",
-   "awayFlag": "gb-sct",
-   "homeOwner": "Louis",
-   "awayOwner": "Jasper"
-  },
-  {
-   "date": "2026-06-14T04:00Z",
-   "round": "Group D",
-   "home": "Australia",
-   "away": "Turkey",
-   "homeFlag": "au",
-   "awayFlag": "tr",
-   "homeOwner": "Keir",
-   "awayOwner": "Jasper"
-  },
-  {
    "date": "2026-06-14T17:00Z",
    "round": "Group E",
    "home": "Germany",
@@ -1094,6 +1111,16 @@
    "awayFlag": "uy",
    "homeOwner": "Beth",
    "awayOwner": "Mum"
+  },
+  {
+   "date": "2026-06-16T01:00Z",
+   "round": "Group G",
+   "home": "Iran",
+   "away": "New Zealand",
+   "homeFlag": "ir",
+   "awayFlag": "nz",
+   "homeOwner": "KTB",
+   "awayOwner": "Jasper"
   }
  ]
 }
