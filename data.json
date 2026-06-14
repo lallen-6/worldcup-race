@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-14T20:10:49+00:00",
+ "generated": "2026-06-14T21:39:17+00:00",
  "matchesCompleted": 9,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -963,9 +963,9 @@
    "awayFlag": "jp",
    "homeOwner": "Dad",
    "awayOwner": "Beth",
-   "hs": 0,
-   "as": 0,
-   "clock": "10'"
+   "hs": 2,
+   "as": 1,
+   "clock": "80'"
   }
  ],
  "results": [
