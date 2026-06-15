@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-15T01:40:42+00:00",
- "matchesCompleted": 11,
+ "generated": "2026-06-15T07:00:44+00:00",
+ "matchesCompleted": 12,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -139,7 +139,7 @@
    "points": 4,
    "w": 1,
    "d": 1,
-   "l": 0,
+   "l": 1,
    "alive": 6,
    "teams": [
     {
@@ -221,16 +221,21 @@
      "flag": "tn",
      "w": 0,
      "d": 0,
-     "l": 0,
-     "gf": 0,
-     "ga": 0,
+     "l": 1,
+     "gf": 1,
+     "ga": 5,
      "points": 0,
      "out": false,
      "next": {
-      "vs": "Sweden",
-      "date": "2026-06-15T02:00Z"
+      "vs": "Japan",
+      "date": "2026-06-21T04:00Z"
      },
-     "last": null
+     "last": {
+      "vs": "Sweden",
+      "score": "1-5",
+      "res": "L",
+      "detail": "FT"
+     }
     },
     {
      "display": "Norway",
@@ -253,8 +258,8 @@
   {
    "name": "Finley",
    "color": "#c9a227",
-   "points": 3,
-   "w": 1,
+   "points": 6,
+   "w": 2,
    "d": 0,
    "l": 1,
    "alive": 6,
@@ -315,18 +320,23 @@
     {
      "display": "Sweden",
      "flag": "se",
-     "w": 0,
+     "w": 1,
      "d": 0,
      "l": 0,
-     "gf": 0,
-     "ga": 0,
-     "points": 0,
+     "gf": 5,
+     "ga": 1,
+     "points": 3,
      "out": false,
      "next": {
-      "vs": "Tunisia",
-      "date": "2026-06-15T02:00Z"
+      "vs": "Netherlands",
+      "date": "2026-06-20T17:00Z"
      },
-     "last": null
+     "last": {
+      "vs": "Tunisia",
+      "score": "5-1",
+      "res": "W",
+      "detail": "FT"
+     }
     },
     {
      "display": "South Africa",
@@ -976,6 +986,19 @@
  "live": [],
  "results": [
   {
+   "date": "2026-06-15T02:00Z",
+   "round": "Group F",
+   "home": "Sweden",
+   "away": "Tunisia",
+   "homeFlag": "se",
+   "awayFlag": "tn",
+   "homeOwner": "Finley",
+   "awayOwner": "Dad",
+   "hs": 5,
+   "as": 1,
+   "detail": "FT"
+  },
+  {
    "date": "2026-06-14T23:00Z",
    "round": "Group E",
    "home": "Ivory Coast",
@@ -1121,16 +1144,6 @@
  ],
  "upcoming": [
   {
-   "date": "2026-06-15T02:00Z",
-   "round": "Group F",
-   "home": "Sweden",
-   "away": "Tunisia",
-   "homeFlag": "se",
-   "awayFlag": "tn",
-   "homeOwner": "Finley",
-   "awayOwner": "Dad"
-  },
-  {
    "date": "2026-06-15T16:00Z",
    "round": "Group H",
    "home": "Spain",
@@ -1199,6 +1212,16 @@
    "awayFlag": "dz",
    "homeOwner": "Keir",
    "awayOwner": "KTB"
+  },
+  {
+   "date": "2026-06-17T04:00Z",
+   "round": "Group J",
+   "home": "Austria",
+   "away": "Jordan",
+   "homeFlag": "at",
+   "awayFlag": "jo",
+   "homeOwner": "Keir",
+   "awayOwner": "Keir"
   }
  ]
 }
