@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-15T13:26:47+00:00",
- "matchesCompleted": 12,
+ "generated": "2026-06-15T18:16:11+00:00",
+ "matchesCompleted": 13,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -258,9 +258,9 @@
   {
    "name": "Finley",
    "color": "#c9a227",
-   "points": 6,
+   "points": 7,
    "w": 2,
-   "d": 0,
+   "d": 1,
    "l": 1,
    "alive": 6,
    "teams": [
@@ -305,17 +305,22 @@
      "display": "Spain",
      "flag": "es",
      "w": 0,
-     "d": 0,
+     "d": 1,
      "l": 0,
      "gf": 0,
      "ga": 0,
-     "points": 0,
+     "points": 1,
      "out": false,
      "next": {
-      "vs": "Cape Verde",
-      "date": "2026-06-15T16:00Z"
+      "vs": "Saudi Arabia",
+      "date": "2026-06-21T16:00Z"
      },
-     "last": null
+     "last": {
+      "vs": "Cape Verde",
+      "score": "0-0",
+      "res": "D",
+      "detail": "FT"
+     }
     },
     {
      "display": "Sweden",
@@ -380,9 +385,9 @@
   {
    "name": "Jasper",
    "color": "#5a3b8c",
-   "points": 6,
+   "points": 7,
    "w": 2,
-   "d": 0,
+   "d": 1,
    "l": 1,
    "alive": 6,
    "teams": [
@@ -485,17 +490,22 @@
      "display": "Cape Verde",
      "flag": "cv",
      "w": 0,
-     "d": 0,
+     "d": 1,
      "l": 0,
      "gf": 0,
      "ga": 0,
-     "points": 0,
+     "points": 1,
      "out": false,
      "next": {
-      "vs": "Spain",
-      "date": "2026-06-15T16:00Z"
+      "vs": "Uruguay",
+      "date": "2026-06-21T22:00Z"
      },
-     "last": null
+     "last": {
+      "vs": "Spain",
+      "score": "0-0",
+      "res": "D",
+      "detail": "FT"
+     }
     }
    ]
   },
@@ -986,6 +996,19 @@
  "live": [],
  "results": [
   {
+   "date": "2026-06-15T16:00Z",
+   "round": "Group H",
+   "home": "Spain",
+   "away": "Cape Verde",
+   "homeFlag": "es",
+   "awayFlag": "cv",
+   "homeOwner": "Finley",
+   "awayOwner": "Jasper",
+   "hs": 0,
+   "as": 0,
+   "detail": "FT"
+  },
+  {
    "date": "2026-06-15T02:00Z",
    "round": "Group F",
    "home": "Sweden",
@@ -1144,16 +1167,6 @@
  ],
  "upcoming": [
   {
-   "date": "2026-06-15T16:00Z",
-   "round": "Group H",
-   "home": "Spain",
-   "away": "Cape Verde",
-   "homeFlag": "es",
-   "awayFlag": "cv",
-   "homeOwner": "Finley",
-   "awayOwner": "Jasper"
-  },
-  {
    "date": "2026-06-15T19:00Z",
    "round": "Group G",
    "home": "Belgium",
@@ -1222,6 +1235,16 @@
    "awayFlag": "jo",
    "homeOwner": "Keir",
    "awayOwner": "Keir"
+  },
+  {
+   "date": "2026-06-17T17:00Z",
+   "round": "Group K",
+   "home": "Portugal",
+   "away": "DR Congo",
+   "homeFlag": "pt",
+   "awayFlag": "cd",
+   "homeOwner": "Louis",
+   "awayOwner": "Mum"
   }
  ]
 }
