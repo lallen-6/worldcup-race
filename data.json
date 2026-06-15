@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-14T22:50:31+00:00",
- "matchesCompleted": 10,
+ "generated": "2026-06-15T01:40:42+00:00",
+ "matchesCompleted": 11,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -253,8 +253,8 @@
   {
    "name": "Finley",
    "color": "#c9a227",
-   "points": 0,
-   "w": 0,
+   "points": 3,
+   "w": 1,
    "d": 0,
    "l": 1,
    "alive": 6,
@@ -278,18 +278,23 @@
     {
      "display": "Ivory Coast",
      "flag": "ci",
-     "w": 0,
+     "w": 1,
      "d": 0,
      "l": 0,
-     "gf": 0,
+     "gf": 1,
      "ga": 0,
-     "points": 0,
+     "points": 3,
      "out": false,
      "next": {
-      "vs": "Ecuador",
-      "date": "2026-06-14T23:00Z"
+      "vs": "Germany",
+      "date": "2026-06-20T20:00Z"
      },
-     "last": null
+     "last": {
+      "vs": "Ecuador",
+      "score": "1-0",
+      "res": "W",
+      "detail": "FT"
+     }
     },
     {
      "display": "Spain",
@@ -851,7 +856,7 @@
    "points": 1,
    "w": 0,
    "d": 1,
-   "l": 1,
+   "l": 2,
    "alive": 6,
    "teams": [
     {
@@ -928,16 +933,21 @@
      "flag": "ec",
      "w": 0,
      "d": 0,
-     "l": 0,
+     "l": 1,
      "gf": 0,
-     "ga": 0,
+     "ga": 1,
      "points": 0,
      "out": false,
      "next": {
-      "vs": "Ivory Coast",
-      "date": "2026-06-14T23:00Z"
+      "vs": "Curaçao",
+      "date": "2026-06-21T00:00Z"
      },
-     "last": null
+     "last": {
+      "vs": "Ivory Coast",
+      "score": "0-1",
+      "res": "L",
+      "detail": "FT"
+     }
     },
     {
      "display": "Paraguay",
@@ -965,6 +975,19 @@
  ],
  "live": [],
  "results": [
+  {
+   "date": "2026-06-14T23:00Z",
+   "round": "Group E",
+   "home": "Ivory Coast",
+   "away": "Ecuador",
+   "homeFlag": "ci",
+   "awayFlag": "ec",
+   "homeOwner": "Finley",
+   "awayOwner": "Mum",
+   "hs": 1,
+   "as": 0,
+   "detail": "FT"
+  },
   {
    "date": "2026-06-14T20:00Z",
    "round": "Group F",
@@ -1098,16 +1121,6 @@
  ],
  "upcoming": [
   {
-   "date": "2026-06-14T23:00Z",
-   "round": "Group E",
-   "home": "Ivory Coast",
-   "away": "Ecuador",
-   "homeFlag": "ci",
-   "awayFlag": "ec",
-   "homeOwner": "Finley",
-   "awayOwner": "Mum"
-  },
-  {
    "date": "2026-06-15T02:00Z",
    "round": "Group F",
    "home": "Sweden",
@@ -1176,6 +1189,16 @@
    "awayFlag": "no",
    "homeOwner": "Louis",
    "awayOwner": "Dad"
+  },
+  {
+   "date": "2026-06-17T01:00Z",
+   "round": "Group J",
+   "home": "Argentina",
+   "away": "Algeria",
+   "homeFlag": "ar",
+   "awayFlag": "dz",
+   "homeOwner": "Keir",
+   "awayOwner": "KTB"
   }
  ]
 }
