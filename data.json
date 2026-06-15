@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-15T18:16:11+00:00",
- "matchesCompleted": 13,
+ "generated": "2026-06-15T21:36:04+00:00",
+ "matchesCompleted": 14,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -136,9 +136,9 @@
   {
    "name": "Dad",
    "color": "#1f5fa8",
-   "points": 4,
+   "points": 5,
    "w": 1,
-   "d": 1,
+   "d": 2,
    "l": 1,
    "alive": 6,
    "teams": [
@@ -167,17 +167,22 @@
      "display": "Belgium",
      "flag": "be",
      "w": 0,
-     "d": 0,
+     "d": 1,
      "l": 0,
-     "gf": 0,
-     "ga": 0,
-     "points": 0,
+     "gf": 1,
+     "ga": 1,
+     "points": 1,
      "out": false,
      "next": {
-      "vs": "Egypt",
-      "date": "2026-06-15T19:00Z"
+      "vs": "Iran",
+      "date": "2026-06-21T19:00Z"
      },
-     "last": null
+     "last": {
+      "vs": "Egypt",
+      "score": "1-1",
+      "res": "D",
+      "detail": "FT"
+     }
     },
     {
      "display": "France",
@@ -258,9 +263,9 @@
   {
    "name": "Finley",
    "color": "#c9a227",
-   "points": 7,
+   "points": 8,
    "w": 2,
-   "d": 1,
+   "d": 2,
    "l": 1,
    "alive": 6,
    "teams": [
@@ -368,17 +373,22 @@
      "display": "Egypt",
      "flag": "eg",
      "w": 0,
-     "d": 0,
+     "d": 1,
      "l": 0,
-     "gf": 0,
-     "ga": 0,
-     "points": 0,
+     "gf": 1,
+     "ga": 1,
+     "points": 1,
      "out": false,
      "next": {
-      "vs": "Belgium",
-      "date": "2026-06-15T19:00Z"
+      "vs": "New Zealand",
+      "date": "2026-06-22T01:00Z"
      },
-     "last": null
+     "last": {
+      "vs": "Belgium",
+      "score": "1-1",
+      "res": "D",
+      "detail": "FT"
+     }
     }
    ]
   },
@@ -996,6 +1006,19 @@
  "live": [],
  "results": [
   {
+   "date": "2026-06-15T19:00Z",
+   "round": "Group G",
+   "home": "Belgium",
+   "away": "Egypt",
+   "homeFlag": "be",
+   "awayFlag": "eg",
+   "homeOwner": "Dad",
+   "awayOwner": "Finley",
+   "hs": 1,
+   "as": 1,
+   "detail": "FT"
+  },
+  {
    "date": "2026-06-15T16:00Z",
    "round": "Group H",
    "home": "Spain",
@@ -1167,16 +1190,6 @@
  ],
  "upcoming": [
   {
-   "date": "2026-06-15T19:00Z",
-   "round": "Group G",
-   "home": "Belgium",
-   "away": "Egypt",
-   "homeFlag": "be",
-   "awayFlag": "eg",
-   "homeOwner": "Dad",
-   "awayOwner": "Finley"
-  },
-  {
    "date": "2026-06-15T22:00Z",
    "round": "Group H",
    "home": "Saudi Arabia",
@@ -1245,6 +1258,16 @@
    "awayFlag": "cd",
    "homeOwner": "Louis",
    "awayOwner": "Mum"
+  },
+  {
+   "date": "2026-06-17T20:00Z",
+   "round": "Group L",
+   "home": "England",
+   "away": "Croatia",
+   "homeFlag": "gb-eng",
+   "awayFlag": "hr",
+   "homeOwner": "Jasper",
+   "awayOwner": "Finley"
   }
  ]
 }
