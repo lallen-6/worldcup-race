@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-16T21:18:56+00:00",
+ "generated": "2026-06-16T23:09:39+00:00",
  "matchesCompleted": 17,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -263,8 +263,8 @@
      "points": 0,
      "out": false,
      "next": {
-      "vs": "Iraq",
-      "date": "2026-06-16T22:00Z"
+      "vs": "Senegal",
+      "date": "2026-06-23T00:00Z"
      },
      "last": null
     }
@@ -882,8 +882,8 @@
      "points": 0,
      "out": false,
      "next": {
-      "vs": "Norway",
-      "date": "2026-06-16T22:00Z"
+      "vs": "France",
+      "date": "2026-06-22T21:00Z"
      },
      "last": null
     },
@@ -1033,7 +1033,21 @@
    ]
   }
  ],
- "live": [],
+ "live": [
+  {
+   "date": "2026-06-16T22:00Z",
+   "round": "Group I",
+   "home": "Iraq",
+   "away": "Norway",
+   "homeFlag": "iq",
+   "awayFlag": "no",
+   "homeOwner": "Louis",
+   "awayOwner": "Dad",
+   "hs": 1,
+   "as": 2,
+   "clock": "46'"
+  }
+ ],
  "results": [
   {
    "date": "2026-06-16T19:00Z",
@@ -1259,16 +1273,6 @@
  ],
  "upcoming": [
   {
-   "date": "2026-06-16T22:00Z",
-   "round": "Group I",
-   "home": "Iraq",
-   "away": "Norway",
-   "homeFlag": "iq",
-   "awayFlag": "no",
-   "homeOwner": "Louis",
-   "awayOwner": "Dad"
-  },
-  {
    "date": "2026-06-17T01:00Z",
    "round": "Group J",
    "home": "Argentina",
@@ -1347,6 +1351,16 @@
    "awayFlag": "ba",
    "homeOwner": "KTB",
    "awayOwner": "Mum"
+  },
+  {
+   "date": "2026-06-18T22:00Z",
+   "round": "Group B",
+   "home": "Canada",
+   "away": "Qatar",
+   "homeFlag": "ca",
+   "awayFlag": "qa",
+   "homeOwner": "Beth",
+   "awayOwner": "Louis"
   }
  ]
 }
