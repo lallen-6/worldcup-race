@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-16T02:12:26+00:00",
- "matchesCompleted": 15,
+ "generated": "2026-06-16T07:44:08+00:00",
+ "matchesCompleted": 16,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -400,9 +400,9 @@
   {
    "name": "Jasper",
    "color": "#5a3b8c",
-   "points": 7,
+   "points": 8,
    "w": 2,
-   "d": 1,
+   "d": 2,
    "l": 1,
    "alive": 6,
    "teams": [
@@ -468,17 +468,22 @@
      "display": "New Zealand",
      "flag": "nz",
      "w": 0,
-     "d": 0,
+     "d": 1,
      "l": 0,
-     "gf": 0,
-     "ga": 0,
-     "points": 0,
+     "gf": 2,
+     "ga": 2,
+     "points": 1,
      "out": false,
      "next": {
       "vs": "Egypt",
       "date": "2026-06-22T01:00Z"
      },
-     "last": null
+     "last": {
+      "vs": "Iran",
+      "score": "2-2",
+      "res": "D",
+      "detail": "FT"
+     }
     },
     {
      "display": "Mexico",
@@ -527,9 +532,9 @@
   {
    "name": "KTB",
    "color": "#2a8c82",
-   "points": 4,
+   "points": 5,
    "w": 1,
-   "d": 1,
+   "d": 2,
    "l": 0,
    "alive": 6,
    "teams": [
@@ -590,17 +595,22 @@
      "display": "Iran",
      "flag": "ir",
      "w": 0,
-     "d": 0,
+     "d": 1,
      "l": 0,
-     "gf": 0,
-     "ga": 0,
-     "points": 0,
+     "gf": 2,
+     "ga": 2,
+     "points": 1,
      "out": false,
      "next": {
       "vs": "Belgium",
       "date": "2026-06-21T19:00Z"
      },
-     "last": null
+     "last": {
+      "vs": "New Zealand",
+      "score": "2-2",
+      "res": "D",
+      "detail": "FT"
+     }
     },
     {
      "display": "Switzerland",
@@ -1013,7 +1023,8 @@
    ]
   }
  ],
- "live": [
+ "live": [],
+ "results": [
   {
    "date": "2026-06-16T01:00Z",
    "round": "Group G",
@@ -1023,12 +1034,10 @@
    "awayFlag": "nz",
    "homeOwner": "KTB",
    "awayOwner": "Jasper",
-   "hs": 1,
-   "as": 1,
-   "clock": "45'+7'"
-  }
- ],
- "results": [
+   "hs": 2,
+   "as": 2,
+   "detail": "FT"
+  },
   {
    "date": "2026-06-15T22:00Z",
    "round": "Group H",
