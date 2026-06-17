@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-17T20:55:46+00:00",
- "matchesCompleted": 21,
+ "generated": "2026-06-17T22:52:57+00:00",
+ "matchesCompleted": 22,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -281,7 +281,7 @@
    "points": 8,
    "w": 2,
    "d": 2,
-   "l": 1,
+   "l": 2,
    "alive": 6,
    "teams": [
     {
@@ -289,16 +289,21 @@
      "flag": "hr",
      "w": 0,
      "d": 0,
-     "l": 0,
-     "gf": 0,
-     "ga": 0,
+     "l": 1,
+     "gf": 2,
+     "ga": 4,
      "points": 0,
      "out": false,
      "next": {
       "vs": "Panama",
       "date": "2026-06-23T23:00Z"
      },
-     "last": null
+     "last": {
+      "vs": "England",
+      "score": "2-4",
+      "res": "L",
+      "detail": "FT"
+     }
     },
     {
      "display": "Ivory Coast",
@@ -410,8 +415,8 @@
   {
    "name": "Jasper",
    "color": "#5a3b8c",
-   "points": 8,
-   "w": 2,
+   "points": 11,
+   "w": 3,
    "d": 2,
    "l": 1,
    "alive": 6,
@@ -461,18 +466,23 @@
     {
      "display": "England",
      "flag": "gb-eng",
-     "w": 0,
+     "w": 1,
      "d": 0,
      "l": 0,
-     "gf": 0,
-     "ga": 0,
-     "points": 0,
+     "gf": 4,
+     "ga": 2,
+     "points": 3,
      "out": false,
      "next": {
       "vs": "Ghana",
       "date": "2026-06-23T20:00Z"
      },
-     "last": null
+     "last": {
+      "vs": "Croatia",
+      "score": "4-2",
+      "res": "W",
+      "detail": "FT"
+     }
     },
     {
      "display": "New Zealand",
@@ -1073,7 +1083,8 @@
    ]
   }
  ],
- "live": [
+ "live": [],
+ "results": [
   {
    "date": "2026-06-17T20:00Z",
    "round": "Group L",
@@ -1083,12 +1094,10 @@
    "awayFlag": "hr",
    "homeOwner": "Jasper",
    "awayOwner": "Finley",
-   "hs": 2,
+   "hs": 4,
    "as": 2,
-   "clock": "45'+6'"
-  }
- ],
- "results": [
+   "detail": "FT"
+  },
   {
    "date": "2026-06-17T17:00Z",
    "round": "Group K",
@@ -1433,6 +1442,16 @@
    "awayFlag": "au",
    "homeOwner": "Beth",
    "awayOwner": "Keir"
+  },
+  {
+   "date": "2026-06-19T22:00Z",
+   "round": "Group C",
+   "home": "Scotland",
+   "away": "Morocco",
+   "homeFlag": "gb-sct",
+   "awayFlag": "ma",
+   "homeOwner": "Jasper",
+   "awayOwner": "Beth"
   }
  ]
 }
