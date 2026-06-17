@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-17T18:33:34+00:00",
- "matchesCompleted": 20,
+ "generated": "2026-06-17T20:55:46+00:00",
+ "matchesCompleted": 21,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -295,8 +295,8 @@
      "points": 0,
      "out": false,
      "next": {
-      "vs": "England",
-      "date": "2026-06-17T20:00Z"
+      "vs": "Panama",
+      "date": "2026-06-23T23:00Z"
      },
      "last": null
     },
@@ -469,8 +469,8 @@
      "points": 0,
      "out": false,
      "next": {
-      "vs": "Croatia",
-      "date": "2026-06-17T20:00Z"
+      "vs": "Ghana",
+      "date": "2026-06-23T20:00Z"
      },
      "last": null
     },
@@ -806,9 +806,9 @@
   {
    "name": "Louis",
    "color": "#3d7a2e",
-   "points": 1,
+   "points": 2,
    "w": 0,
-   "d": 1,
+   "d": 2,
    "l": 4,
    "alive": 6,
    "teams": [
@@ -921,26 +921,31 @@
      "display": "Portugal",
      "flag": "pt",
      "w": 0,
-     "d": 0,
+     "d": 1,
      "l": 0,
-     "gf": 0,
-     "ga": 0,
-     "points": 0,
+     "gf": 1,
+     "ga": 1,
+     "points": 1,
      "out": false,
      "next": {
       "vs": "Uzbekistan",
       "date": "2026-06-23T17:00Z"
      },
-     "last": null
+     "last": {
+      "vs": "DR Congo",
+      "score": "1-1",
+      "res": "D",
+      "detail": "FT"
+     }
     }
    ]
   },
   {
    "name": "Mum",
    "color": "#d77f2f",
-   "points": 2,
+   "points": 3,
    "w": 0,
-   "d": 2,
+   "d": 3,
    "l": 2,
    "alive": 6,
    "teams": [
@@ -969,17 +974,22 @@
      "display": "DR Congo",
      "flag": "cd",
      "w": 0,
-     "d": 0,
+     "d": 1,
      "l": 0,
-     "gf": 0,
-     "ga": 0,
-     "points": 0,
+     "gf": 1,
+     "ga": 1,
+     "points": 1,
      "out": false,
      "next": {
       "vs": "Colombia",
       "date": "2026-06-24T02:00Z"
      },
-     "last": null
+     "last": {
+      "vs": "Portugal",
+      "score": "1-1",
+      "res": "D",
+      "detail": "FT"
+     }
     },
     {
      "display": "Uzbekistan",
@@ -1065,6 +1075,21 @@
  ],
  "live": [
   {
+   "date": "2026-06-17T20:00Z",
+   "round": "Group L",
+   "home": "England",
+   "away": "Croatia",
+   "homeFlag": "gb-eng",
+   "awayFlag": "hr",
+   "homeOwner": "Jasper",
+   "awayOwner": "Finley",
+   "hs": 2,
+   "as": 2,
+   "clock": "45'+6'"
+  }
+ ],
+ "results": [
+  {
    "date": "2026-06-17T17:00Z",
    "round": "Group K",
    "home": "Portugal",
@@ -1075,10 +1100,8 @@
    "awayOwner": "Mum",
    "hs": 1,
    "as": 1,
-   "clock": "70'"
-  }
- ],
- "results": [
+   "detail": "FT"
+  },
   {
    "date": "2026-06-17T04:00Z",
    "round": "Group J",
@@ -1342,16 +1365,6 @@
  ],
  "upcoming": [
   {
-   "date": "2026-06-17T20:00Z",
-   "round": "Group L",
-   "home": "England",
-   "away": "Croatia",
-   "homeFlag": "gb-eng",
-   "awayFlag": "hr",
-   "homeOwner": "Jasper",
-   "awayOwner": "Finley"
-  },
-  {
    "date": "2026-06-17T23:00Z",
    "round": "Group L",
    "home": "Ghana",
@@ -1410,6 +1423,16 @@
    "awayFlag": "kr",
    "homeOwner": "Jasper",
    "awayOwner": "KTB"
+  },
+  {
+   "date": "2026-06-19T19:00Z",
+   "round": "Group D",
+   "home": "USA",
+   "away": "Australia",
+   "homeFlag": "us",
+   "awayFlag": "au",
+   "homeOwner": "Beth",
+   "awayOwner": "Keir"
   }
  ]
 }
