@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-17T01:40:53+00:00",
- "matchesCompleted": 18,
+ "generated": "2026-06-17T06:50:40+00:00",
+ "matchesCompleted": 20,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -545,7 +545,7 @@
    "points": 5,
    "w": 1,
    "d": 2,
-   "l": 1,
+   "l": 2,
    "alive": 6,
    "teams": [
     {
@@ -574,16 +574,21 @@
      "flag": "dz",
      "w": 0,
      "d": 0,
-     "l": 0,
+     "l": 1,
      "gf": 0,
-     "ga": 0,
+     "ga": 3,
      "points": 0,
      "out": false,
      "next": {
       "vs": "Jordan",
       "date": "2026-06-23T03:00Z"
      },
-     "last": null
+     "last": {
+      "vs": "Argentina",
+      "score": "0-3",
+      "res": "L",
+      "detail": "FT"
+     }
     },
     {
      "display": "Colombia",
@@ -669,10 +674,10 @@
   {
    "name": "Keir",
    "color": "#b03a5b",
-   "points": 4,
-   "w": 1,
+   "points": 10,
+   "w": 3,
    "d": 1,
-   "l": 0,
+   "l": 1,
    "alive": 6,
    "teams": [
     {
@@ -699,34 +704,44 @@
     {
      "display": "Argentina",
      "flag": "ar",
-     "w": 0,
+     "w": 1,
      "d": 0,
      "l": 0,
-     "gf": 0,
+     "gf": 3,
      "ga": 0,
-     "points": 0,
+     "points": 3,
      "out": false,
      "next": {
       "vs": "Austria",
       "date": "2026-06-22T17:00Z"
      },
-     "last": null
+     "last": {
+      "vs": "Algeria",
+      "score": "3-0",
+      "res": "W",
+      "detail": "FT"
+     }
     },
     {
      "display": "Jordan",
      "flag": "jo",
      "w": 0,
      "d": 0,
-     "l": 0,
-     "gf": 0,
-     "ga": 0,
+     "l": 1,
+     "gf": 1,
+     "ga": 3,
      "points": 0,
      "out": false,
      "next": {
-      "vs": "Austria",
-      "date": "2026-06-17T04:00Z"
+      "vs": "Algeria",
+      "date": "2026-06-23T03:00Z"
      },
-     "last": null
+     "last": {
+      "vs": "Austria",
+      "score": "1-3",
+      "res": "L",
+      "detail": "FT"
+     }
     },
     {
      "display": "Panama",
@@ -747,18 +762,23 @@
     {
      "display": "Austria",
      "flag": "at",
-     "w": 0,
+     "w": 1,
      "d": 0,
      "l": 0,
-     "gf": 0,
-     "ga": 0,
-     "points": 0,
+     "gf": 3,
+     "ga": 1,
+     "points": 3,
      "out": false,
      "next": {
-      "vs": "Jordan",
-      "date": "2026-06-17T04:00Z"
+      "vs": "Argentina",
+      "date": "2026-06-22T17:00Z"
      },
-     "last": null
+     "last": {
+      "vs": "Jordan",
+      "score": "3-1",
+      "res": "W",
+      "detail": "FT"
+     }
     },
     {
      "display": "Brazil",
@@ -1043,7 +1063,21 @@
    ]
   }
  ],
- "live": [
+ "live": [],
+ "results": [
+  {
+   "date": "2026-06-17T04:00Z",
+   "round": "Group J",
+   "home": "Austria",
+   "away": "Jordan",
+   "homeFlag": "at",
+   "awayFlag": "jo",
+   "homeOwner": "Keir",
+   "awayOwner": "Keir",
+   "hs": 3,
+   "as": 1,
+   "detail": "FT"
+  },
   {
    "date": "2026-06-17T01:00Z",
    "round": "Group J",
@@ -1053,12 +1087,10 @@
    "awayFlag": "dz",
    "homeOwner": "Keir",
    "awayOwner": "KTB",
-   "hs": 1,
+   "hs": 3,
    "as": 0,
-   "clock": "38'"
-  }
- ],
- "results": [
+   "detail": "FT"
+  },
   {
    "date": "2026-06-16T22:00Z",
    "round": "Group I",
@@ -1295,16 +1327,6 @@
   }
  ],
  "upcoming": [
-  {
-   "date": "2026-06-17T04:00Z",
-   "round": "Group J",
-   "home": "Austria",
-   "away": "Jordan",
-   "homeFlag": "at",
-   "awayFlag": "jo",
-   "homeOwner": "Keir",
-   "awayOwner": "Keir"
-  },
   {
    "date": "2026-06-17T17:00Z",
    "round": "Group K",
