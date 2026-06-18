@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-17T22:52:57+00:00",
- "matchesCompleted": 22,
+ "generated": "2026-06-18T01:41:11+00:00",
+ "matchesCompleted": 23,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -9,8 +9,8 @@
   {
    "name": "Beth",
    "color": "#d94f30",
-   "points": 7,
-   "w": 1,
+   "points": 10,
+   "w": 2,
    "d": 4,
    "l": 0,
    "alive": 6,
@@ -102,18 +102,23 @@
     {
      "display": "Ghana",
      "flag": "gh",
-     "w": 0,
+     "w": 1,
      "d": 0,
      "l": 0,
-     "gf": 0,
+     "gf": 1,
      "ga": 0,
-     "points": 0,
+     "points": 3,
      "out": false,
      "next": {
-      "vs": "Panama",
-      "date": "2026-06-17T23:00Z"
+      "vs": "England",
+      "date": "2026-06-23T20:00Z"
      },
-     "last": null
+     "last": {
+      "vs": "Panama",
+      "score": "1-0",
+      "res": "W",
+      "detail": "FT"
+     }
     },
     {
      "display": "Saudi Arabia",
@@ -687,7 +692,7 @@
    "points": 10,
    "w": 3,
    "d": 1,
-   "l": 1,
+   "l": 2,
    "alive": 6,
    "teams": [
     {
@@ -758,16 +763,21 @@
      "flag": "pa",
      "w": 0,
      "d": 0,
-     "l": 0,
+     "l": 1,
      "gf": 0,
-     "ga": 0,
+     "ga": 1,
      "points": 0,
      "out": false,
      "next": {
-      "vs": "Ghana",
-      "date": "2026-06-17T23:00Z"
+      "vs": "Croatia",
+      "date": "2026-06-23T23:00Z"
      },
-     "last": null
+     "last": {
+      "vs": "Ghana",
+      "score": "0-1",
+      "res": "L",
+      "detail": "FT"
+     }
     },
     {
      "display": "Austria",
@@ -1086,6 +1096,19 @@
  "live": [],
  "results": [
   {
+   "date": "2026-06-17T23:00Z",
+   "round": "Group L",
+   "home": "Ghana",
+   "away": "Panama",
+   "homeFlag": "gh",
+   "awayFlag": "pa",
+   "homeOwner": "Beth",
+   "awayOwner": "Keir",
+   "hs": 1,
+   "as": 0,
+   "detail": "FT"
+  },
+  {
    "date": "2026-06-17T20:00Z",
    "round": "Group L",
    "home": "England",
@@ -1374,16 +1397,6 @@
  ],
  "upcoming": [
   {
-   "date": "2026-06-17T23:00Z",
-   "round": "Group L",
-   "home": "Ghana",
-   "away": "Panama",
-   "homeFlag": "gh",
-   "awayFlag": "pa",
-   "homeOwner": "Beth",
-   "awayOwner": "Keir"
-  },
-  {
    "date": "2026-06-18T02:00Z",
    "round": "Group K",
    "home": "Uzbekistan",
@@ -1452,6 +1465,16 @@
    "awayFlag": "ma",
    "homeOwner": "Jasper",
    "awayOwner": "Beth"
+  },
+  {
+   "date": "2026-06-20T00:30Z",
+   "round": "Group C",
+   "home": "Brazil",
+   "away": "Haiti",
+   "homeFlag": "br",
+   "awayFlag": "ht",
+   "homeOwner": "Keir",
+   "awayOwner": "Louis"
   }
  ]
 }
