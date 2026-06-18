@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-18T14:22:03+00:00",
+ "generated": "2026-06-18T17:47:51+00:00",
  "matchesCompleted": 24,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -384,8 +384,8 @@
      "points": 0,
      "out": false,
      "next": {
-      "vs": "Czech Republic",
-      "date": "2026-06-18T16:00Z"
+      "vs": "South Korea",
+      "date": "2026-06-25T01:00Z"
      },
      "last": {
       "vs": "Mexico",
@@ -911,8 +911,8 @@
      "points": 0,
      "out": false,
      "next": {
-      "vs": "South Africa",
-      "date": "2026-06-18T16:00Z"
+      "vs": "Mexico",
+      "date": "2026-06-25T01:00Z"
      },
      "last": {
       "vs": "South Korea",
@@ -1103,7 +1103,21 @@
    ]
   }
  ],
- "live": [],
+ "live": [
+  {
+   "date": "2026-06-18T16:00Z",
+   "round": "Group A",
+   "home": "Czech Republic",
+   "away": "South Africa",
+   "homeFlag": "cz",
+   "awayFlag": "za",
+   "homeOwner": "Louis",
+   "awayOwner": "Finley",
+   "hs": 1,
+   "as": 1,
+   "clock": "86'"
+  }
+ ],
  "results": [
   {
    "date": "2026-06-18T02:00Z",
@@ -1420,16 +1434,6 @@
  ],
  "upcoming": [
   {
-   "date": "2026-06-18T16:00Z",
-   "round": "Group A",
-   "home": "Czech Republic",
-   "away": "South Africa",
-   "homeFlag": "cz",
-   "awayFlag": "za",
-   "homeOwner": "Louis",
-   "awayOwner": "Finley"
-  },
-  {
    "date": "2026-06-18T19:00Z",
    "round": "Group B",
    "home": "Switzerland",
@@ -1498,6 +1502,16 @@
    "awayFlag": "py",
    "homeOwner": "Jasper",
    "awayOwner": "Mum"
+  },
+  {
+   "date": "2026-06-20T17:00Z",
+   "round": "Group F",
+   "home": "Netherlands",
+   "away": "Sweden",
+   "homeFlag": "nl",
+   "awayFlag": "se",
+   "homeOwner": "Dad",
+   "awayOwner": "Finley"
   }
  ]
 }
