@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-18T17:47:51+00:00",
- "matchesCompleted": 24,
+ "generated": "2026-06-18T20:38:12+00:00",
+ "matchesCompleted": 25,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -283,9 +283,9 @@
   {
    "name": "Finley",
    "color": "#c9a227",
-   "points": 8,
+   "points": 9,
    "w": 2,
-   "d": 2,
+   "d": 3,
    "l": 2,
    "alive": 6,
    "teams": [
@@ -377,20 +377,20 @@
      "display": "South Africa",
      "flag": "za",
      "w": 0,
-     "d": 0,
+     "d": 1,
      "l": 1,
-     "gf": 0,
-     "ga": 2,
-     "points": 0,
+     "gf": 1,
+     "ga": 3,
+     "points": 1,
      "out": false,
      "next": {
       "vs": "South Korea",
       "date": "2026-06-25T01:00Z"
      },
      "last": {
-      "vs": "Mexico",
-      "score": "0-2",
-      "res": "L",
+      "vs": "Czech Republic",
+      "score": "1-1",
+      "res": "D",
       "detail": "FT"
      }
     },
@@ -658,8 +658,8 @@
      "points": 1,
      "out": false,
      "next": {
-      "vs": "Bosnia",
-      "date": "2026-06-18T19:00Z"
+      "vs": "Canada",
+      "date": "2026-06-24T19:00Z"
      },
      "last": {
       "vs": "Qatar",
@@ -831,9 +831,9 @@
   {
    "name": "Louis",
    "color": "#3d7a2e",
-   "points": 2,
+   "points": 3,
    "w": 0,
-   "d": 2,
+   "d": 3,
    "l": 4,
    "alive": 6,
    "teams": [
@@ -904,20 +904,20 @@
      "display": "Czech Republic",
      "flag": "cz",
      "w": 0,
-     "d": 0,
+     "d": 1,
      "l": 1,
-     "gf": 1,
-     "ga": 2,
-     "points": 0,
+     "gf": 2,
+     "ga": 3,
+     "points": 1,
      "out": false,
      "next": {
       "vs": "Mexico",
       "date": "2026-06-25T01:00Z"
      },
      "last": {
-      "vs": "South Korea",
-      "score": "1-2",
-      "res": "L",
+      "vs": "South Africa",
+      "score": "1-1",
+      "res": "D",
       "detail": "FT"
      }
     },
@@ -985,8 +985,8 @@
      "points": 1,
      "out": false,
      "next": {
-      "vs": "Switzerland",
-      "date": "2026-06-18T19:00Z"
+      "vs": "Qatar",
+      "date": "2026-06-24T19:00Z"
      },
      "last": {
       "vs": "Canada",
@@ -1105,6 +1105,21 @@
  ],
  "live": [
   {
+   "date": "2026-06-18T19:00Z",
+   "round": "Group B",
+   "home": "Switzerland",
+   "away": "Bosnia",
+   "homeFlag": "ch",
+   "awayFlag": "ba",
+   "homeOwner": "KTB",
+   "awayOwner": "Mum",
+   "hs": 1,
+   "as": 0,
+   "clock": "79'"
+  }
+ ],
+ "results": [
+  {
    "date": "2026-06-18T16:00Z",
    "round": "Group A",
    "home": "Czech Republic",
@@ -1115,10 +1130,8 @@
    "awayOwner": "Finley",
    "hs": 1,
    "as": 1,
-   "clock": "86'"
-  }
- ],
- "results": [
+   "detail": "FT"
+  },
   {
    "date": "2026-06-18T02:00Z",
    "round": "Group K",
@@ -1434,16 +1447,6 @@
  ],
  "upcoming": [
   {
-   "date": "2026-06-18T19:00Z",
-   "round": "Group B",
-   "home": "Switzerland",
-   "away": "Bosnia",
-   "homeFlag": "ch",
-   "awayFlag": "ba",
-   "homeOwner": "KTB",
-   "awayOwner": "Mum"
-  },
-  {
    "date": "2026-06-18T22:00Z",
    "round": "Group B",
    "home": "Canada",
@@ -1510,6 +1513,16 @@
    "away": "Sweden",
    "homeFlag": "nl",
    "awayFlag": "se",
+   "homeOwner": "Dad",
+   "awayOwner": "Finley"
+  },
+  {
+   "date": "2026-06-20T20:00Z",
+   "round": "Group E",
+   "home": "Germany",
+   "away": "Ivory Coast",
+   "homeFlag": "de",
+   "awayFlag": "ci",
    "homeOwner": "Dad",
    "awayOwner": "Finley"
   }
