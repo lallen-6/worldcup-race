@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-19T21:49:09+00:00",
+ "generated": "2026-06-19T23:13:48+00:00",
  "matchesCompleted": 29,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -68,8 +68,8 @@
      "points": 1,
      "out": false,
      "next": {
-      "vs": "Scotland",
-      "date": "2026-06-19T22:00Z"
+      "vs": "Haiti",
+      "date": "2026-06-24T22:00Z"
      },
      "last": {
       "vs": "Brazil",
@@ -458,8 +458,8 @@
      "points": 3,
      "out": false,
      "next": {
-      "vs": "Morocco",
-      "date": "2026-06-19T22:00Z"
+      "vs": "Brazil",
+      "date": "2026-06-24T22:00Z"
      },
      "last": {
       "vs": "Haiti",
@@ -1103,7 +1103,21 @@
    ]
   }
  ],
- "live": [],
+ "live": [
+  {
+   "date": "2026-06-19T22:00Z",
+   "round": "Group C",
+   "home": "Scotland",
+   "away": "Morocco",
+   "homeFlag": "gb-sct",
+   "awayFlag": "ma",
+   "homeOwner": "Jasper",
+   "awayOwner": "Beth",
+   "hs": 0,
+   "as": 1,
+   "clock": "51'"
+  }
+ ],
  "results": [
   {
    "date": "2026-06-19T19:00Z",
@@ -1485,16 +1499,6 @@
  ],
  "upcoming": [
   {
-   "date": "2026-06-19T22:00Z",
-   "round": "Group C",
-   "home": "Scotland",
-   "away": "Morocco",
-   "homeFlag": "gb-sct",
-   "awayFlag": "ma",
-   "homeOwner": "Jasper",
-   "awayOwner": "Beth"
-  },
-  {
    "date": "2026-06-20T00:30Z",
    "round": "Group C",
    "home": "Brazil",
@@ -1573,6 +1577,16 @@
    "awayFlag": "ir",
    "homeOwner": "Dad",
    "awayOwner": "KTB"
+  },
+  {
+   "date": "2026-06-21T22:00Z",
+   "round": "Group H",
+   "home": "Uruguay",
+   "away": "Cape Verde",
+   "homeFlag": "uy",
+   "awayFlag": "cv",
+   "homeOwner": "Mum",
+   "awayOwner": "Jasper"
   }
  ]
 }
