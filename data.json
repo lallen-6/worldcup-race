@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-19T18:22:04+00:00",
+ "generated": "2026-06-19T20:21:09+00:00",
  "matchesCompleted": 28,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -47,8 +47,8 @@
      "points": 3,
      "out": false,
      "next": {
-      "vs": "Australia",
-      "date": "2026-06-19T19:00Z"
+      "vs": "Turkey",
+      "date": "2026-06-26T02:00Z"
      },
      "last": {
       "vs": "Paraguay",
@@ -711,8 +711,8 @@
      "points": 3,
      "out": false,
      "next": {
-      "vs": "USA",
-      "date": "2026-06-19T19:00Z"
+      "vs": "Paraguay",
+      "date": "2026-06-26T02:00Z"
      },
      "last": {
       "vs": "Turkey",
@@ -1103,7 +1103,21 @@
    ]
   }
  ],
- "live": [],
+ "live": [
+  {
+   "date": "2026-06-19T19:00Z",
+   "round": "Group D",
+   "home": "USA",
+   "away": "Australia",
+   "homeFlag": "us",
+   "awayFlag": "au",
+   "homeOwner": "Beth",
+   "awayOwner": "Keir",
+   "hs": 2,
+   "as": 0,
+   "clock": "55'"
+  }
+ ],
  "results": [
   {
    "date": "2026-06-19T01:00Z",
@@ -1472,16 +1486,6 @@
  ],
  "upcoming": [
   {
-   "date": "2026-06-19T19:00Z",
-   "round": "Group D",
-   "home": "USA",
-   "away": "Australia",
-   "homeFlag": "us",
-   "awayFlag": "au",
-   "homeOwner": "Beth",
-   "awayOwner": "Keir"
-  },
-  {
    "date": "2026-06-19T22:00Z",
    "round": "Group C",
    "home": "Scotland",
@@ -1560,6 +1564,16 @@
    "awayFlag": "sa",
    "homeOwner": "Finley",
    "awayOwner": "Beth"
+  },
+  {
+   "date": "2026-06-21T19:00Z",
+   "round": "Group G",
+   "home": "Belgium",
+   "away": "Iran",
+   "homeFlag": "be",
+   "awayFlag": "ir",
+   "homeOwner": "Dad",
+   "awayOwner": "KTB"
   }
  ]
 }
