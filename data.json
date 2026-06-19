@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-19T00:14:33+00:00",
- "matchesCompleted": 27,
+ "generated": "2026-06-19T05:27:43+00:00",
+ "matchesCompleted": 28,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -420,8 +420,8 @@
   {
    "name": "Jasper",
    "color": "#5a3b8c",
-   "points": 11,
-   "w": 3,
+   "points": 14,
+   "w": 4,
    "d": 2,
    "l": 1,
    "alive": 6,
@@ -513,20 +513,20 @@
     {
      "display": "Mexico",
      "flag": "mx",
-     "w": 1,
+     "w": 2,
      "d": 0,
      "l": 0,
-     "gf": 2,
+     "gf": 3,
      "ga": 0,
-     "points": 3,
+     "points": 6,
      "out": false,
      "next": {
-      "vs": "South Korea",
-      "date": "2026-06-19T01:00Z"
+      "vs": "Czech Republic",
+      "date": "2026-06-25T01:00Z"
      },
      "last": {
-      "vs": "South Africa",
-      "score": "2-0",
+      "vs": "South Korea",
+      "score": "1-0",
       "res": "W",
       "detail": "FT"
      }
@@ -560,7 +560,7 @@
    "points": 11,
    "w": 3,
    "d": 2,
-   "l": 2,
+   "l": 3,
    "alive": 6,
    "teams": [
     {
@@ -568,19 +568,19 @@
      "flag": "kr",
      "w": 1,
      "d": 0,
-     "l": 0,
+     "l": 1,
      "gf": 2,
-     "ga": 1,
+     "ga": 2,
      "points": 3,
      "out": false,
      "next": {
-      "vs": "Mexico",
-      "date": "2026-06-19T01:00Z"
+      "vs": "South Africa",
+      "date": "2026-06-25T01:00Z"
      },
      "last": {
-      "vs": "Czech Republic",
-      "score": "2-1",
-      "res": "W",
+      "vs": "Mexico",
+      "score": "0-1",
+      "res": "L",
       "detail": "FT"
      }
     },
@@ -1106,6 +1106,19 @@
  "live": [],
  "results": [
   {
+   "date": "2026-06-19T01:00Z",
+   "round": "Group A",
+   "home": "Mexico",
+   "away": "South Korea",
+   "homeFlag": "mx",
+   "awayFlag": "kr",
+   "homeOwner": "Jasper",
+   "awayOwner": "KTB",
+   "hs": 1,
+   "as": 0,
+   "detail": "FT"
+  },
+  {
    "date": "2026-06-18T22:00Z",
    "round": "Group B",
    "home": "Canada",
@@ -1459,16 +1472,6 @@
  ],
  "upcoming": [
   {
-   "date": "2026-06-19T01:00Z",
-   "round": "Group A",
-   "home": "Mexico",
-   "away": "South Korea",
-   "homeFlag": "mx",
-   "awayFlag": "kr",
-   "homeOwner": "Jasper",
-   "awayOwner": "KTB"
-  },
-  {
    "date": "2026-06-19T19:00Z",
    "round": "Group D",
    "home": "USA",
@@ -1537,6 +1540,16 @@
    "awayFlag": "cw",
    "homeOwner": "Mum",
    "awayOwner": "Louis"
+  },
+  {
+   "date": "2026-06-21T04:00Z",
+   "round": "Group F",
+   "home": "Tunisia",
+   "away": "Japan",
+   "homeFlag": "tn",
+   "awayFlag": "jp",
+   "homeOwner": "Dad",
+   "awayOwner": "Beth"
   }
  ]
 }
