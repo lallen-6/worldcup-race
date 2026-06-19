@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-19T13:49:27+00:00",
+ "generated": "2026-06-19T16:40:43+00:00",
  "matchesCompleted": 28,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -1549,6 +1549,16 @@
    "homeFlag": "tn",
    "awayFlag": "jp",
    "homeOwner": "Dad",
+   "awayOwner": "Beth"
+  },
+  {
+   "date": "2026-06-21T16:00Z",
+   "round": "Group H",
+   "home": "Spain",
+   "away": "Saudi Arabia",
+   "homeFlag": "es",
+   "awayFlag": "sa",
+   "homeOwner": "Finley",
    "awayOwner": "Beth"
   }
  ]
