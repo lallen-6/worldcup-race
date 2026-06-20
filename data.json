@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-20T16:53:23+00:00",
+ "generated": "2026-06-20T18:44:56+00:00",
  "matchesCompleted": 32,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -226,8 +226,8 @@
      "points": 1,
      "out": false,
      "next": {
-      "vs": "Sweden",
-      "date": "2026-06-20T17:00Z"
+      "vs": "Tunisia",
+      "date": "2026-06-25T23:00Z"
      },
      "last": {
       "vs": "Japan",
@@ -363,8 +363,8 @@
      "points": 3,
      "out": false,
      "next": {
-      "vs": "Netherlands",
-      "date": "2026-06-20T17:00Z"
+      "vs": "Japan",
+      "date": "2026-06-25T23:00Z"
      },
      "last": {
       "vs": "Tunisia",
@@ -1103,7 +1103,21 @@
    ]
   }
  ],
- "live": [],
+ "live": [
+  {
+   "date": "2026-06-20T17:00Z",
+   "round": "Group F",
+   "home": "Netherlands",
+   "away": "Sweden",
+   "homeFlag": "nl",
+   "awayFlag": "se",
+   "homeOwner": "Dad",
+   "awayOwner": "Finley",
+   "hs": 4,
+   "as": 1,
+   "clock": "84'"
+  }
+ ],
  "results": [
   {
    "date": "2026-06-20T03:00Z",
@@ -1524,16 +1538,6 @@
  ],
  "upcoming": [
   {
-   "date": "2026-06-20T17:00Z",
-   "round": "Group F",
-   "home": "Netherlands",
-   "away": "Sweden",
-   "homeFlag": "nl",
-   "awayFlag": "se",
-   "homeOwner": "Dad",
-   "awayOwner": "Finley"
-  },
-  {
    "date": "2026-06-20T20:00Z",
    "round": "Group E",
    "home": "Germany",
@@ -1602,6 +1606,16 @@
    "awayFlag": "eg",
    "homeOwner": "Jasper",
    "awayOwner": "Finley"
+  },
+  {
+   "date": "2026-06-22T17:00Z",
+   "round": "Group J",
+   "home": "Argentina",
+   "away": "Austria",
+   "homeFlag": "ar",
+   "awayFlag": "at",
+   "homeOwner": "Keir",
+   "awayOwner": "Keir"
   }
  ]
 }
