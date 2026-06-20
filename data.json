@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-20T01:30:24+00:00",
- "matchesCompleted": 30,
+ "generated": "2026-06-20T06:02:45+00:00",
+ "matchesCompleted": 32,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -423,7 +423,7 @@
    "points": 14,
    "w": 4,
    "d": 2,
-   "l": 2,
+   "l": 3,
    "alive": 6,
    "teams": [
     {
@@ -431,18 +431,18 @@
      "flag": "tr",
      "w": 0,
      "d": 0,
-     "l": 1,
+     "l": 2,
      "gf": 0,
-     "ga": 2,
+     "ga": 3,
      "points": 0,
      "out": false,
      "next": {
-      "vs": "Paraguay",
-      "date": "2026-06-20T03:00Z"
+      "vs": "USA",
+      "date": "2026-06-26T02:00Z"
      },
      "last": {
-      "vs": "Australia",
-      "score": "0-2",
+      "vs": "Paraguay",
+      "score": "0-1",
       "res": "L",
       "detail": "FT"
      }
@@ -694,8 +694,8 @@
   {
    "name": "Keir",
    "color": "#b03a5b",
-   "points": 10,
-   "w": 3,
+   "points": 13,
+   "w": 4,
    "d": 1,
    "l": 3,
    "alive": 6,
@@ -808,21 +808,21 @@
     {
      "display": "Brazil",
      "flag": "br",
-     "w": 0,
+     "w": 1,
      "d": 1,
      "l": 0,
-     "gf": 1,
+     "gf": 4,
      "ga": 1,
-     "points": 1,
+     "points": 4,
      "out": false,
      "next": {
       "vs": "Scotland",
       "date": "2026-06-24T22:00Z"
      },
      "last": {
-      "vs": "Morocco",
-      "score": "1-1",
-      "res": "D",
+      "vs": "Haiti",
+      "score": "3-0",
+      "res": "W",
       "detail": "FT"
      }
     }
@@ -834,7 +834,7 @@
    "points": 3,
    "w": 0,
    "d": 3,
-   "l": 5,
+   "l": 6,
    "alive": 6,
    "teams": [
     {
@@ -842,9 +842,9 @@
      "flag": "ht",
      "w": 0,
      "d": 0,
-     "l": 1,
+     "l": 2,
      "gf": 0,
-     "ga": 1,
+     "ga": 4,
      "points": 0,
      "out": false,
      "next": {
@@ -852,8 +852,8 @@
       "date": "2026-06-24T22:00Z"
      },
      "last": {
-      "vs": "Scotland",
-      "score": "0-1",
+      "vs": "Brazil",
+      "score": "0-3",
       "res": "L",
       "detail": "FT"
      }
@@ -968,8 +968,8 @@
   {
    "name": "Mum",
    "color": "#d77f2f",
-   "points": 3,
-   "w": 0,
+   "points": 6,
+   "w": 1,
    "d": 3,
    "l": 4,
    "alive": 6,
@@ -1082,28 +1082,42 @@
     {
      "display": "Paraguay",
      "flag": "py",
-     "w": 0,
+     "w": 1,
      "d": 0,
      "l": 1,
-     "gf": 1,
+     "gf": 2,
      "ga": 4,
-     "points": 0,
+     "points": 3,
      "out": false,
      "next": {
-      "vs": "Turkey",
-      "date": "2026-06-20T03:00Z"
+      "vs": "Australia",
+      "date": "2026-06-26T02:00Z"
      },
      "last": {
-      "vs": "USA",
-      "score": "1-4",
-      "res": "L",
+      "vs": "Turkey",
+      "score": "1-0",
+      "res": "W",
       "detail": "FT"
      }
     }
    ]
   }
  ],
- "live": [
+ "live": [],
+ "results": [
+  {
+   "date": "2026-06-20T03:00Z",
+   "round": "Group D",
+   "home": "Turkey",
+   "away": "Paraguay",
+   "homeFlag": "tr",
+   "awayFlag": "py",
+   "homeOwner": "Jasper",
+   "awayOwner": "Mum",
+   "hs": 0,
+   "as": 1,
+   "detail": "FT"
+  },
   {
    "date": "2026-06-20T00:30Z",
    "round": "Group C",
@@ -1115,10 +1129,8 @@
    "awayOwner": "Louis",
    "hs": 3,
    "as": 0,
-   "clock": "45'+6'"
-  }
- ],
- "results": [
+   "detail": "FT"
+  },
   {
    "date": "2026-06-19T22:00Z",
    "round": "Group C",
@@ -1511,16 +1523,6 @@
   }
  ],
  "upcoming": [
-  {
-   "date": "2026-06-20T03:00Z",
-   "round": "Group D",
-   "home": "Turkey",
-   "away": "Paraguay",
-   "homeFlag": "tr",
-   "awayFlag": "py",
-   "homeOwner": "Jasper",
-   "awayOwner": "Mum"
-  },
   {
    "date": "2026-06-20T17:00Z",
    "round": "Group F",
