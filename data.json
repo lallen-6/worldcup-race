@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-20T22:48:45+00:00",
+ "generated": "2026-06-21T00:21:08+00:00",
  "matchesCompleted": 34,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -890,8 +890,8 @@
      "points": 0,
      "out": false,
      "next": {
-      "vs": "Ecuador",
-      "date": "2026-06-21T00:00Z"
+      "vs": "Ivory Coast",
+      "date": "2026-06-25T20:00Z"
      },
      "last": {
       "vs": "Germany",
@@ -1069,8 +1069,8 @@
      "points": 0,
      "out": false,
      "next": {
-      "vs": "Curaçao",
-      "date": "2026-06-21T00:00Z"
+      "vs": "Germany",
+      "date": "2026-06-25T20:00Z"
      },
      "last": {
       "vs": "Ivory Coast",
@@ -1103,7 +1103,21 @@
    ]
   }
  ],
- "live": [],
+ "live": [
+  {
+   "date": "2026-06-21T00:00Z",
+   "round": "Group E",
+   "home": "Ecuador",
+   "away": "Curaçao",
+   "homeFlag": "ec",
+   "awayFlag": "cw",
+   "homeOwner": "Mum",
+   "awayOwner": "Louis",
+   "hs": 0,
+   "as": 0,
+   "clock": "20'"
+  }
+ ],
  "results": [
   {
    "date": "2026-06-20T20:00Z",
@@ -1550,16 +1564,6 @@
  ],
  "upcoming": [
   {
-   "date": "2026-06-21T00:00Z",
-   "round": "Group E",
-   "home": "Ecuador",
-   "away": "Curaçao",
-   "homeFlag": "ec",
-   "awayFlag": "cw",
-   "homeOwner": "Mum",
-   "awayOwner": "Louis"
-  },
-  {
    "date": "2026-06-21T04:00Z",
    "round": "Group F",
    "home": "Tunisia",
@@ -1628,6 +1632,16 @@
    "awayFlag": "iq",
    "homeOwner": "Dad",
    "awayOwner": "Louis"
+  },
+  {
+   "date": "2026-06-23T00:00Z",
+   "round": "Group I",
+   "home": "Norway",
+   "away": "Senegal",
+   "homeFlag": "no",
+   "awayFlag": "sn",
+   "homeOwner": "Dad",
+   "awayOwner": "KTB"
   }
  ]
 }
