@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-21T18:09:04+00:00",
+ "generated": "2026-06-21T20:01:25+00:00",
  "matchesCompleted": 37,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -184,8 +184,8 @@
      "points": 1,
      "out": false,
      "next": {
-      "vs": "Iran",
-      "date": "2026-06-21T19:00Z"
+      "vs": "New Zealand",
+      "date": "2026-06-27T03:00Z"
      },
      "last": {
       "vs": "Egypt",
@@ -637,8 +637,8 @@
      "points": 1,
      "out": false,
      "next": {
-      "vs": "Belgium",
-      "date": "2026-06-21T19:00Z"
+      "vs": "Egypt",
+      "date": "2026-06-27T03:00Z"
      },
      "last": {
       "vs": "New Zealand",
@@ -1103,7 +1103,21 @@
    ]
   }
  ],
- "live": [],
+ "live": [
+  {
+   "date": "2026-06-21T19:00Z",
+   "round": "Group G",
+   "home": "Belgium",
+   "away": "Iran",
+   "homeFlag": "be",
+   "awayFlag": "ir",
+   "homeOwner": "Dad",
+   "awayOwner": "KTB",
+   "hs": 0,
+   "as": 0,
+   "clock": "45'+8'"
+  }
+ ],
  "results": [
   {
    "date": "2026-06-21T16:00Z",
@@ -1589,16 +1603,6 @@
  ],
  "upcoming": [
   {
-   "date": "2026-06-21T19:00Z",
-   "round": "Group G",
-   "home": "Belgium",
-   "away": "Iran",
-   "homeFlag": "be",
-   "awayFlag": "ir",
-   "homeOwner": "Dad",
-   "awayOwner": "KTB"
-  },
-  {
    "date": "2026-06-21T22:00Z",
    "round": "Group H",
    "home": "Uruguay",
@@ -1667,6 +1671,16 @@
    "awayFlag": "uz",
    "homeOwner": "Louis",
    "awayOwner": "Mum"
+  },
+  {
+   "date": "2026-06-23T20:00Z",
+   "round": "Group L",
+   "home": "England",
+   "away": "Ghana",
+   "homeFlag": "gb-eng",
+   "awayFlag": "gh",
+   "homeOwner": "Jasper",
+   "awayOwner": "Beth"
   }
  ]
 }
