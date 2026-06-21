@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-21T20:01:25+00:00",
- "matchesCompleted": 37,
+ "generated": "2026-06-21T21:41:28+00:00",
+ "matchesCompleted": 38,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -146,9 +146,9 @@
   {
    "name": "Dad",
    "color": "#1f5fa8",
-   "points": 17,
+   "points": 18,
    "w": 5,
-   "d": 2,
+   "d": 3,
    "l": 2,
    "alive": 6,
    "teams": [
@@ -177,19 +177,19 @@
      "display": "Belgium",
      "flag": "be",
      "w": 0,
-     "d": 1,
+     "d": 2,
      "l": 0,
      "gf": 1,
      "ga": 1,
-     "points": 1,
+     "points": 2,
      "out": false,
      "next": {
       "vs": "New Zealand",
       "date": "2026-06-27T03:00Z"
      },
      "last": {
-      "vs": "Egypt",
-      "score": "1-1",
+      "vs": "Iran",
+      "score": "0-0",
       "res": "D",
       "detail": "FT"
      }
@@ -557,9 +557,9 @@
   {
    "name": "KTB",
    "color": "#2a8c82",
-   "points": 11,
+   "points": 12,
    "w": 3,
-   "d": 2,
+   "d": 3,
    "l": 3,
    "alive": 6,
    "teams": [
@@ -630,19 +630,19 @@
      "display": "Iran",
      "flag": "ir",
      "w": 0,
-     "d": 1,
+     "d": 2,
      "l": 0,
      "gf": 2,
      "ga": 2,
-     "points": 1,
+     "points": 2,
      "out": false,
      "next": {
       "vs": "Egypt",
       "date": "2026-06-27T03:00Z"
      },
      "last": {
-      "vs": "New Zealand",
-      "score": "2-2",
+      "vs": "Belgium",
+      "score": "0-0",
       "res": "D",
       "detail": "FT"
      }
@@ -1103,7 +1103,8 @@
    ]
   }
  ],
- "live": [
+ "live": [],
+ "results": [
   {
    "date": "2026-06-21T19:00Z",
    "round": "Group G",
@@ -1115,10 +1116,8 @@
    "awayOwner": "KTB",
    "hs": 0,
    "as": 0,
-   "clock": "45'+8'"
-  }
- ],
- "results": [
+   "detail": "FT"
+  },
   {
    "date": "2026-06-21T16:00Z",
    "round": "Group H",
