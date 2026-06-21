@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-21T21:41:28+00:00",
+ "generated": "2026-06-21T22:48:44+00:00",
  "matchesCompleted": 38,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -542,8 +542,8 @@
      "points": 1,
      "out": false,
      "next": {
-      "vs": "Uruguay",
-      "date": "2026-06-21T22:00Z"
+      "vs": "Saudi Arabia",
+      "date": "2026-06-27T00:00Z"
      },
      "last": {
       "vs": "Spain",
@@ -1048,8 +1048,8 @@
      "points": 1,
      "out": false,
      "next": {
-      "vs": "Cape Verde",
-      "date": "2026-06-21T22:00Z"
+      "vs": "Spain",
+      "date": "2026-06-27T00:00Z"
      },
      "last": {
       "vs": "Saudi Arabia",
@@ -1103,7 +1103,21 @@
    ]
   }
  ],
- "live": [],
+ "live": [
+  {
+   "date": "2026-06-21T22:00Z",
+   "round": "Group H",
+   "home": "Uruguay",
+   "away": "Cape Verde",
+   "homeFlag": "uy",
+   "awayFlag": "cv",
+   "homeOwner": "Mum",
+   "awayOwner": "Jasper",
+   "hs": 1,
+   "as": 1,
+   "clock": "45'+3'"
+  }
+ ],
  "results": [
   {
    "date": "2026-06-21T19:00Z",
@@ -1601,16 +1615,6 @@
   }
  ],
  "upcoming": [
-  {
-   "date": "2026-06-21T22:00Z",
-   "round": "Group H",
-   "home": "Uruguay",
-   "away": "Cape Verde",
-   "homeFlag": "uy",
-   "awayFlag": "cv",
-   "homeOwner": "Mum",
-   "awayOwner": "Jasper"
-  },
   {
    "date": "2026-06-22T01:00Z",
    "round": "Group G",
