@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-22T21:13:11+00:00",
+ "generated": "2026-06-22T22:55:45+00:00",
  "matchesCompleted": 41,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -1113,9 +1113,9 @@
    "awayFlag": "iq",
    "homeOwner": "Dad",
    "awayOwner": "Louis",
-   "hs": 0,
+   "hs": 1,
    "as": 0,
-   "clock": "12'"
+   "clock": "45'+3'"
   }
  ],
  "results": [
@@ -1733,6 +1733,26 @@
    "awayFlag": "ca",
    "homeOwner": "KTB",
    "awayOwner": "Beth"
+  },
+  {
+   "date": "2026-06-24T22:00Z",
+   "round": "Group C",
+   "home": "Morocco",
+   "away": "Haiti",
+   "homeFlag": "ma",
+   "awayFlag": "ht",
+   "homeOwner": "Beth",
+   "awayOwner": "Louis"
+  },
+  {
+   "date": "2026-06-24T22:00Z",
+   "round": "Group C",
+   "home": "Scotland",
+   "away": "Brazil",
+   "homeFlag": "gb-sct",
+   "awayFlag": "br",
+   "homeOwner": "Jasper",
+   "awayOwner": "Keir"
   }
  ]
 }
