@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-22T13:05:42+00:00",
+ "generated": "2026-06-22T17:48:55+00:00",
  "matchesCompleted": 40,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -732,8 +732,8 @@
      "points": 3,
      "out": false,
      "next": {
-      "vs": "Austria",
-      "date": "2026-06-22T17:00Z"
+      "vs": "Jordan",
+      "date": "2026-06-28T02:00Z"
      },
      "last": {
       "vs": "Algeria",
@@ -795,8 +795,8 @@
      "points": 3,
      "out": false,
      "next": {
-      "vs": "Argentina",
-      "date": "2026-06-22T17:00Z"
+      "vs": "Algeria",
+      "date": "2026-06-28T02:00Z"
      },
      "last": {
       "vs": "Jordan",
@@ -1103,7 +1103,21 @@
    ]
   }
  ],
- "live": [],
+ "live": [
+  {
+   "date": "2026-06-22T17:00Z",
+   "round": "Group J",
+   "home": "Argentina",
+   "away": "Austria",
+   "homeFlag": "ar",
+   "awayFlag": "at",
+   "homeOwner": "Keir",
+   "awayOwner": "Keir",
+   "hs": 1,
+   "as": 0,
+   "clock": "45'+3'"
+  }
+ ],
  "results": [
   {
    "date": "2026-06-22T01:00Z",
@@ -1627,16 +1641,6 @@
   }
  ],
  "upcoming": [
-  {
-   "date": "2026-06-22T17:00Z",
-   "round": "Group J",
-   "home": "Argentina",
-   "away": "Austria",
-   "homeFlag": "ar",
-   "awayFlag": "at",
-   "homeOwner": "Keir",
-   "awayOwner": "Keir"
-  },
   {
    "date": "2026-06-22T21:00Z",
    "round": "Group I",
