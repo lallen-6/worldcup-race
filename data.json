@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-22T22:55:45+00:00",
+ "generated": "2026-06-23T00:20:41+00:00",
  "matchesCompleted": 41,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -268,8 +268,8 @@
      "points": 3,
      "out": false,
      "next": {
-      "vs": "Senegal",
-      "date": "2026-06-23T00:00Z"
+      "vs": "France",
+      "date": "2026-06-26T19:00Z"
      },
      "last": {
       "vs": "Iraq",
@@ -679,8 +679,8 @@
      "points": 0,
      "out": false,
      "next": {
-      "vs": "Norway",
-      "date": "2026-06-23T00:00Z"
+      "vs": "Iraq",
+      "date": "2026-06-26T19:00Z"
      },
      "last": {
       "vs": "France",
@@ -1113,9 +1113,22 @@
    "awayFlag": "iq",
    "homeOwner": "Dad",
    "awayOwner": "Louis",
-   "hs": 1,
+   "hs": 2,
    "as": 0,
-   "clock": "45'+3'"
+   "clock": "64'"
+  },
+  {
+   "date": "2026-06-23T00:00Z",
+   "round": "Group I",
+   "home": "Norway",
+   "away": "Senegal",
+   "homeFlag": "no",
+   "awayFlag": "sn",
+   "homeOwner": "Dad",
+   "awayOwner": "KTB",
+   "hs": 0,
+   "as": 0,
+   "clock": "21'"
   }
  ],
  "results": [
@@ -1654,16 +1667,6 @@
   }
  ],
  "upcoming": [
-  {
-   "date": "2026-06-23T00:00Z",
-   "round": "Group I",
-   "home": "Norway",
-   "away": "Senegal",
-   "homeFlag": "no",
-   "awayFlag": "sn",
-   "homeOwner": "Dad",
-   "awayOwner": "KTB"
-  },
   {
    "date": "2026-06-23T03:00Z",
    "round": "Group J",
