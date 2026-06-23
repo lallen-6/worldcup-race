@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-23T20:55:19+00:00",
- "matchesCompleted": 45,
+ "generated": "2026-06-23T22:37:47+00:00",
+ "matchesCompleted": 46,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -9,9 +9,9 @@
   {
    "name": "Beth",
    "color": "#d94f30",
-   "points": 22,
+   "points": 23,
    "w": 6,
-   "d": 4,
+   "d": 5,
    "l": 1,
    "alive": 6,
    "teams": [
@@ -103,20 +103,20 @@
      "display": "Ghana",
      "flag": "gh",
      "w": 1,
-     "d": 0,
+     "d": 1,
      "l": 0,
      "gf": 1,
      "ga": 0,
-     "points": 3,
+     "points": 4,
      "out": false,
      "next": {
       "vs": "Croatia",
       "date": "2026-06-27T21:00Z"
      },
      "last": {
-      "vs": "Panama",
-      "score": "1-0",
-      "res": "W",
+      "vs": "England",
+      "score": "0-0",
+      "res": "D",
       "detail": "FT"
      }
     },
@@ -420,9 +420,9 @@
   {
    "name": "Jasper",
    "color": "#5a3b8c",
-   "points": 15,
+   "points": 16,
    "w": 4,
-   "d": 3,
+   "d": 4,
    "l": 4,
    "alive": 6,
    "teams": [
@@ -472,20 +472,20 @@
      "display": "England",
      "flag": "gb-eng",
      "w": 1,
-     "d": 0,
+     "d": 1,
      "l": 0,
      "gf": 4,
      "ga": 2,
-     "points": 3,
+     "points": 4,
      "out": false,
      "next": {
       "vs": "Panama",
       "date": "2026-06-27T21:00Z"
      },
      "last": {
-      "vs": "Croatia",
-      "score": "4-2",
-      "res": "W",
+      "vs": "Ghana",
+      "score": "0-0",
+      "res": "D",
       "detail": "FT"
      }
     },
@@ -1103,7 +1103,8 @@
    ]
   }
  ],
- "live": [
+ "live": [],
+ "results": [
   {
    "date": "2026-06-23T20:00Z",
    "round": "Group L",
@@ -1115,10 +1116,8 @@
    "awayOwner": "Beth",
    "hs": 0,
    "as": 0,
-   "clock": "45'+7'"
-  }
- ],
- "results": [
+   "detail": "FT"
+  },
   {
    "date": "2026-06-23T17:00Z",
    "round": "Group K",
