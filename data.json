@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-23T04:45:44+00:00",
- "matchesCompleted": 43,
+ "generated": "2026-06-23T08:37:43+00:00",
+ "matchesCompleted": 44,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -557,8 +557,8 @@
   {
    "name": "KTB",
    "color": "#2a8c82",
-   "points": 12,
-   "w": 3,
+   "points": 15,
+   "w": 4,
    "d": 3,
    "l": 4,
    "alive": 6,
@@ -587,21 +587,21 @@
     {
      "display": "Algeria",
      "flag": "dz",
-     "w": 0,
+     "w": 1,
      "d": 0,
      "l": 1,
-     "gf": 0,
-     "ga": 3,
-     "points": 0,
+     "gf": 2,
+     "ga": 4,
+     "points": 3,
      "out": false,
      "next": {
       "vs": "Austria",
       "date": "2026-06-28T02:00Z"
      },
      "last": {
-      "vs": "Argentina",
-      "score": "0-3",
-      "res": "L",
+      "vs": "Jordan",
+      "score": "2-1",
+      "res": "W",
       "detail": "FT"
      }
     },
@@ -697,7 +697,7 @@
    "points": 16,
    "w": 5,
    "d": 1,
-   "l": 4,
+   "l": 5,
    "alive": 6,
    "teams": [
     {
@@ -747,9 +747,9 @@
      "flag": "jo",
      "w": 0,
      "d": 0,
-     "l": 1,
-     "gf": 1,
-     "ga": 3,
+     "l": 2,
+     "gf": 2,
+     "ga": 5,
      "points": 0,
      "out": false,
      "next": {
@@ -757,8 +757,8 @@
       "date": "2026-06-28T02:00Z"
      },
      "last": {
-      "vs": "Austria",
-      "score": "1-3",
+      "vs": "Algeria",
+      "score": "1-2",
       "res": "L",
       "detail": "FT"
      }
@@ -1103,7 +1103,8 @@
    ]
   }
  ],
- "live": [
+ "live": [],
+ "results": [
   {
    "date": "2026-06-23T03:00Z",
    "round": "Group J",
@@ -1115,10 +1116,8 @@
    "awayOwner": "KTB",
    "hs": 1,
    "as": 2,
-   "clock": "83'"
-  }
- ],
- "results": [
+   "detail": "FT"
+  },
   {
    "date": "2026-06-23T00:00Z",
    "round": "Group I",
