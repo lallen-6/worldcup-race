@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-23T22:37:47+00:00",
+ "generated": "2026-06-23T23:40:33+00:00",
  "matchesCompleted": 46,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -300,8 +300,8 @@
      "points": 0,
      "out": false,
      "next": {
-      "vs": "Panama",
-      "date": "2026-06-23T23:00Z"
+      "vs": "Ghana",
+      "date": "2026-06-27T21:00Z"
      },
      "last": {
       "vs": "England",
@@ -774,8 +774,8 @@
      "points": 0,
      "out": false,
      "next": {
-      "vs": "Croatia",
-      "date": "2026-06-23T23:00Z"
+      "vs": "England",
+      "date": "2026-06-27T21:00Z"
      },
      "last": {
       "vs": "Ghana",
@@ -1103,7 +1103,21 @@
    ]
   }
  ],
- "live": [],
+ "live": [
+  {
+   "date": "2026-06-23T23:00Z",
+   "round": "Group L",
+   "home": "Panama",
+   "away": "Croatia",
+   "homeFlag": "pa",
+   "awayFlag": "hr",
+   "homeOwner": "Keir",
+   "awayOwner": "Finley",
+   "hs": 0,
+   "as": 0,
+   "clock": "40'"
+  }
+ ],
  "results": [
   {
    "date": "2026-06-23T20:00Z",
@@ -1706,16 +1720,6 @@
  ],
  "upcoming": [
   {
-   "date": "2026-06-23T23:00Z",
-   "round": "Group L",
-   "home": "Panama",
-   "away": "Croatia",
-   "homeFlag": "pa",
-   "awayFlag": "hr",
-   "homeOwner": "Keir",
-   "awayOwner": "Finley"
-  },
-  {
    "date": "2026-06-24T02:00Z",
    "round": "Group K",
    "home": "Colombia",
@@ -1803,6 +1807,26 @@
    "homeFlag": "ec",
    "awayFlag": "de",
    "homeOwner": "Mum",
+   "awayOwner": "Dad"
+  },
+  {
+   "date": "2026-06-25T23:00Z",
+   "round": "Group F",
+   "home": "Japan",
+   "away": "Sweden",
+   "homeFlag": "jp",
+   "awayFlag": "se",
+   "homeOwner": "Beth",
+   "awayOwner": "Finley"
+  },
+  {
+   "date": "2026-06-25T23:00Z",
+   "round": "Group F",
+   "home": "Tunisia",
+   "away": "Netherlands",
+   "homeFlag": "tn",
+   "awayFlag": "nl",
+   "homeOwner": "Dad",
    "awayOwner": "Dad"
   }
  ]
