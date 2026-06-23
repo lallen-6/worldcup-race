@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-23T00:20:41+00:00",
- "matchesCompleted": 41,
+ "generated": "2026-06-23T04:45:44+00:00",
+ "matchesCompleted": 43,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -146,8 +146,8 @@
   {
    "name": "Dad",
    "color": "#1f5fa8",
-   "points": 18,
-   "w": 5,
+   "points": 24,
+   "w": 7,
    "d": 3,
    "l": 2,
    "alive": 6,
@@ -197,20 +197,20 @@
     {
      "display": "France",
      "flag": "fr",
-     "w": 1,
+     "w": 2,
      "d": 0,
      "l": 0,
-     "gf": 3,
+     "gf": 6,
      "ga": 1,
-     "points": 3,
+     "points": 6,
      "out": false,
      "next": {
       "vs": "Norway",
       "date": "2026-06-26T19:00Z"
      },
      "last": {
-      "vs": "Senegal",
-      "score": "3-1",
+      "vs": "Iraq",
+      "score": "3-0",
       "res": "W",
       "detail": "FT"
      }
@@ -260,20 +260,20 @@
     {
      "display": "Norway",
      "flag": "no",
-     "w": 1,
+     "w": 2,
      "d": 0,
      "l": 0,
-     "gf": 4,
-     "ga": 1,
-     "points": 3,
+     "gf": 7,
+     "ga": 3,
+     "points": 6,
      "out": false,
      "next": {
       "vs": "France",
       "date": "2026-06-26T19:00Z"
      },
      "last": {
-      "vs": "Iraq",
-      "score": "4-1",
+      "vs": "Senegal",
+      "score": "3-2",
       "res": "W",
       "detail": "FT"
      }
@@ -560,7 +560,7 @@
    "points": 12,
    "w": 3,
    "d": 3,
-   "l": 3,
+   "l": 4,
    "alive": 6,
    "teams": [
     {
@@ -595,8 +595,8 @@
      "points": 0,
      "out": false,
      "next": {
-      "vs": "Jordan",
-      "date": "2026-06-23T03:00Z"
+      "vs": "Austria",
+      "date": "2026-06-28T02:00Z"
      },
      "last": {
       "vs": "Argentina",
@@ -673,9 +673,9 @@
      "flag": "sn",
      "w": 0,
      "d": 0,
-     "l": 1,
-     "gf": 1,
-     "ga": 3,
+     "l": 2,
+     "gf": 3,
+     "ga": 6,
      "points": 0,
      "out": false,
      "next": {
@@ -683,8 +683,8 @@
       "date": "2026-06-26T19:00Z"
      },
      "last": {
-      "vs": "France",
-      "score": "1-3",
+      "vs": "Norway",
+      "score": "2-3",
       "res": "L",
       "detail": "FT"
      }
@@ -753,8 +753,8 @@
      "points": 0,
      "out": false,
      "next": {
-      "vs": "Algeria",
-      "date": "2026-06-23T03:00Z"
+      "vs": "Argentina",
+      "date": "2026-06-28T02:00Z"
      },
      "last": {
       "vs": "Austria",
@@ -834,7 +834,7 @@
    "points": 4,
    "w": 0,
    "d": 4,
-   "l": 6,
+   "l": 7,
    "alive": 6,
    "teams": [
     {
@@ -926,9 +926,9 @@
      "flag": "iq",
      "w": 0,
      "d": 0,
-     "l": 1,
+     "l": 2,
      "gf": 1,
-     "ga": 4,
+     "ga": 7,
      "points": 0,
      "out": false,
      "next": {
@@ -936,8 +936,8 @@
       "date": "2026-06-26T19:00Z"
      },
      "last": {
-      "vs": "Norway",
-      "score": "1-4",
+      "vs": "France",
+      "score": "0-3",
       "res": "L",
       "detail": "FT"
      }
@@ -1105,18 +1105,20 @@
  ],
  "live": [
   {
-   "date": "2026-06-22T21:00Z",
-   "round": "Group I",
-   "home": "France",
-   "away": "Iraq",
-   "homeFlag": "fr",
-   "awayFlag": "iq",
-   "homeOwner": "Dad",
-   "awayOwner": "Louis",
-   "hs": 2,
-   "as": 0,
-   "clock": "64'"
-  },
+   "date": "2026-06-23T03:00Z",
+   "round": "Group J",
+   "home": "Jordan",
+   "away": "Algeria",
+   "homeFlag": "jo",
+   "awayFlag": "dz",
+   "homeOwner": "Keir",
+   "awayOwner": "KTB",
+   "hs": 1,
+   "as": 2,
+   "clock": "83'"
+  }
+ ],
+ "results": [
   {
    "date": "2026-06-23T00:00Z",
    "round": "Group I",
@@ -1126,12 +1128,23 @@
    "awayFlag": "sn",
    "homeOwner": "Dad",
    "awayOwner": "KTB",
-   "hs": 0,
+   "hs": 3,
+   "as": 2,
+   "detail": "FT"
+  },
+  {
+   "date": "2026-06-22T21:00Z",
+   "round": "Group I",
+   "home": "France",
+   "away": "Iraq",
+   "homeFlag": "fr",
+   "awayFlag": "iq",
+   "homeOwner": "Dad",
+   "awayOwner": "Louis",
+   "hs": 3,
    "as": 0,
-   "clock": "21'"
-  }
- ],
- "results": [
+   "detail": "FT"
+  },
   {
    "date": "2026-06-22T17:00Z",
    "round": "Group J",
@@ -1668,16 +1681,6 @@
  ],
  "upcoming": [
   {
-   "date": "2026-06-23T03:00Z",
-   "round": "Group J",
-   "home": "Jordan",
-   "away": "Algeria",
-   "homeFlag": "jo",
-   "awayFlag": "dz",
-   "homeOwner": "Keir",
-   "awayOwner": "KTB"
-  },
-  {
    "date": "2026-06-23T17:00Z",
    "round": "Group K",
    "home": "Portugal",
@@ -1756,6 +1759,26 @@
    "awayFlag": "br",
    "homeOwner": "Jasper",
    "awayOwner": "Keir"
+  },
+  {
+   "date": "2026-06-25T01:00Z",
+   "round": "Group A",
+   "home": "Czech Republic",
+   "away": "Mexico",
+   "homeFlag": "cz",
+   "awayFlag": "mx",
+   "homeOwner": "Louis",
+   "awayOwner": "Jasper"
+  },
+  {
+   "date": "2026-06-25T01:00Z",
+   "round": "Group A",
+   "home": "South Africa",
+   "away": "South Korea",
+   "homeFlag": "za",
+   "awayFlag": "kr",
+   "homeOwner": "Finley",
+   "awayOwner": "KTB"
   }
  ]
 }
