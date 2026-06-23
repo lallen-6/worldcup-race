@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-23T16:40:25+00:00",
+ "generated": "2026-06-23T18:30:47+00:00",
  "matchesCompleted": 44,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -953,8 +953,8 @@
      "points": 1,
      "out": false,
      "next": {
-      "vs": "Uzbekistan",
-      "date": "2026-06-23T17:00Z"
+      "vs": "Colombia",
+      "date": "2026-06-27T23:30Z"
      },
      "last": {
       "vs": "DR Congo",
@@ -1027,8 +1027,8 @@
      "points": 0,
      "out": false,
      "next": {
-      "vs": "Portugal",
-      "date": "2026-06-23T17:00Z"
+      "vs": "DR Congo",
+      "date": "2026-06-27T23:30Z"
      },
      "last": {
       "vs": "Colombia",
@@ -1103,7 +1103,21 @@
    ]
   }
  ],
- "live": [],
+ "live": [
+  {
+   "date": "2026-06-23T17:00Z",
+   "round": "Group K",
+   "home": "Portugal",
+   "away": "Uzbekistan",
+   "homeFlag": "pt",
+   "awayFlag": "uz",
+   "homeOwner": "Louis",
+   "awayOwner": "Mum",
+   "hs": 4,
+   "as": 0,
+   "clock": "66'"
+  }
+ ],
  "results": [
   {
    "date": "2026-06-23T03:00Z",
@@ -1679,16 +1693,6 @@
   }
  ],
  "upcoming": [
-  {
-   "date": "2026-06-23T17:00Z",
-   "round": "Group K",
-   "home": "Portugal",
-   "away": "Uzbekistan",
-   "homeFlag": "pt",
-   "awayFlag": "uz",
-   "homeOwner": "Louis",
-   "awayOwner": "Mum"
-  },
   {
    "date": "2026-06-23T20:00Z",
    "round": "Group L",
