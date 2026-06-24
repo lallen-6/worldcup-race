@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-24T22:40:11+00:00",
+ "generated": "2026-06-24T23:48:24+00:00",
  "matchesCompleted": 50,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -1095,9 +1095,9 @@
    "awayFlag": "ht",
    "homeOwner": "Beth",
    "awayOwner": "Louis",
-   "hs": 0,
-   "as": 1,
-   "clock": "39'"
+   "hs": 3,
+   "as": 2,
+   "clock": "85'"
   },
   {
    "date": "2026-06-24T22:00Z",
@@ -1109,8 +1109,8 @@
    "homeOwner": "Jasper",
    "awayOwner": "Keir",
    "hs": 0,
-   "as": 1,
-   "clock": "39'"
+   "as": 3,
+   "clock": "83'"
   }
  ],
  "results": [
