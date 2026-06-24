@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-24T01:30:55+00:00",
- "matchesCompleted": 47,
+ "generated": "2026-06-24T05:49:12+00:00",
+ "matchesCompleted": 48,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -557,8 +557,8 @@
   {
    "name": "KTB",
    "color": "#2a8c82",
-   "points": 15,
-   "w": 4,
+   "points": 18,
+   "w": 5,
    "d": 3,
    "l": 4,
    "alive": 6,
@@ -608,20 +608,20 @@
     {
      "display": "Colombia",
      "flag": "co",
-     "w": 1,
+     "w": 2,
      "d": 0,
      "l": 0,
-     "gf": 3,
+     "gf": 4,
      "ga": 1,
-     "points": 3,
+     "points": 6,
      "out": false,
      "next": {
-      "vs": "DR Congo",
-      "date": "2026-06-24T02:00Z"
+      "vs": "Portugal",
+      "date": "2026-06-27T23:30Z"
      },
      "last": {
-      "vs": "Uzbekistan",
-      "score": "3-1",
+      "vs": "DR Congo",
+      "score": "1-0",
       "res": "W",
       "detail": "FT"
      }
@@ -971,7 +971,7 @@
    "points": 8,
    "w": 1,
    "d": 5,
-   "l": 5,
+   "l": 6,
    "alive": 6,
    "teams": [
     {
@@ -1000,19 +1000,19 @@
      "flag": "cd",
      "w": 0,
      "d": 1,
-     "l": 0,
+     "l": 1,
      "gf": 1,
-     "ga": 1,
+     "ga": 2,
      "points": 1,
      "out": false,
      "next": {
-      "vs": "Colombia",
-      "date": "2026-06-24T02:00Z"
+      "vs": "Uzbekistan",
+      "date": "2026-06-27T23:30Z"
      },
      "last": {
-      "vs": "Portugal",
-      "score": "1-1",
-      "res": "D",
+      "vs": "Colombia",
+      "score": "0-1",
+      "res": "L",
       "detail": "FT"
      }
     },
@@ -1105,6 +1105,19 @@
  ],
  "live": [],
  "results": [
+  {
+   "date": "2026-06-24T02:00Z",
+   "round": "Group K",
+   "home": "Colombia",
+   "away": "DR Congo",
+   "homeFlag": "co",
+   "awayFlag": "cd",
+   "homeOwner": "KTB",
+   "awayOwner": "Mum",
+   "hs": 1,
+   "as": 0,
+   "detail": "FT"
+  },
   {
    "date": "2026-06-23T23:00Z",
    "round": "Group L",
@@ -1719,16 +1732,6 @@
  ],
  "upcoming": [
   {
-   "date": "2026-06-24T02:00Z",
-   "round": "Group K",
-   "home": "Colombia",
-   "away": "DR Congo",
-   "homeFlag": "co",
-   "awayFlag": "cd",
-   "homeOwner": "KTB",
-   "awayOwner": "Mum"
-  },
-  {
    "date": "2026-06-24T19:00Z",
    "round": "Group B",
    "home": "Bosnia",
@@ -1827,6 +1830,26 @@
    "awayFlag": "nl",
    "homeOwner": "Dad",
    "awayOwner": "Dad"
+  },
+  {
+   "date": "2026-06-26T02:00Z",
+   "round": "Group D",
+   "home": "Paraguay",
+   "away": "Australia",
+   "homeFlag": "py",
+   "awayFlag": "au",
+   "homeOwner": "Mum",
+   "awayOwner": "Keir"
+  },
+  {
+   "date": "2026-06-26T02:00Z",
+   "round": "Group D",
+   "home": "Turkey",
+   "away": "USA",
+   "homeFlag": "tr",
+   "awayFlag": "us",
+   "homeOwner": "Jasper",
+   "awayOwner": "Beth"
   }
  ]
 }
