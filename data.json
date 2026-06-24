@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-24T17:31:50+00:00",
+ "generated": "2026-06-24T19:17:44+00:00",
  "matchesCompleted": 48,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -88,10 +88,7 @@
      "ga": 1,
      "points": 4,
      "out": false,
-     "next": {
-      "vs": "Switzerland",
-      "date": "2026-06-24T19:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Qatar",
       "score": "6-0",
@@ -657,10 +654,7 @@
      "ga": 2,
      "points": 4,
      "out": false,
-     "next": {
-      "vs": "Canada",
-      "date": "2026-06-24T19:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Bosnia",
       "score": "4-1",
@@ -868,10 +862,7 @@
      "ga": 7,
      "points": 1,
      "out": false,
-     "next": {
-      "vs": "Bosnia",
-      "date": "2026-06-24T19:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Canada",
       "score": "0-6",
@@ -984,10 +975,7 @@
      "ga": 5,
      "points": 1,
      "out": false,
-     "next": {
-      "vs": "Qatar",
-      "date": "2026-06-24T19:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Switzerland",
       "score": "1-4",
@@ -1103,7 +1091,34 @@
    ]
   }
  ],
- "live": [],
+ "live": [
+  {
+   "date": "2026-06-24T19:00Z",
+   "round": "Group B",
+   "home": "Bosnia",
+   "away": "Qatar",
+   "homeFlag": "ba",
+   "awayFlag": "qa",
+   "homeOwner": "Mum",
+   "awayOwner": "Louis",
+   "hs": 0,
+   "as": 0,
+   "clock": "17'"
+  },
+  {
+   "date": "2026-06-24T19:00Z",
+   "round": "Group B",
+   "home": "Switzerland",
+   "away": "Canada",
+   "homeFlag": "ch",
+   "awayFlag": "ca",
+   "homeOwner": "KTB",
+   "awayOwner": "Beth",
+   "hs": 0,
+   "as": 0,
+   "clock": "17'"
+  }
+ ],
  "results": [
   {
    "date": "2026-06-24T02:00Z",
@@ -1732,26 +1747,6 @@
  ],
  "upcoming": [
   {
-   "date": "2026-06-24T19:00Z",
-   "round": "Group B",
-   "home": "Bosnia",
-   "away": "Qatar",
-   "homeFlag": "ba",
-   "awayFlag": "qa",
-   "homeOwner": "Mum",
-   "awayOwner": "Louis"
-  },
-  {
-   "date": "2026-06-24T19:00Z",
-   "round": "Group B",
-   "home": "Switzerland",
-   "away": "Canada",
-   "homeFlag": "ch",
-   "awayFlag": "ca",
-   "homeOwner": "KTB",
-   "awayOwner": "Beth"
-  },
-  {
    "date": "2026-06-24T22:00Z",
    "round": "Group C",
    "home": "Morocco",
@@ -1850,6 +1845,26 @@
    "awayFlag": "us",
    "homeOwner": "Jasper",
    "awayOwner": "Beth"
+  },
+  {
+   "date": "2026-06-26T19:00Z",
+   "round": "Group I",
+   "home": "Norway",
+   "away": "France",
+   "homeFlag": "no",
+   "awayFlag": "fr",
+   "homeOwner": "Dad",
+   "awayOwner": "Dad"
+  },
+  {
+   "date": "2026-06-26T19:00Z",
+   "round": "Group I",
+   "home": "Senegal",
+   "away": "Iraq",
+   "homeFlag": "sn",
+   "awayFlag": "iq",
+   "homeOwner": "KTB",
+   "awayOwner": "Louis"
   }
  ]
 }
