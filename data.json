@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-23T23:40:33+00:00",
- "matchesCompleted": 46,
+ "generated": "2026-06-24T01:30:55+00:00",
+ "matchesCompleted": 47,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -283,8 +283,8 @@
   {
    "name": "Finley",
    "color": "#c9a227",
-   "points": 15,
-   "w": 4,
+   "points": 18,
+   "w": 5,
    "d": 3,
    "l": 4,
    "alive": 6,
@@ -292,21 +292,21 @@
     {
      "display": "Croatia",
      "flag": "hr",
-     "w": 0,
+     "w": 1,
      "d": 0,
      "l": 1,
-     "gf": 2,
+     "gf": 3,
      "ga": 4,
-     "points": 0,
+     "points": 3,
      "out": false,
      "next": {
       "vs": "Ghana",
       "date": "2026-06-27T21:00Z"
      },
      "last": {
-      "vs": "England",
-      "score": "2-4",
-      "res": "L",
+      "vs": "Panama",
+      "score": "1-0",
+      "res": "W",
       "detail": "FT"
      }
     },
@@ -697,7 +697,7 @@
    "points": 16,
    "w": 5,
    "d": 1,
-   "l": 5,
+   "l": 6,
    "alive": 6,
    "teams": [
     {
@@ -768,9 +768,9 @@
      "flag": "pa",
      "w": 0,
      "d": 0,
-     "l": 1,
+     "l": 2,
      "gf": 0,
-     "ga": 1,
+     "ga": 2,
      "points": 0,
      "out": false,
      "next": {
@@ -778,7 +778,7 @@
       "date": "2026-06-27T21:00Z"
      },
      "last": {
-      "vs": "Ghana",
+      "vs": "Croatia",
       "score": "0-1",
       "res": "L",
       "detail": "FT"
@@ -1103,7 +1103,8 @@
    ]
   }
  ],
- "live": [
+ "live": [],
+ "results": [
   {
    "date": "2026-06-23T23:00Z",
    "round": "Group L",
@@ -1114,11 +1115,9 @@
    "homeOwner": "Keir",
    "awayOwner": "Finley",
    "hs": 0,
-   "as": 0,
-   "clock": "40'"
-  }
- ],
- "results": [
+   "as": 1,
+   "detail": "FT"
+  },
   {
    "date": "2026-06-23T20:00Z",
    "round": "Group L",
