@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-24T19:17:44+00:00",
- "matchesCompleted": 48,
+ "generated": "2026-06-24T21:12:11+00:00",
+ "matchesCompleted": 50,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -12,7 +12,7 @@
    "points": 23,
    "w": 6,
    "d": 5,
-   "l": 1,
+   "l": 2,
    "alive": 6,
    "teams": [
     {
@@ -83,16 +83,19 @@
      "flag": "ca",
      "w": 1,
      "d": 1,
-     "l": 0,
-     "gf": 7,
-     "ga": 1,
+     "l": 1,
+     "gf": 8,
+     "ga": 3,
      "points": 4,
      "out": false,
-     "next": null,
+     "next": {
+      "vs": "Group A 2nd Place",
+      "date": "2026-06-28T19:00Z"
+     },
      "last": {
-      "vs": "Qatar",
-      "score": "6-0",
-      "res": "W",
+      "vs": "Switzerland",
+      "score": "1-2",
+      "res": "L",
       "detail": "FT"
      }
     },
@@ -554,8 +557,8 @@
   {
    "name": "KTB",
    "color": "#2a8c82",
-   "points": 18,
-   "w": 5,
+   "points": 21,
+   "w": 6,
    "d": 3,
    "l": 4,
    "alive": 6,
@@ -647,17 +650,20 @@
     {
      "display": "Switzerland",
      "flag": "ch",
-     "w": 1,
+     "w": 2,
      "d": 1,
      "l": 0,
-     "gf": 5,
-     "ga": 2,
-     "points": 4,
+     "gf": 7,
+     "ga": 3,
+     "points": 7,
      "out": false,
-     "next": null,
+     "next": {
+      "vs": "Third Place Group E/F/G/I/J",
+      "date": "2026-07-03T03:00Z"
+     },
      "last": {
-      "vs": "Bosnia",
-      "score": "4-1",
+      "vs": "Canada",
+      "score": "2-1",
       "res": "W",
       "detail": "FT"
      }
@@ -828,7 +834,7 @@
    "points": 7,
    "w": 1,
    "d": 4,
-   "l": 7,
+   "l": 8,
    "alive": 6,
    "teams": [
     {
@@ -857,15 +863,15 @@
      "flag": "qa",
      "w": 0,
      "d": 1,
-     "l": 1,
-     "gf": 1,
-     "ga": 7,
+     "l": 2,
+     "gf": 2,
+     "ga": 10,
      "points": 1,
      "out": false,
      "next": null,
      "last": {
-      "vs": "Canada",
-      "score": "0-6",
+      "vs": "Bosnia",
+      "score": "1-3",
       "res": "L",
       "detail": "FT"
      }
@@ -959,8 +965,8 @@
   {
    "name": "Mum",
    "color": "#d77f2f",
-   "points": 8,
-   "w": 1,
+   "points": 11,
+   "w": 2,
    "d": 5,
    "l": 6,
    "alive": 6,
@@ -968,18 +974,18 @@
     {
      "display": "Bosnia",
      "flag": "ba",
-     "w": 0,
+     "w": 1,
      "d": 1,
      "l": 1,
-     "gf": 2,
-     "ga": 5,
-     "points": 1,
+     "gf": 5,
+     "ga": 6,
+     "points": 4,
      "out": false,
      "next": null,
      "last": {
-      "vs": "Switzerland",
-      "score": "1-4",
-      "res": "L",
+      "vs": "Qatar",
+      "score": "3-1",
+      "res": "W",
       "detail": "FT"
      }
     },
@@ -1091,20 +1097,8 @@
    ]
   }
  ],
- "live": [
-  {
-   "date": "2026-06-24T19:00Z",
-   "round": "Group B",
-   "home": "Bosnia",
-   "away": "Qatar",
-   "homeFlag": "ba",
-   "awayFlag": "qa",
-   "homeOwner": "Mum",
-   "awayOwner": "Louis",
-   "hs": 0,
-   "as": 0,
-   "clock": "17'"
-  },
+ "live": [],
+ "results": [
   {
    "date": "2026-06-24T19:00Z",
    "round": "Group B",
@@ -1114,12 +1108,23 @@
    "awayFlag": "ca",
    "homeOwner": "KTB",
    "awayOwner": "Beth",
-   "hs": 0,
-   "as": 0,
-   "clock": "17'"
-  }
- ],
- "results": [
+   "hs": 2,
+   "as": 1,
+   "detail": "FT"
+  },
+  {
+   "date": "2026-06-24T19:00Z",
+   "round": "Group B",
+   "home": "Bosnia",
+   "away": "Qatar",
+   "homeFlag": "ba",
+   "awayFlag": "qa",
+   "homeOwner": "Mum",
+   "awayOwner": "Louis",
+   "hs": 3,
+   "as": 1,
+   "detail": "FT"
+  },
   {
    "date": "2026-06-24T02:00Z",
    "round": "Group K",
