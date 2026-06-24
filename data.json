@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-24T21:12:11+00:00",
+ "generated": "2026-06-24T22:40:11+00:00",
  "matchesCompleted": 50,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -67,10 +67,7 @@
      "ga": 1,
      "points": 4,
      "out": false,
-     "next": {
-      "vs": "Haiti",
-      "date": "2026-06-24T22:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Scotland",
       "score": "1-0",
@@ -457,10 +454,7 @@
      "ga": 1,
      "points": 3,
      "out": false,
-     "next": {
-      "vs": "Brazil",
-      "date": "2026-06-24T22:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Morocco",
       "score": "0-1",
@@ -815,10 +809,7 @@
      "ga": 1,
      "points": 4,
      "out": false,
-     "next": {
-      "vs": "Scotland",
-      "date": "2026-06-24T22:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Haiti",
       "score": "3-0",
@@ -847,10 +838,7 @@
      "ga": 4,
      "points": 0,
      "out": false,
-     "next": {
-      "vs": "Morocco",
-      "date": "2026-06-24T22:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Brazil",
       "score": "0-3",
@@ -1097,7 +1085,34 @@
    ]
   }
  ],
- "live": [],
+ "live": [
+  {
+   "date": "2026-06-24T22:00Z",
+   "round": "Group C",
+   "home": "Morocco",
+   "away": "Haiti",
+   "homeFlag": "ma",
+   "awayFlag": "ht",
+   "homeOwner": "Beth",
+   "awayOwner": "Louis",
+   "hs": 0,
+   "as": 1,
+   "clock": "39'"
+  },
+  {
+   "date": "2026-06-24T22:00Z",
+   "round": "Group C",
+   "home": "Scotland",
+   "away": "Brazil",
+   "homeFlag": "gb-sct",
+   "awayFlag": "br",
+   "homeOwner": "Jasper",
+   "awayOwner": "Keir",
+   "hs": 0,
+   "as": 1,
+   "clock": "39'"
+  }
+ ],
  "results": [
   {
    "date": "2026-06-24T19:00Z",
@@ -1751,26 +1766,6 @@
   }
  ],
  "upcoming": [
-  {
-   "date": "2026-06-24T22:00Z",
-   "round": "Group C",
-   "home": "Morocco",
-   "away": "Haiti",
-   "homeFlag": "ma",
-   "awayFlag": "ht",
-   "homeOwner": "Beth",
-   "awayOwner": "Louis"
-  },
-  {
-   "date": "2026-06-24T22:00Z",
-   "round": "Group C",
-   "home": "Scotland",
-   "away": "Brazil",
-   "homeFlag": "gb-sct",
-   "awayFlag": "br",
-   "homeOwner": "Jasper",
-   "awayOwner": "Keir"
-  },
   {
    "date": "2026-06-25T01:00Z",
    "round": "Group A",
