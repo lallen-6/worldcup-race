@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-24T23:48:24+00:00",
- "matchesCompleted": 50,
+ "generated": "2026-06-25T04:33:02+00:00",
+ "matchesCompleted": 54,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -9,8 +9,8 @@
   {
    "name": "Beth",
    "color": "#d94f30",
-   "points": 23,
-   "w": 6,
+   "points": 26,
+   "w": 7,
    "d": 5,
    "l": 2,
    "alive": 6,
@@ -60,17 +60,20 @@
     {
      "display": "Morocco",
      "flag": "ma",
-     "w": 1,
+     "w": 2,
      "d": 1,
      "l": 0,
-     "gf": 2,
-     "ga": 1,
-     "points": 4,
+     "gf": 6,
+     "ga": 3,
+     "points": 7,
      "out": false,
-     "next": null,
+     "next": {
+      "vs": "Group F Winner",
+      "date": "2026-06-30T01:00Z"
+     },
      "last": {
-      "vs": "Scotland",
-      "score": "1-0",
+      "vs": "Haiti",
+      "score": "4-2",
       "res": "W",
       "detail": "FT"
      }
@@ -86,7 +89,7 @@
      "points": 4,
      "out": false,
      "next": {
-      "vs": "Group A 2nd Place",
+      "vs": "South Africa",
       "date": "2026-06-28T19:00Z"
      },
      "last": {
@@ -280,8 +283,8 @@
   {
    "name": "Finley",
    "color": "#c9a227",
-   "points": 18,
-   "w": 5,
+   "points": 21,
+   "w": 6,
    "d": 3,
    "l": 4,
    "alive": 6,
@@ -373,21 +376,21 @@
     {
      "display": "South Africa",
      "flag": "za",
-     "w": 0,
+     "w": 1,
      "d": 1,
      "l": 1,
-     "gf": 1,
+     "gf": 2,
      "ga": 3,
-     "points": 1,
+     "points": 4,
      "out": false,
      "next": {
-      "vs": "South Korea",
-      "date": "2026-06-25T01:00Z"
+      "vs": "Canada",
+      "date": "2026-06-28T19:00Z"
      },
      "last": {
-      "vs": "Czech Republic",
-      "score": "1-1",
-      "res": "D",
+      "vs": "South Korea",
+      "score": "1-0",
+      "res": "W",
       "detail": "FT"
      }
     },
@@ -417,10 +420,10 @@
   {
    "name": "Jasper",
    "color": "#5a3b8c",
-   "points": 16,
-   "w": 4,
+   "points": 19,
+   "w": 5,
    "d": 4,
-   "l": 4,
+   "l": 5,
    "alive": 6,
    "teams": [
     {
@@ -449,15 +452,15 @@
      "flag": "gb-sct",
      "w": 1,
      "d": 0,
-     "l": 1,
+     "l": 2,
      "gf": 1,
-     "ga": 1,
+     "ga": 4,
      "points": 3,
      "out": false,
      "next": null,
      "last": {
-      "vs": "Morocco",
-      "score": "0-1",
+      "vs": "Brazil",
+      "score": "0-3",
       "res": "L",
       "detail": "FT"
      }
@@ -507,20 +510,20 @@
     {
      "display": "Mexico",
      "flag": "mx",
-     "w": 2,
+     "w": 3,
      "d": 0,
      "l": 0,
-     "gf": 3,
+     "gf": 6,
      "ga": 0,
-     "points": 6,
+     "points": 9,
      "out": false,
      "next": {
-      "vs": "Czech Republic",
-      "date": "2026-06-25T01:00Z"
+      "vs": "Third Place Group C/E/F/H/I",
+      "date": "2026-07-01T01:00Z"
      },
      "last": {
-      "vs": "South Korea",
-      "score": "1-0",
+      "vs": "Czech Republic",
+      "score": "3-0",
       "res": "W",
       "detail": "FT"
      }
@@ -554,7 +557,7 @@
    "points": 21,
    "w": 6,
    "d": 3,
-   "l": 4,
+   "l": 5,
    "alive": 6,
    "teams": [
     {
@@ -562,17 +565,14 @@
      "flag": "kr",
      "w": 1,
      "d": 0,
-     "l": 1,
+     "l": 2,
      "gf": 2,
-     "ga": 2,
+     "ga": 3,
      "points": 3,
      "out": false,
-     "next": {
-      "vs": "South Africa",
-      "date": "2026-06-25T01:00Z"
-     },
+     "next": null,
      "last": {
-      "vs": "Mexico",
+      "vs": "South Africa",
       "score": "0-1",
       "res": "L",
       "detail": "FT"
@@ -688,8 +688,8 @@
   {
    "name": "Keir",
    "color": "#b03a5b",
-   "points": 16,
-   "w": 5,
+   "points": 19,
+   "w": 6,
    "d": 1,
    "l": 6,
    "alive": 6,
@@ -802,16 +802,19 @@
     {
      "display": "Brazil",
      "flag": "br",
-     "w": 1,
+     "w": 2,
      "d": 1,
      "l": 0,
-     "gf": 4,
+     "gf": 7,
      "ga": 1,
-     "points": 4,
+     "points": 7,
      "out": false,
-     "next": null,
+     "next": {
+      "vs": "Group F 2nd Place",
+      "date": "2026-06-29T17:00Z"
+     },
      "last": {
-      "vs": "Haiti",
+      "vs": "Scotland",
       "score": "3-0",
       "res": "W",
       "detail": "FT"
@@ -825,7 +828,7 @@
    "points": 7,
    "w": 1,
    "d": 4,
-   "l": 8,
+   "l": 10,
    "alive": 6,
    "teams": [
     {
@@ -833,15 +836,15 @@
      "flag": "ht",
      "w": 0,
      "d": 0,
-     "l": 2,
-     "gf": 0,
-     "ga": 4,
+     "l": 3,
+     "gf": 2,
+     "ga": 8,
      "points": 0,
      "out": false,
      "next": null,
      "last": {
-      "vs": "Brazil",
-      "score": "0-3",
+      "vs": "Morocco",
+      "score": "2-4",
       "res": "L",
       "detail": "FT"
      }
@@ -890,19 +893,16 @@
      "flag": "cz",
      "w": 0,
      "d": 1,
-     "l": 1,
+     "l": 2,
      "gf": 2,
-     "ga": 3,
+     "ga": 6,
      "points": 1,
      "out": false,
-     "next": {
-      "vs": "Mexico",
-      "date": "2026-06-25T01:00Z"
-     },
+     "next": null,
      "last": {
-      "vs": "South Africa",
-      "score": "1-1",
-      "res": "D",
+      "vs": "Mexico",
+      "score": "0-3",
+      "res": "L",
       "detail": "FT"
      }
     },
@@ -1085,19 +1085,33 @@
    ]
   }
  ],
- "live": [
+ "live": [],
+ "results": [
   {
-   "date": "2026-06-24T22:00Z",
-   "round": "Group C",
-   "home": "Morocco",
-   "away": "Haiti",
-   "homeFlag": "ma",
-   "awayFlag": "ht",
-   "homeOwner": "Beth",
-   "awayOwner": "Louis",
-   "hs": 3,
-   "as": 2,
-   "clock": "85'"
+   "date": "2026-06-25T01:00Z",
+   "round": "Group A",
+   "home": "South Africa",
+   "away": "South Korea",
+   "homeFlag": "za",
+   "awayFlag": "kr",
+   "homeOwner": "Finley",
+   "awayOwner": "KTB",
+   "hs": 1,
+   "as": 0,
+   "detail": "FT"
+  },
+  {
+   "date": "2026-06-25T01:00Z",
+   "round": "Group A",
+   "home": "Czech Republic",
+   "away": "Mexico",
+   "homeFlag": "cz",
+   "awayFlag": "mx",
+   "homeOwner": "Louis",
+   "awayOwner": "Jasper",
+   "hs": 0,
+   "as": 3,
+   "detail": "FT"
   },
   {
    "date": "2026-06-24T22:00Z",
@@ -1110,10 +1124,21 @@
    "awayOwner": "Keir",
    "hs": 0,
    "as": 3,
-   "clock": "83'"
-  }
- ],
- "results": [
+   "detail": "FT"
+  },
+  {
+   "date": "2026-06-24T22:00Z",
+   "round": "Group C",
+   "home": "Morocco",
+   "away": "Haiti",
+   "homeFlag": "ma",
+   "awayFlag": "ht",
+   "homeOwner": "Beth",
+   "awayOwner": "Louis",
+   "hs": 4,
+   "as": 2,
+   "detail": "FT"
+  },
   {
    "date": "2026-06-24T19:00Z",
    "round": "Group B",
@@ -1767,26 +1792,6 @@
  ],
  "upcoming": [
   {
-   "date": "2026-06-25T01:00Z",
-   "round": "Group A",
-   "home": "Czech Republic",
-   "away": "Mexico",
-   "homeFlag": "cz",
-   "awayFlag": "mx",
-   "homeOwner": "Louis",
-   "awayOwner": "Jasper"
-  },
-  {
-   "date": "2026-06-25T01:00Z",
-   "round": "Group A",
-   "home": "South Africa",
-   "away": "South Korea",
-   "homeFlag": "za",
-   "awayFlag": "kr",
-   "homeOwner": "Finley",
-   "awayOwner": "KTB"
-  },
-  {
    "date": "2026-06-25T20:00Z",
    "round": "Group E",
    "home": "Curaçao",
@@ -1865,6 +1870,46 @@
    "awayFlag": "iq",
    "homeOwner": "KTB",
    "awayOwner": "Louis"
+  },
+  {
+   "date": "2026-06-27T00:00Z",
+   "round": "Group H",
+   "home": "Cape Verde",
+   "away": "Saudi Arabia",
+   "homeFlag": "cv",
+   "awayFlag": "sa",
+   "homeOwner": "Jasper",
+   "awayOwner": "Beth"
+  },
+  {
+   "date": "2026-06-27T00:00Z",
+   "round": "Group H",
+   "home": "Uruguay",
+   "away": "Spain",
+   "homeFlag": "uy",
+   "awayFlag": "es",
+   "homeOwner": "Mum",
+   "awayOwner": "Finley"
+  },
+  {
+   "date": "2026-06-27T03:00Z",
+   "round": "Group G",
+   "home": "Egypt",
+   "away": "Iran",
+   "homeFlag": "eg",
+   "awayFlag": "ir",
+   "homeOwner": "Finley",
+   "awayOwner": "KTB"
+  },
+  {
+   "date": "2026-06-27T03:00Z",
+   "round": "Group G",
+   "home": "New Zealand",
+   "away": "Belgium",
+   "homeFlag": "nz",
+   "awayFlag": "be",
+   "homeOwner": "Jasper",
+   "awayOwner": "Dad"
   }
  ]
 }
