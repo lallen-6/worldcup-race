@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-25T20:35:14+00:00",
- "matchesCompleted": 54,
+ "generated": "2026-06-25T22:10:05+00:00",
+ "matchesCompleted": 56,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -149,7 +149,7 @@
    "points": 24,
    "w": 7,
    "d": 3,
-   "l": 2,
+   "l": 3,
    "alive": 6,
    "teams": [
     {
@@ -157,9 +157,9 @@
      "flag": "de",
      "w": 2,
      "d": 0,
-     "l": 0,
-     "gf": 9,
-     "ga": 2,
+     "l": 1,
+     "gf": 10,
+     "ga": 4,
      "points": 6,
      "out": false,
      "next": {
@@ -167,9 +167,9 @@
       "date": "2026-06-29T20:30Z"
      },
      "last": {
-      "vs": "Ivory Coast",
-      "score": "2-1",
-      "res": "W",
+      "vs": "Ecuador",
+      "score": "1-2",
+      "res": "L",
       "detail": "FT"
      }
     },
@@ -283,8 +283,8 @@
   {
    "name": "Finley",
    "color": "#c9a227",
-   "points": 21,
-   "w": 6,
+   "points": 24,
+   "w": 7,
    "d": 3,
    "l": 4,
    "alive": 6,
@@ -313,18 +313,21 @@
     {
      "display": "Ivory Coast",
      "flag": "ci",
-     "w": 1,
+     "w": 2,
      "d": 0,
      "l": 1,
-     "gf": 2,
+     "gf": 4,
      "ga": 2,
-     "points": 3,
+     "points": 6,
      "out": false,
-     "next": null,
+     "next": {
+      "vs": "Group I 2nd Place",
+      "date": "2026-06-30T17:00Z"
+     },
      "last": {
-      "vs": "Germany",
-      "score": "1-2",
-      "res": "L",
+      "vs": "Curaçao",
+      "score": "2-0",
+      "res": "W",
       "detail": "FT"
      }
     },
@@ -825,7 +828,7 @@
    "points": 7,
    "w": 1,
    "d": 4,
-   "l": 10,
+   "l": 11,
    "alive": 6,
    "teams": [
     {
@@ -869,16 +872,16 @@
      "flag": "cw",
      "w": 0,
      "d": 1,
-     "l": 1,
+     "l": 2,
      "gf": 1,
-     "ga": 7,
+     "ga": 9,
      "points": 1,
      "out": false,
      "next": null,
      "last": {
-      "vs": "Ecuador",
-      "score": "0-0",
-      "res": "D",
+      "vs": "Ivory Coast",
+      "score": "0-2",
+      "res": "L",
       "detail": "FT"
      }
     },
@@ -947,8 +950,8 @@
   {
    "name": "Mum",
    "color": "#d77f2f",
-   "points": 11,
-   "w": 2,
+   "points": 14,
+   "w": 3,
    "d": 5,
    "l": 6,
    "alive": 6,
@@ -1037,18 +1040,18 @@
     {
      "display": "Ecuador",
      "flag": "ec",
-     "w": 0,
+     "w": 1,
      "d": 1,
      "l": 1,
-     "gf": 0,
-     "ga": 1,
-     "points": 1,
+     "gf": 2,
+     "ga": 2,
+     "points": 4,
      "out": false,
      "next": null,
      "last": {
-      "vs": "Curaçao",
-      "score": "0-0",
-      "res": "D",
+      "vs": "Germany",
+      "score": "2-1",
+      "res": "W",
       "detail": "FT"
      }
     },
@@ -1076,7 +1079,21 @@
    ]
   }
  ],
- "live": [
+ "live": [],
+ "results": [
+  {
+   "date": "2026-06-25T20:00Z",
+   "round": "Group E",
+   "home": "Ecuador",
+   "away": "Germany",
+   "homeFlag": "ec",
+   "awayFlag": "de",
+   "homeOwner": "Mum",
+   "awayOwner": "Dad",
+   "hs": 2,
+   "as": 1,
+   "detail": "FT"
+  },
   {
    "date": "2026-06-25T20:00Z",
    "round": "Group E",
@@ -1087,24 +1104,9 @@
    "homeOwner": "Louis",
    "awayOwner": "Finley",
    "hs": 0,
-   "as": 1,
-   "clock": "33'"
+   "as": 2,
+   "detail": "FT"
   },
-  {
-   "date": "2026-06-25T20:00Z",
-   "round": "Group E",
-   "home": "Ecuador",
-   "away": "Germany",
-   "homeFlag": "ec",
-   "awayFlag": "de",
-   "homeOwner": "Mum",
-   "awayOwner": "Dad",
-   "hs": 1,
-   "as": 1,
-   "clock": "35'"
-  }
- ],
- "results": [
   {
    "date": "2026-06-25T01:00Z",
    "round": "Group A",
@@ -1908,6 +1910,26 @@
    "awayFlag": "be",
    "homeOwner": "Jasper",
    "awayOwner": "Dad"
+  },
+  {
+   "date": "2026-06-27T21:00Z",
+   "round": "Group L",
+   "home": "Croatia",
+   "away": "Ghana",
+   "homeFlag": "hr",
+   "awayFlag": "gh",
+   "homeOwner": "Finley",
+   "awayOwner": "Beth"
+  },
+  {
+   "date": "2026-06-27T21:00Z",
+   "round": "Group L",
+   "home": "Panama",
+   "away": "England",
+   "homeFlag": "pa",
+   "awayFlag": "gb-eng",
+   "homeOwner": "Keir",
+   "awayOwner": "Jasper"
   }
  ]
 }
