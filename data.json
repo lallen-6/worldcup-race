@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-25T22:10:05+00:00",
+ "generated": "2026-06-25T23:44:03+00:00",
  "matchesCompleted": 56,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -25,10 +25,7 @@
      "ga": 2,
      "points": 4,
      "out": false,
-     "next": {
-      "vs": "Sweden",
-      "date": "2026-06-25T23:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Tunisia",
       "score": "4-0",
@@ -225,10 +222,7 @@
      "ga": 3,
      "points": 4,
      "out": false,
-     "next": {
-      "vs": "Tunisia",
-      "date": "2026-06-25T23:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Sweden",
       "score": "5-1",
@@ -246,10 +240,7 @@
      "ga": 9,
      "points": 0,
      "out": false,
-     "next": {
-      "vs": "Netherlands",
-      "date": "2026-06-25T23:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Japan",
       "score": "0-4",
@@ -362,10 +353,7 @@
      "ga": 6,
      "points": 3,
      "out": false,
-     "next": {
-      "vs": "Japan",
-      "date": "2026-06-25T23:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Netherlands",
       "score": "1-5",
@@ -1079,7 +1067,34 @@
    ]
   }
  ],
- "live": [],
+ "live": [
+  {
+   "date": "2026-06-25T23:00Z",
+   "round": "Group F",
+   "home": "Japan",
+   "away": "Sweden",
+   "homeFlag": "jp",
+   "awayFlag": "se",
+   "homeOwner": "Beth",
+   "awayOwner": "Finley",
+   "hs": 0,
+   "as": 0,
+   "clock": "43'"
+  },
+  {
+   "date": "2026-06-25T23:00Z",
+   "round": "Group F",
+   "home": "Tunisia",
+   "away": "Netherlands",
+   "homeFlag": "tn",
+   "awayFlag": "nl",
+   "homeOwner": "Dad",
+   "awayOwner": "Dad",
+   "hs": 0,
+   "as": 2,
+   "clock": "43'"
+  }
+ ],
  "results": [
   {
    "date": "2026-06-25T20:00Z",
@@ -1812,26 +1827,6 @@
  ],
  "upcoming": [
   {
-   "date": "2026-06-25T23:00Z",
-   "round": "Group F",
-   "home": "Japan",
-   "away": "Sweden",
-   "homeFlag": "jp",
-   "awayFlag": "se",
-   "homeOwner": "Beth",
-   "awayOwner": "Finley"
-  },
-  {
-   "date": "2026-06-25T23:00Z",
-   "round": "Group F",
-   "home": "Tunisia",
-   "away": "Netherlands",
-   "homeFlag": "tn",
-   "awayFlag": "nl",
-   "homeOwner": "Dad",
-   "awayOwner": "Dad"
-  },
-  {
    "date": "2026-06-26T02:00Z",
    "round": "Group D",
    "home": "Paraguay",
@@ -1930,6 +1925,26 @@
    "awayFlag": "gb-eng",
    "homeOwner": "Keir",
    "awayOwner": "Jasper"
+  },
+  {
+   "date": "2026-06-27T23:30Z",
+   "round": "Group K",
+   "home": "Colombia",
+   "away": "Portugal",
+   "homeFlag": "co",
+   "awayFlag": "pt",
+   "homeOwner": "KTB",
+   "awayOwner": "Louis"
+  },
+  {
+   "date": "2026-06-27T23:30Z",
+   "round": "Group K",
+   "home": "DR Congo",
+   "away": "Uzbekistan",
+   "homeFlag": "cd",
+   "awayFlag": "uz",
+   "homeOwner": "Mum",
+   "awayOwner": "Mum"
   }
  ]
 }
