@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-25T18:24:54+00:00",
+ "generated": "2026-06-25T20:35:14+00:00",
  "matchesCompleted": 54,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -163,8 +163,8 @@
      "points": 6,
      "out": false,
      "next": {
-      "vs": "Ecuador",
-      "date": "2026-06-25T20:00Z"
+      "vs": "Third Place Group A/B/C/D/F",
+      "date": "2026-06-29T20:30Z"
      },
      "last": {
       "vs": "Ivory Coast",
@@ -320,10 +320,7 @@
      "ga": 2,
      "points": 3,
      "out": false,
-     "next": {
-      "vs": "Curaçao",
-      "date": "2026-06-25T20:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Germany",
       "score": "1-2",
@@ -877,10 +874,7 @@
      "ga": 7,
      "points": 1,
      "out": false,
-     "next": {
-      "vs": "Ivory Coast",
-      "date": "2026-06-25T20:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Ecuador",
       "score": "0-0",
@@ -1050,10 +1044,7 @@
      "ga": 1,
      "points": 1,
      "out": false,
-     "next": {
-      "vs": "Germany",
-      "date": "2026-06-25T20:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Curaçao",
       "score": "0-0",
@@ -1085,7 +1076,34 @@
    ]
   }
  ],
- "live": [],
+ "live": [
+  {
+   "date": "2026-06-25T20:00Z",
+   "round": "Group E",
+   "home": "Curaçao",
+   "away": "Ivory Coast",
+   "homeFlag": "cw",
+   "awayFlag": "ci",
+   "homeOwner": "Louis",
+   "awayOwner": "Finley",
+   "hs": 0,
+   "as": 1,
+   "clock": "33'"
+  },
+  {
+   "date": "2026-06-25T20:00Z",
+   "round": "Group E",
+   "home": "Ecuador",
+   "away": "Germany",
+   "homeFlag": "ec",
+   "awayFlag": "de",
+   "homeOwner": "Mum",
+   "awayOwner": "Dad",
+   "hs": 1,
+   "as": 1,
+   "clock": "35'"
+  }
+ ],
  "results": [
   {
    "date": "2026-06-25T01:00Z",
@@ -1791,26 +1809,6 @@
   }
  ],
  "upcoming": [
-  {
-   "date": "2026-06-25T20:00Z",
-   "round": "Group E",
-   "home": "Curaçao",
-   "away": "Ivory Coast",
-   "homeFlag": "cw",
-   "awayFlag": "ci",
-   "homeOwner": "Louis",
-   "awayOwner": "Finley"
-  },
-  {
-   "date": "2026-06-25T20:00Z",
-   "round": "Group E",
-   "home": "Ecuador",
-   "away": "Germany",
-   "homeFlag": "ec",
-   "awayFlag": "de",
-   "homeOwner": "Mum",
-   "awayOwner": "Dad"
-  },
   {
    "date": "2026-06-25T23:00Z",
    "round": "Group F",
