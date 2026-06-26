@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-25T23:44:03+00:00",
- "matchesCompleted": 56,
+ "generated": "2026-06-26T01:53:19+00:00",
+ "matchesCompleted": 58,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -9,9 +9,9 @@
   {
    "name": "Beth",
    "color": "#d94f30",
-   "points": 26,
+   "points": 27,
    "w": 7,
-   "d": 5,
+   "d": 6,
    "l": 2,
    "alive": 6,
    "teams": [
@@ -19,17 +19,20 @@
      "display": "Japan",
      "flag": "jp",
      "w": 1,
-     "d": 1,
+     "d": 2,
      "l": 0,
-     "gf": 6,
-     "ga": 2,
-     "points": 4,
+     "gf": 7,
+     "ga": 3,
+     "points": 5,
      "out": false,
-     "next": null,
+     "next": {
+      "vs": "Brazil",
+      "date": "2026-06-29T17:00Z"
+     },
      "last": {
-      "vs": "Tunisia",
-      "score": "4-0",
-      "res": "W",
+      "vs": "Sweden",
+      "score": "1-1",
+      "res": "D",
       "detail": "FT"
      }
     },
@@ -65,7 +68,7 @@
      "points": 7,
      "out": false,
      "next": {
-      "vs": "Group F Winner",
+      "vs": "Netherlands",
       "date": "2026-06-30T01:00Z"
      },
      "last": {
@@ -143,10 +146,10 @@
   {
    "name": "Dad",
    "color": "#1f5fa8",
-   "points": 24,
-   "w": 7,
+   "points": 27,
+   "w": 8,
    "d": 3,
-   "l": 3,
+   "l": 4,
    "alive": 6,
    "teams": [
     {
@@ -215,17 +218,20 @@
     {
      "display": "Netherlands",
      "flag": "nl",
-     "w": 1,
+     "w": 2,
      "d": 1,
      "l": 0,
-     "gf": 7,
-     "ga": 3,
-     "points": 4,
+     "gf": 10,
+     "ga": 4,
+     "points": 7,
      "out": false,
-     "next": null,
+     "next": {
+      "vs": "Morocco",
+      "date": "2026-06-30T01:00Z"
+     },
      "last": {
-      "vs": "Sweden",
-      "score": "5-1",
+      "vs": "Tunisia",
+      "score": "3-1",
       "res": "W",
       "detail": "FT"
      }
@@ -235,15 +241,15 @@
      "flag": "tn",
      "w": 0,
      "d": 0,
-     "l": 2,
-     "gf": 1,
-     "ga": 9,
+     "l": 3,
+     "gf": 2,
+     "ga": 12,
      "points": 0,
      "out": false,
      "next": null,
      "last": {
-      "vs": "Japan",
-      "score": "0-4",
+      "vs": "Netherlands",
+      "score": "1-3",
       "res": "L",
       "detail": "FT"
      }
@@ -274,9 +280,9 @@
   {
    "name": "Finley",
    "color": "#c9a227",
-   "points": 24,
+   "points": 25,
    "w": 7,
-   "d": 3,
+   "d": 4,
    "l": 4,
    "alive": 6,
    "teams": [
@@ -347,17 +353,17 @@
      "display": "Sweden",
      "flag": "se",
      "w": 1,
-     "d": 0,
+     "d": 1,
      "l": 1,
-     "gf": 6,
-     "ga": 6,
-     "points": 3,
+     "gf": 7,
+     "ga": 7,
+     "points": 4,
      "out": false,
      "next": null,
      "last": {
-      "vs": "Netherlands",
-      "score": "1-5",
-      "res": "L",
+      "vs": "Japan",
+      "score": "1-1",
+      "res": "D",
       "detail": "FT"
      }
     },
@@ -798,7 +804,7 @@
      "points": 7,
      "out": false,
      "next": {
-      "vs": "Group F 2nd Place",
+      "vs": "Japan",
       "date": "2026-06-29T17:00Z"
      },
      "last": {
@@ -954,7 +960,10 @@
      "ga": 6,
      "points": 4,
      "out": false,
-     "next": null,
+     "next": {
+      "vs": "USA",
+      "date": "2026-07-02T00:00Z"
+     },
      "last": {
       "vs": "Qatar",
       "score": "3-1",
@@ -1067,20 +1076,8 @@
    ]
   }
  ],
- "live": [
-  {
-   "date": "2026-06-25T23:00Z",
-   "round": "Group F",
-   "home": "Japan",
-   "away": "Sweden",
-   "homeFlag": "jp",
-   "awayFlag": "se",
-   "homeOwner": "Beth",
-   "awayOwner": "Finley",
-   "hs": 0,
-   "as": 0,
-   "clock": "43'"
-  },
+ "live": [],
+ "results": [
   {
    "date": "2026-06-25T23:00Z",
    "round": "Group F",
@@ -1090,12 +1087,23 @@
    "awayFlag": "nl",
    "homeOwner": "Dad",
    "awayOwner": "Dad",
-   "hs": 0,
-   "as": 2,
-   "clock": "43'"
-  }
- ],
- "results": [
+   "hs": 1,
+   "as": 3,
+   "detail": "FT"
+  },
+  {
+   "date": "2026-06-25T23:00Z",
+   "round": "Group F",
+   "home": "Japan",
+   "away": "Sweden",
+   "homeFlag": "jp",
+   "awayFlag": "se",
+   "homeOwner": "Beth",
+   "awayOwner": "Finley",
+   "hs": 1,
+   "as": 1,
+   "detail": "FT"
+  },
   {
    "date": "2026-06-25T20:00Z",
    "round": "Group E",
