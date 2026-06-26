@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-26T17:22:56+00:00",
+ "generated": "2026-06-26T19:22:07+00:00",
  "matchesCompleted": 60,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -204,10 +204,7 @@
      "ga": 1,
      "points": 6,
      "out": false,
-     "next": {
-      "vs": "Norway",
-      "date": "2026-06-26T19:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Iraq",
       "score": "3-0",
@@ -264,10 +261,7 @@
      "ga": 3,
      "points": 6,
      "out": false,
-     "next": {
-      "vs": "France",
-      "date": "2026-06-26T19:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Senegal",
       "score": "3-2",
@@ -663,10 +657,7 @@
      "ga": 6,
      "points": 0,
      "out": false,
-     "next": {
-      "vs": "Iraq",
-      "date": "2026-06-26T19:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Norway",
       "score": "2-3",
@@ -904,10 +895,7 @@
      "ga": 7,
      "points": 0,
      "out": false,
-     "next": {
-      "vs": "Senegal",
-      "date": "2026-06-26T19:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "France",
       "score": "0-3",
@@ -1070,7 +1058,34 @@
    ]
   }
  ],
- "live": [],
+ "live": [
+  {
+   "date": "2026-06-26T19:00Z",
+   "round": "Group I",
+   "home": "Norway",
+   "away": "France",
+   "homeFlag": "no",
+   "awayFlag": "fr",
+   "homeOwner": "Dad",
+   "awayOwner": "Dad",
+   "hs": 0,
+   "as": 2,
+   "clock": "21'"
+  },
+  {
+   "date": "2026-06-26T19:00Z",
+   "round": "Group I",
+   "home": "Senegal",
+   "away": "Iraq",
+   "homeFlag": "sn",
+   "awayFlag": "iq",
+   "homeOwner": "KTB",
+   "awayOwner": "Louis",
+   "hs": 1,
+   "as": 0,
+   "clock": "20'"
+  }
+ ],
  "results": [
   {
    "date": "2026-06-26T02:00Z",
@@ -1855,26 +1870,6 @@
  ],
  "upcoming": [
   {
-   "date": "2026-06-26T19:00Z",
-   "round": "Group I",
-   "home": "Norway",
-   "away": "France",
-   "homeFlag": "no",
-   "awayFlag": "fr",
-   "homeOwner": "Dad",
-   "awayOwner": "Dad"
-  },
-  {
-   "date": "2026-06-26T19:00Z",
-   "round": "Group I",
-   "home": "Senegal",
-   "away": "Iraq",
-   "homeFlag": "sn",
-   "awayFlag": "iq",
-   "homeOwner": "KTB",
-   "awayOwner": "Louis"
-  },
-  {
    "date": "2026-06-27T00:00Z",
    "round": "Group H",
    "home": "Cape Verde",
@@ -1973,6 +1968,16 @@
    "awayFlag": "ar",
    "homeOwner": "Keir",
    "awayOwner": "Keir"
+  },
+  {
+   "date": "2026-06-28T19:00Z",
+   "round": "Round of 32",
+   "home": "South Africa",
+   "away": "Canada",
+   "homeFlag": "za",
+   "awayFlag": "ca",
+   "homeOwner": "Finley",
+   "awayOwner": "Beth"
   }
  ]
 }
