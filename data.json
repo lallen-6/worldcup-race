@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-26T01:53:19+00:00",
- "matchesCompleted": 58,
+ "generated": "2026-06-26T06:20:04+00:00",
+ "matchesCompleted": 60,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -12,7 +12,7 @@
    "points": 27,
    "w": 7,
    "d": 6,
-   "l": 2,
+   "l": 3,
    "alive": 6,
    "teams": [
     {
@@ -41,19 +41,19 @@
      "flag": "us",
      "w": 2,
      "d": 0,
-     "l": 0,
-     "gf": 6,
-     "ga": 1,
+     "l": 1,
+     "gf": 8,
+     "ga": 4,
      "points": 6,
      "out": false,
      "next": {
-      "vs": "Turkey",
-      "date": "2026-06-26T02:00Z"
+      "vs": "Bosnia",
+      "date": "2026-07-02T00:00Z"
      },
      "last": {
-      "vs": "Australia",
-      "score": "2-0",
-      "res": "W",
+      "vs": "Turkey",
+      "score": "2-3",
+      "res": "L",
       "detail": "FT"
      }
     },
@@ -414,8 +414,8 @@
   {
    "name": "Jasper",
    "color": "#5a3b8c",
-   "points": 19,
-   "w": 5,
+   "points": 22,
+   "w": 6,
    "d": 4,
    "l": 5,
    "alive": 6,
@@ -423,21 +423,18 @@
     {
      "display": "Turkey",
      "flag": "tr",
-     "w": 0,
+     "w": 1,
      "d": 0,
      "l": 2,
-     "gf": 0,
-     "ga": 3,
-     "points": 0,
+     "gf": 3,
+     "ga": 5,
+     "points": 3,
      "out": false,
-     "next": {
-      "vs": "USA",
-      "date": "2026-06-26T02:00Z"
-     },
+     "next": null,
      "last": {
-      "vs": "Paraguay",
-      "score": "0-1",
-      "res": "L",
+      "vs": "USA",
+      "score": "3-2",
+      "res": "W",
       "detail": "FT"
      }
     },
@@ -682,9 +679,9 @@
   {
    "name": "Keir",
    "color": "#b03a5b",
-   "points": 19,
+   "points": 20,
    "w": 6,
-   "d": 1,
+   "d": 2,
    "l": 6,
    "alive": 6,
    "teams": [
@@ -692,20 +689,20 @@
      "display": "Australia",
      "flag": "au",
      "w": 1,
-     "d": 0,
+     "d": 1,
      "l": 1,
      "gf": 2,
      "ga": 2,
-     "points": 3,
+     "points": 4,
      "out": false,
      "next": {
-      "vs": "Paraguay",
-      "date": "2026-06-26T02:00Z"
+      "vs": "Group G 2nd Place",
+      "date": "2026-07-03T18:00Z"
      },
      "last": {
-      "vs": "USA",
-      "score": "0-2",
-      "res": "L",
+      "vs": "Paraguay",
+      "score": "0-0",
+      "res": "D",
       "detail": "FT"
      }
     },
@@ -944,9 +941,9 @@
   {
    "name": "Mum",
    "color": "#d77f2f",
-   "points": 14,
+   "points": 15,
    "w": 3,
-   "d": 5,
+   "d": 6,
    "l": 6,
    "alive": 6,
    "teams": [
@@ -1056,20 +1053,17 @@
      "display": "Paraguay",
      "flag": "py",
      "w": 1,
-     "d": 0,
+     "d": 1,
      "l": 1,
      "gf": 2,
      "ga": 4,
-     "points": 3,
+     "points": 4,
      "out": false,
-     "next": {
-      "vs": "Australia",
-      "date": "2026-06-26T02:00Z"
-     },
+     "next": null,
      "last": {
-      "vs": "Turkey",
-      "score": "1-0",
-      "res": "W",
+      "vs": "Australia",
+      "score": "0-0",
+      "res": "D",
       "detail": "FT"
      }
     }
@@ -1078,6 +1072,32 @@
  ],
  "live": [],
  "results": [
+  {
+   "date": "2026-06-26T02:00Z",
+   "round": "Group D",
+   "home": "Turkey",
+   "away": "USA",
+   "homeFlag": "tr",
+   "awayFlag": "us",
+   "homeOwner": "Jasper",
+   "awayOwner": "Beth",
+   "hs": 3,
+   "as": 2,
+   "detail": "FT"
+  },
+  {
+   "date": "2026-06-26T02:00Z",
+   "round": "Group D",
+   "home": "Paraguay",
+   "away": "Australia",
+   "homeFlag": "py",
+   "awayFlag": "au",
+   "homeOwner": "Mum",
+   "awayOwner": "Keir",
+   "hs": 0,
+   "as": 0,
+   "detail": "FT"
+  },
   {
    "date": "2026-06-25T23:00Z",
    "round": "Group F",
@@ -1835,26 +1855,6 @@
  ],
  "upcoming": [
   {
-   "date": "2026-06-26T02:00Z",
-   "round": "Group D",
-   "home": "Paraguay",
-   "away": "Australia",
-   "homeFlag": "py",
-   "awayFlag": "au",
-   "homeOwner": "Mum",
-   "awayOwner": "Keir"
-  },
-  {
-   "date": "2026-06-26T02:00Z",
-   "round": "Group D",
-   "home": "Turkey",
-   "away": "USA",
-   "homeFlag": "tr",
-   "awayFlag": "us",
-   "homeOwner": "Jasper",
-   "awayOwner": "Beth"
-  },
-  {
    "date": "2026-06-26T19:00Z",
    "round": "Group I",
    "home": "Norway",
@@ -1953,6 +1953,26 @@
    "awayFlag": "uz",
    "homeOwner": "Mum",
    "awayOwner": "Mum"
+  },
+  {
+   "date": "2026-06-28T02:00Z",
+   "round": "Group J",
+   "home": "Algeria",
+   "away": "Austria",
+   "homeFlag": "dz",
+   "awayFlag": "at",
+   "homeOwner": "KTB",
+   "awayOwner": "Keir"
+  },
+  {
+   "date": "2026-06-28T02:00Z",
+   "round": "Group J",
+   "home": "Jordan",
+   "away": "Argentina",
+   "homeFlag": "jo",
+   "awayFlag": "ar",
+   "homeOwner": "Keir",
+   "awayOwner": "Keir"
   }
  ]
 }
