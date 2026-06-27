@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-26T23:46:36+00:00",
- "matchesCompleted": 62,
+ "generated": "2026-06-27T04:15:27+00:00",
+ "matchesCompleted": 64,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -9,9 +9,9 @@
   {
    "name": "Beth",
    "color": "#d94f30",
-   "points": 27,
+   "points": 28,
    "w": 7,
-   "d": 6,
+   "d": 7,
    "l": 3,
    "alive": 6,
    "teams": [
@@ -124,20 +124,17 @@
      "display": "Saudi Arabia",
      "flag": "sa",
      "w": 0,
-     "d": 1,
+     "d": 2,
      "l": 1,
      "gf": 1,
      "ga": 5,
-     "points": 1,
+     "points": 2,
      "out": false,
-     "next": {
-      "vs": "Cape Verde",
-      "date": "2026-06-27T00:00Z"
-     },
+     "next": null,
      "last": {
-      "vs": "Spain",
-      "score": "0-4",
-      "res": "L",
+      "vs": "Cape Verde",
+      "score": "0-0",
+      "res": "D",
       "detail": "FT"
      }
     }
@@ -163,7 +160,7 @@
      "points": 6,
      "out": false,
      "next": {
-      "vs": "Third Place Group A/B/C/D/F",
+      "vs": "Paraguay",
       "date": "2026-06-29T20:30Z"
      },
      "last": {
@@ -183,10 +180,7 @@
      "ga": 1,
      "points": 2,
      "out": false,
-     "next": {
-      "vs": "New Zealand",
-      "date": "2026-06-27T03:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Iran",
       "score": "0-0",
@@ -205,7 +199,7 @@
      "points": 9,
      "out": false,
      "next": {
-      "vs": "Third Place Group C/D/F/G/H",
+      "vs": "Sweden",
       "date": "2026-06-30T21:00Z"
      },
      "last": {
@@ -280,8 +274,8 @@
   {
    "name": "Finley",
    "color": "#c9a227",
-   "points": 25,
-   "w": 7,
+   "points": 28,
+   "w": 8,
    "d": 4,
    "l": 4,
    "alive": 6,
@@ -331,20 +325,20 @@
     {
      "display": "Spain",
      "flag": "es",
-     "w": 1,
+     "w": 2,
      "d": 1,
      "l": 0,
-     "gf": 4,
+     "gf": 5,
      "ga": 0,
-     "points": 4,
+     "points": 7,
      "out": false,
      "next": {
-      "vs": "Uruguay",
-      "date": "2026-06-27T00:00Z"
+      "vs": "Group J 2nd Place",
+      "date": "2026-07-02T19:00Z"
      },
      "last": {
-      "vs": "Saudi Arabia",
-      "score": "4-0",
+      "vs": "Uruguay",
+      "score": "1-0",
       "res": "W",
       "detail": "FT"
      }
@@ -359,7 +353,10 @@
      "ga": 7,
      "points": 4,
      "out": false,
-     "next": null,
+     "next": {
+      "vs": "France",
+      "date": "2026-06-30T21:00Z"
+     },
      "last": {
       "vs": "Japan",
       "score": "1-1",
@@ -398,10 +395,7 @@
      "ga": 2,
      "points": 4,
      "out": false,
-     "next": {
-      "vs": "Iran",
-      "date": "2026-06-27T03:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "New Zealand",
       "score": "3-1",
@@ -414,9 +408,9 @@
   {
    "name": "Jasper",
    "color": "#5a3b8c",
-   "points": 22,
+   "points": 23,
    "w": 6,
-   "d": 4,
+   "d": 5,
    "l": 5,
    "alive": 6,
    "teams": [
@@ -487,10 +481,7 @@
      "ga": 5,
      "points": 1,
      "out": false,
-     "next": {
-      "vs": "Belgium",
-      "date": "2026-06-27T03:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Egypt",
       "score": "1-3",
@@ -523,19 +514,19 @@
      "display": "Cape Verde",
      "flag": "cv",
      "w": 0,
-     "d": 2,
+     "d": 3,
      "l": 0,
      "gf": 2,
      "ga": 2,
-     "points": 2,
+     "points": 3,
      "out": false,
      "next": {
-      "vs": "Saudi Arabia",
-      "date": "2026-06-27T00:00Z"
+      "vs": "Argentina",
+      "date": "2026-07-03T22:00Z"
      },
      "last": {
-      "vs": "Uruguay",
-      "score": "2-2",
+      "vs": "Saudi Arabia",
+      "score": "0-0",
       "res": "D",
       "detail": "FT"
      }
@@ -621,10 +612,7 @@
      "ga": 2,
      "points": 2,
      "out": false,
-     "next": {
-      "vs": "Egypt",
-      "date": "2026-06-27T03:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Belgium",
       "score": "0-0",
@@ -938,7 +926,7 @@
    "points": 15,
    "w": 3,
    "d": 6,
-   "l": 6,
+   "l": 7,
    "alive": 6,
    "teams": [
     {
@@ -1009,19 +997,16 @@
      "flag": "uy",
      "w": 0,
      "d": 2,
-     "l": 0,
+     "l": 1,
      "gf": 3,
-     "ga": 3,
+     "ga": 4,
      "points": 2,
      "out": false,
-     "next": {
-      "vs": "Spain",
-      "date": "2026-06-27T00:00Z"
-     },
+     "next": null,
      "last": {
-      "vs": "Cape Verde",
-      "score": "2-2",
-      "res": "D",
+      "vs": "Spain",
+      "score": "0-1",
+      "res": "L",
       "detail": "FT"
      }
     },
@@ -1053,7 +1038,10 @@
      "ga": 4,
      "points": 4,
      "out": false,
-     "next": null,
+     "next": {
+      "vs": "Germany",
+      "date": "2026-06-29T20:30Z"
+     },
      "last": {
       "vs": "Australia",
       "score": "0-0",
@@ -1064,8 +1052,61 @@
    ]
   }
  ],
- "live": [],
+ "live": [
+  {
+   "date": "2026-06-27T03:00Z",
+   "round": "Group G",
+   "home": "Egypt",
+   "away": "Iran",
+   "homeFlag": "eg",
+   "awayFlag": "ir",
+   "homeOwner": "Finley",
+   "awayOwner": "KTB",
+   "hs": 1,
+   "as": 1,
+   "clock": "51'"
+  },
+  {
+   "date": "2026-06-27T03:00Z",
+   "round": "Group G",
+   "home": "New Zealand",
+   "away": "Belgium",
+   "homeFlag": "nz",
+   "awayFlag": "be",
+   "homeOwner": "Jasper",
+   "awayOwner": "Dad",
+   "hs": 0,
+   "as": 2,
+   "clock": "53'"
+  }
+ ],
  "results": [
+  {
+   "date": "2026-06-27T00:00Z",
+   "round": "Group H",
+   "home": "Uruguay",
+   "away": "Spain",
+   "homeFlag": "uy",
+   "awayFlag": "es",
+   "homeOwner": "Mum",
+   "awayOwner": "Finley",
+   "hs": 0,
+   "as": 1,
+   "detail": "FT"
+  },
+  {
+   "date": "2026-06-27T00:00Z",
+   "round": "Group H",
+   "home": "Cape Verde",
+   "away": "Saudi Arabia",
+   "homeFlag": "cv",
+   "awayFlag": "sa",
+   "homeOwner": "Jasper",
+   "awayOwner": "Beth",
+   "hs": 0,
+   "as": 0,
+   "detail": "FT"
+  },
   {
    "date": "2026-06-26T19:00Z",
    "round": "Group I",
@@ -1874,46 +1915,6 @@
   }
  ],
  "upcoming": [
-  {
-   "date": "2026-06-27T00:00Z",
-   "round": "Group H",
-   "home": "Cape Verde",
-   "away": "Saudi Arabia",
-   "homeFlag": "cv",
-   "awayFlag": "sa",
-   "homeOwner": "Jasper",
-   "awayOwner": "Beth"
-  },
-  {
-   "date": "2026-06-27T00:00Z",
-   "round": "Group H",
-   "home": "Uruguay",
-   "away": "Spain",
-   "homeFlag": "uy",
-   "awayFlag": "es",
-   "homeOwner": "Mum",
-   "awayOwner": "Finley"
-  },
-  {
-   "date": "2026-06-27T03:00Z",
-   "round": "Group G",
-   "home": "Egypt",
-   "away": "Iran",
-   "homeFlag": "eg",
-   "awayFlag": "ir",
-   "homeOwner": "Finley",
-   "awayOwner": "KTB"
-  },
-  {
-   "date": "2026-06-27T03:00Z",
-   "round": "Group G",
-   "home": "New Zealand",
-   "away": "Belgium",
-   "homeFlag": "nz",
-   "awayFlag": "be",
-   "homeOwner": "Jasper",
-   "awayOwner": "Dad"
-  },
   {
    "date": "2026-06-27T21:00Z",
    "round": "Group L",
