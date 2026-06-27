@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-27T16:45:37+00:00",
+ "generated": "2026-06-27T18:17:53+00:00",
  "matchesCompleted": 66,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -1988,6 +1988,16 @@
    "homeFlag": "za",
    "awayFlag": "ca",
    "homeOwner": "Finley",
+   "awayOwner": "Beth"
+  },
+  {
+   "date": "2026-06-29T17:00Z",
+   "round": "Round of 32",
+   "home": "Brazil",
+   "away": "Japan",
+   "homeFlag": "br",
+   "awayFlag": "jp",
+   "homeOwner": "Keir",
    "awayOwner": "Beth"
   }
  ]
