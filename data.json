@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-27T22:43:07+00:00",
- "matchesCompleted": 66,
+ "generated": "2026-06-27T23:42:57+00:00",
+ "matchesCompleted": 68,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -12,7 +12,7 @@
    "points": 28,
    "w": 7,
    "d": 7,
-   "l": 3,
+   "l": 4,
    "alive": 6,
    "teams": [
     {
@@ -104,16 +104,19 @@
      "flag": "gh",
      "w": 1,
      "d": 1,
-     "l": 0,
-     "gf": 1,
-     "ga": 0,
+     "l": 1,
+     "gf": 2,
+     "ga": 2,
      "points": 4,
      "out": false,
-     "next": null,
+     "next": {
+      "vs": "Group K Winner",
+      "date": "2026-07-04T01:30Z"
+     },
      "last": {
-      "vs": "England",
-      "score": "0-0",
-      "res": "D",
+      "vs": "Croatia",
+      "score": "1-2",
+      "res": "L",
       "detail": "FT"
      }
     },
@@ -274,8 +277,8 @@
   {
    "name": "Finley",
    "color": "#c9a227",
-   "points": 29,
-   "w": 8,
+   "points": 32,
+   "w": 9,
    "d": 5,
    "l": 4,
    "alive": 6,
@@ -283,17 +286,20 @@
     {
      "display": "Croatia",
      "flag": "hr",
-     "w": 1,
+     "w": 2,
      "d": 0,
      "l": 1,
-     "gf": 3,
-     "ga": 4,
-     "points": 3,
+     "gf": 5,
+     "ga": 5,
+     "points": 6,
      "out": false,
-     "next": null,
+     "next": {
+      "vs": "Group K 2nd Place",
+      "date": "2026-07-02T23:00Z"
+     },
      "last": {
-      "vs": "Panama",
-      "score": "1-0",
+      "vs": "Ghana",
+      "score": "2-1",
       "res": "W",
       "detail": "FT"
      }
@@ -408,8 +414,8 @@
   {
    "name": "Jasper",
    "color": "#5a3b8c",
-   "points": 23,
-   "w": 6,
+   "points": 26,
+   "w": 7,
    "d": 5,
    "l": 6,
    "alive": 6,
@@ -453,18 +459,21 @@
     {
      "display": "England",
      "flag": "gb-eng",
-     "w": 1,
+     "w": 2,
      "d": 1,
      "l": 0,
-     "gf": 4,
+     "gf": 6,
      "ga": 2,
-     "points": 4,
+     "points": 7,
      "out": false,
-     "next": null,
+     "next": {
+      "vs": "Third Place Group E/H/I/J/K",
+      "date": "2026-07-01T16:00Z"
+     },
      "last": {
-      "vs": "Ghana",
-      "score": "0-0",
-      "res": "D",
+      "vs": "Panama",
+      "score": "2-0",
+      "res": "W",
       "detail": "FT"
      }
     },
@@ -497,7 +506,7 @@
      "points": 9,
      "out": false,
      "next": {
-      "vs": "Third Place Group C/E/F/H/I",
+      "vs": "Ecuador",
       "date": "2026-07-01T01:00Z"
      },
      "last": {
@@ -588,10 +597,7 @@
      "ga": 1,
      "points": 6,
      "out": false,
-     "next": {
-      "vs": "Portugal",
-      "date": "2026-06-27T23:30Z"
-     },
+     "next": null,
      "last": {
       "vs": "DR Congo",
       "score": "1-0",
@@ -664,7 +670,7 @@
    "points": 20,
    "w": 6,
    "d": 2,
-   "l": 6,
+   "l": 7,
    "alive": 6,
    "teams": [
     {
@@ -735,15 +741,15 @@
      "flag": "pa",
      "w": 0,
      "d": 0,
-     "l": 2,
+     "l": 3,
      "gf": 0,
-     "ga": 2,
+     "ga": 4,
      "points": 0,
      "out": false,
      "next": null,
      "last": {
-      "vs": "Croatia",
-      "score": "0-1",
+      "vs": "England",
+      "score": "0-2",
       "res": "L",
       "detail": "FT"
      }
@@ -901,10 +907,7 @@
      "ga": 1,
      "points": 4,
      "out": false,
-     "next": {
-      "vs": "Colombia",
-      "date": "2026-06-27T23:30Z"
-     },
+     "next": null,
      "last": {
       "vs": "Uzbekistan",
       "score": "5-0",
@@ -954,10 +957,7 @@
      "ga": 2,
      "points": 1,
      "out": false,
-     "next": {
-      "vs": "Uzbekistan",
-      "date": "2026-06-27T23:30Z"
-     },
+     "next": null,
      "last": {
       "vs": "Colombia",
       "score": "0-1",
@@ -975,10 +975,7 @@
      "ga": 8,
      "points": 0,
      "out": false,
-     "next": {
-      "vs": "DR Congo",
-      "date": "2026-06-27T23:30Z"
-     },
+     "next": null,
      "last": {
       "vs": "Portugal",
       "score": "0-5",
@@ -1014,7 +1011,10 @@
      "ga": 2,
      "points": 4,
      "out": false,
-     "next": null,
+     "next": {
+      "vs": "Mexico",
+      "date": "2026-07-01T01:00Z"
+     },
      "last": {
       "vs": "Germany",
       "score": "2-1",
@@ -1048,18 +1048,33 @@
  ],
  "live": [
   {
-   "date": "2026-06-27T21:00Z",
-   "round": "Group L",
-   "home": "Croatia",
-   "away": "Ghana",
-   "homeFlag": "hr",
-   "awayFlag": "gh",
-   "homeOwner": "Finley",
-   "awayOwner": "Beth",
-   "hs": 1,
-   "as": 1,
-   "clock": "81'"
+   "date": "2026-06-27T23:30Z",
+   "round": "Group K",
+   "home": "Colombia",
+   "away": "Portugal",
+   "homeFlag": "co",
+   "awayFlag": "pt",
+   "homeOwner": "KTB",
+   "awayOwner": "Louis",
+   "hs": 0,
+   "as": 0,
+   "clock": "11'"
   },
+  {
+   "date": "2026-06-27T23:30Z",
+   "round": "Group K",
+   "home": "DR Congo",
+   "away": "Uzbekistan",
+   "homeFlag": "cd",
+   "awayFlag": "uz",
+   "homeOwner": "Mum",
+   "awayOwner": "Mum",
+   "hs": 0,
+   "as": 1,
+   "clock": "11'"
+  }
+ ],
+ "results": [
   {
    "date": "2026-06-27T21:00Z",
    "round": "Group L",
@@ -1071,10 +1086,21 @@
    "awayOwner": "Jasper",
    "hs": 0,
    "as": 2,
-   "clock": "84'"
-  }
- ],
- "results": [
+   "detail": "FT"
+  },
+  {
+   "date": "2026-06-27T21:00Z",
+   "round": "Group L",
+   "home": "Croatia",
+   "away": "Ghana",
+   "homeFlag": "hr",
+   "awayFlag": "gh",
+   "homeOwner": "Finley",
+   "awayOwner": "Beth",
+   "hs": 2,
+   "as": 1,
+   "detail": "FT"
+  },
   {
    "date": "2026-06-27T03:00Z",
    "round": "Group G",
@@ -1935,26 +1961,6 @@
   }
  ],
  "upcoming": [
-  {
-   "date": "2026-06-27T23:30Z",
-   "round": "Group K",
-   "home": "Colombia",
-   "away": "Portugal",
-   "homeFlag": "co",
-   "awayFlag": "pt",
-   "homeOwner": "KTB",
-   "awayOwner": "Louis"
-  },
-  {
-   "date": "2026-06-27T23:30Z",
-   "round": "Group K",
-   "home": "DR Congo",
-   "away": "Uzbekistan",
-   "homeFlag": "cd",
-   "awayFlag": "uz",
-   "homeOwner": "Mum",
-   "awayOwner": "Mum"
-  },
   {
    "date": "2026-06-28T02:00Z",
    "round": "Group J",
