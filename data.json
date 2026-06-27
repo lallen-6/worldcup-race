@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-27T19:57:07+00:00",
+ "generated": "2026-06-27T21:19:04+00:00",
  "matchesCompleted": 66,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -109,10 +109,7 @@
      "ga": 0,
      "points": 4,
      "out": false,
-     "next": {
-      "vs": "Croatia",
-      "date": "2026-06-27T21:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "England",
       "score": "0-0",
@@ -293,10 +290,7 @@
      "ga": 4,
      "points": 3,
      "out": false,
-     "next": {
-      "vs": "Ghana",
-      "date": "2026-06-27T21:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Panama",
       "score": "1-0",
@@ -466,10 +460,7 @@
      "ga": 2,
      "points": 4,
      "out": false,
-     "next": {
-      "vs": "Panama",
-      "date": "2026-06-27T21:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Ghana",
       "score": "0-0",
@@ -749,10 +740,7 @@
      "ga": 2,
      "points": 0,
      "out": false,
-     "next": {
-      "vs": "England",
-      "date": "2026-06-27T21:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Croatia",
       "score": "0-1",
@@ -1058,7 +1046,34 @@
    ]
   }
  ],
- "live": [],
+ "live": [
+  {
+   "date": "2026-06-27T21:00Z",
+   "round": "Group L",
+   "home": "Croatia",
+   "away": "Ghana",
+   "homeFlag": "hr",
+   "awayFlag": "gh",
+   "homeOwner": "Finley",
+   "awayOwner": "Beth",
+   "hs": 0,
+   "as": 0,
+   "clock": "17'"
+  },
+  {
+   "date": "2026-06-27T21:00Z",
+   "round": "Group L",
+   "home": "Panama",
+   "away": "England",
+   "homeFlag": "pa",
+   "awayFlag": "gb-eng",
+   "homeOwner": "Keir",
+   "awayOwner": "Jasper",
+   "hs": 0,
+   "as": 0,
+   "clock": "18'"
+  }
+ ],
  "results": [
   {
    "date": "2026-06-27T03:00Z",
@@ -1921,26 +1936,6 @@
  ],
  "upcoming": [
   {
-   "date": "2026-06-27T21:00Z",
-   "round": "Group L",
-   "home": "Croatia",
-   "away": "Ghana",
-   "homeFlag": "hr",
-   "awayFlag": "gh",
-   "homeOwner": "Finley",
-   "awayOwner": "Beth"
-  },
-  {
-   "date": "2026-06-27T21:00Z",
-   "round": "Group L",
-   "home": "Panama",
-   "away": "England",
-   "homeFlag": "pa",
-   "awayFlag": "gb-eng",
-   "homeOwner": "Keir",
-   "awayOwner": "Jasper"
-  },
-  {
    "date": "2026-06-27T23:30Z",
    "round": "Group K",
    "home": "Colombia",
@@ -1999,6 +1994,16 @@
    "awayFlag": "jp",
    "homeOwner": "Keir",
    "awayOwner": "Beth"
+  },
+  {
+   "date": "2026-06-29T20:30Z",
+   "round": "Round of 32",
+   "home": "Germany",
+   "away": "Paraguay",
+   "homeFlag": "de",
+   "awayFlag": "py",
+   "homeOwner": "Dad",
+   "awayOwner": "Mum"
   }
  ]
 }
