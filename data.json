@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-28T19:59:00+00:00",
- "matchesCompleted": 72,
+ "generated": "2026-06-28T21:18:57+00:00",
+ "matchesCompleted": 73,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -9,8 +9,8 @@
   {
    "name": "Beth",
    "color": "#d94f30",
-   "points": 28,
-   "w": 7,
+   "points": 31,
+   "w": 8,
    "d": 7,
    "l": 4,
    "alive": 5,
@@ -81,18 +81,21 @@
     {
      "display": "Canada",
      "flag": "ca",
-     "w": 1,
+     "w": 2,
      "d": 1,
      "l": 1,
-     "gf": 8,
+     "gf": 9,
      "ga": 3,
-     "points": 4,
+     "points": 7,
      "out": false,
-     "next": null,
+     "next": {
+      "vs": "Round of 32 3 Winner",
+      "date": "2026-07-04T17:00Z"
+     },
      "last": {
-      "vs": "Switzerland",
-      "score": "1-2",
-      "res": "L",
+      "vs": "South Africa",
+      "score": "1-0",
+      "res": "W",
       "detail": "FT"
      }
     },
@@ -277,8 +280,8 @@
    "points": 32,
    "w": 9,
    "d": 5,
-   "l": 4,
-   "alive": 6,
+   "l": 5,
+   "alive": 5,
    "teams": [
     {
      "display": "Croatia",
@@ -369,16 +372,16 @@
      "flag": "za",
      "w": 1,
      "d": 1,
-     "l": 1,
+     "l": 2,
      "gf": 2,
-     "ga": 3,
+     "ga": 4,
      "points": 4,
-     "out": false,
+     "out": true,
      "next": null,
      "last": {
-      "vs": "South Korea",
-      "score": "1-0",
-      "res": "W",
+      "vs": "Canada",
+      "score": "0-1",
+      "res": "L",
       "detail": "FT"
      }
     },
@@ -1049,7 +1052,8 @@
    ]
   }
  ],
- "live": [
+ "live": [],
+ "results": [
   {
    "date": "2026-06-28T19:00Z",
    "round": "Round of 32",
@@ -1060,11 +1064,9 @@
    "homeOwner": "Finley",
    "awayOwner": "Beth",
    "hs": 0,
-   "as": 0,
-   "clock": "45'+3'"
-  }
- ],
- "results": [
+   "as": 1,
+   "detail": "FT"
+  },
   {
    "date": "2026-06-28T02:00Z",
    "round": "Group J",
@@ -2042,6 +2044,16 @@
    "awayFlag": "no",
    "homeOwner": "Finley",
    "awayOwner": "Dad"
+  },
+  {
+   "date": "2026-06-30T21:00Z",
+   "round": "Round of 32",
+   "home": "France",
+   "away": "Sweden",
+   "homeFlag": "fr",
+   "awayFlag": "se",
+   "homeOwner": "Dad",
+   "awayOwner": "Finley"
   }
  ]
 }
