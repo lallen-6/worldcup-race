@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-28T16:48:15+00:00",
+ "generated": "2026-06-28T18:17:01+00:00",
  "matchesCompleted": 72,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -2034,6 +2034,16 @@
    "awayFlag": "ma",
    "homeOwner": "Dad",
    "awayOwner": "Beth"
+  },
+  {
+   "date": "2026-06-30T17:00Z",
+   "round": "Round of 32",
+   "home": "Ivory Coast",
+   "away": "Norway",
+   "homeFlag": "ci",
+   "awayFlag": "no",
+   "homeOwner": "Finley",
+   "awayOwner": "Dad"
   }
  ]
 }
