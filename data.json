@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-29T22:31:46+00:00",
- "matchesCompleted": 74,
+ "generated": "2026-06-29T23:40:10+00:00",
+ "matchesCompleted": 75,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -143,25 +143,25 @@
    "points": 33,
    "w": 10,
    "d": 3,
-   "l": 5,
-   "alive": 5,
+   "l": 6,
+   "alive": 4,
    "teams": [
     {
      "display": "Germany",
      "flag": "de",
      "w": 2,
      "d": 0,
-     "l": 1,
-     "gf": 10,
-     "ga": 4,
+     "l": 2,
+     "gf": 11,
+     "ga": 5,
      "points": 6,
-     "out": false,
+     "out": true,
      "next": null,
      "last": {
-      "vs": "Ecuador",
-      "score": "1-2",
+      "vs": "Paraguay",
+      "score": "1-1",
       "res": "L",
-      "detail": "FT"
+      "detail": "FT-Pens"
      }
     },
     {
@@ -917,8 +917,8 @@
   {
    "name": "Mum",
    "color": "#d77f2f",
-   "points": 18,
-   "w": 4,
+   "points": 21,
+   "w": 5,
    "d": 6,
    "l": 8,
    "alive": 4,
@@ -1025,25 +1025,29 @@
     {
      "display": "Paraguay",
      "flag": "py",
-     "w": 1,
+     "w": 2,
      "d": 1,
      "l": 1,
-     "gf": 2,
-     "ga": 4,
-     "points": 4,
+     "gf": 3,
+     "ga": 5,
+     "points": 7,
      "out": false,
-     "next": null,
+     "next": {
+      "vs": "Round of 32 5 Winner",
+      "date": "2026-07-04T21:00Z"
+     },
      "last": {
-      "vs": "Australia",
-      "score": "0-0",
-      "res": "D",
-      "detail": "FT"
+      "vs": "Germany",
+      "score": "1-1",
+      "res": "W",
+      "detail": "FT-Pens"
      }
     }
    ]
   }
  ],
- "live": [
+ "live": [],
+ "results": [
   {
    "date": "2026-06-29T20:30Z",
    "round": "Round of 32",
@@ -1055,10 +1059,8 @@
    "awayOwner": "Mum",
    "hs": 1,
    "as": 1,
-   "clock": "90'+6'"
-  }
- ],
- "results": [
+   "detail": "FT-Pens"
+  },
   {
    "date": "2026-06-29T17:00Z",
    "round": "Round of 32",
