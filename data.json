@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-29T19:24:34+00:00",
+ "generated": "2026-06-29T21:12:30+00:00",
  "matchesCompleted": 74,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -156,10 +156,7 @@
      "ga": 4,
      "points": 6,
      "out": false,
-     "next": {
-      "vs": "Paraguay",
-      "date": "2026-06-29T20:30Z"
-     },
+     "next": null,
      "last": {
       "vs": "Ecuador",
       "score": "1-2",
@@ -1035,10 +1032,7 @@
      "ga": 4,
      "points": 4,
      "out": false,
-     "next": {
-      "vs": "Germany",
-      "date": "2026-06-29T20:30Z"
-     },
+     "next": null,
      "last": {
       "vs": "Australia",
       "score": "0-0",
@@ -1049,7 +1043,21 @@
    ]
   }
  ],
- "live": [],
+ "live": [
+  {
+   "date": "2026-06-29T20:30Z",
+   "round": "Round of 32",
+   "home": "Germany",
+   "away": "Paraguay",
+   "homeFlag": "de",
+   "awayFlag": "py",
+   "homeOwner": "Dad",
+   "awayOwner": "Mum",
+   "hs": 0,
+   "as": 1,
+   "clock": "42'"
+  }
+ ],
  "results": [
   {
    "date": "2026-06-29T17:00Z",
@@ -2016,16 +2024,6 @@
  ],
  "upcoming": [
   {
-   "date": "2026-06-29T20:30Z",
-   "round": "Round of 32",
-   "home": "Germany",
-   "away": "Paraguay",
-   "homeFlag": "de",
-   "awayFlag": "py",
-   "homeOwner": "Dad",
-   "awayOwner": "Mum"
-  },
-  {
    "date": "2026-06-30T01:00Z",
    "round": "Round of 32",
    "home": "Netherlands",
@@ -2074,6 +2072,16 @@
    "awayFlag": "cd",
    "homeOwner": "Jasper",
    "awayOwner": "Mum"
+  },
+  {
+   "date": "2026-07-01T20:00Z",
+   "round": "Round of 32",
+   "home": "Belgium",
+   "away": "Senegal",
+   "homeFlag": "be",
+   "awayFlag": "sn",
+   "homeOwner": "Dad",
+   "awayOwner": "KTB"
   }
  ]
 }
