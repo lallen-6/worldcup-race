@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-28T23:47:55+00:00",
+ "generated": "2026-06-29T04:58:41+00:00",
  "matchesCompleted": 73,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -2054,6 +2054,16 @@
    "awayFlag": "se",
    "homeOwner": "Dad",
    "awayOwner": "Finley"
+  },
+  {
+   "date": "2026-07-01T01:00Z",
+   "round": "Round of 32",
+   "home": "Mexico",
+   "away": "Ecuador",
+   "homeFlag": "mx",
+   "awayFlag": "ec",
+   "homeOwner": "Jasper",
+   "awayOwner": "Mum"
   }
  ]
 }
