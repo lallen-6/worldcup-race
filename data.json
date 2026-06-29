@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-29T14:18:53+00:00",
+ "generated": "2026-06-29T17:19:42+00:00",
  "matchesCompleted": 73,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -25,10 +25,7 @@
      "ga": 3,
      "points": 5,
      "out": false,
-     "next": {
-      "vs": "Brazil",
-      "date": "2026-06-29T17:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Sweden",
       "score": "1-1",
@@ -785,10 +782,7 @@
      "ga": 1,
      "points": 7,
      "out": false,
-     "next": {
-      "vs": "Japan",
-      "date": "2026-06-29T17:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Scotland",
       "score": "3-0",
@@ -1052,7 +1046,21 @@
    ]
   }
  ],
- "live": [],
+ "live": [
+  {
+   "date": "2026-06-29T17:00Z",
+   "round": "Round of 32",
+   "home": "Brazil",
+   "away": "Japan",
+   "homeFlag": "br",
+   "awayFlag": "jp",
+   "homeOwner": "Keir",
+   "awayOwner": "Beth",
+   "hs": 0,
+   "as": 0,
+   "clock": "19'"
+  }
+ ],
  "results": [
   {
    "date": "2026-06-28T19:00Z",
@@ -2006,16 +2014,6 @@
  ],
  "upcoming": [
   {
-   "date": "2026-06-29T17:00Z",
-   "round": "Round of 32",
-   "home": "Brazil",
-   "away": "Japan",
-   "homeFlag": "br",
-   "awayFlag": "jp",
-   "homeOwner": "Keir",
-   "awayOwner": "Beth"
-  },
-  {
    "date": "2026-06-29T20:30Z",
    "round": "Round of 32",
    "home": "Germany",
@@ -2062,6 +2060,16 @@
    "away": "Ecuador",
    "homeFlag": "mx",
    "awayFlag": "ec",
+   "homeOwner": "Jasper",
+   "awayOwner": "Mum"
+  },
+  {
+   "date": "2026-07-01T16:00Z",
+   "round": "Round of 32",
+   "home": "England",
+   "away": "DR Congo",
+   "homeFlag": "gb-eng",
+   "awayFlag": "cd",
    "homeOwner": "Jasper",
    "awayOwner": "Mum"
   }
