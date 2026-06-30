@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-30T19:23:51+00:00",
+ "generated": "2026-06-30T21:18:50+00:00",
  "matchesCompleted": 77,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -195,10 +195,7 @@
      "ga": 2,
      "points": 9,
      "out": false,
-     "next": {
-      "vs": "Sweden",
-      "date": "2026-06-30T21:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Norway",
       "score": "4-1",
@@ -344,10 +341,7 @@
      "ga": 7,
      "points": 4,
      "out": false,
-     "next": {
-      "vs": "France",
-      "date": "2026-06-30T21:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Japan",
       "score": "1-1",
@@ -1040,7 +1034,21 @@
    ]
   }
  ],
- "live": [],
+ "live": [
+  {
+   "date": "2026-06-30T21:00Z",
+   "round": "Round of 32",
+   "home": "France",
+   "away": "Sweden",
+   "homeFlag": "fr",
+   "awayFlag": "se",
+   "homeOwner": "Dad",
+   "awayOwner": "Finley",
+   "hs": 0,
+   "as": 0,
+   "clock": "18'"
+  }
+ ],
  "results": [
   {
    "date": "2026-06-30T17:00Z",
@@ -2045,16 +2053,6 @@
   }
  ],
  "upcoming": [
-  {
-   "date": "2026-06-30T21:00Z",
-   "round": "Round of 32",
-   "home": "France",
-   "away": "Sweden",
-   "homeFlag": "fr",
-   "awayFlag": "se",
-   "homeOwner": "Dad",
-   "awayOwner": "Finley"
-  },
   {
    "date": "2026-07-01T01:00Z",
    "round": "Round of 32",
