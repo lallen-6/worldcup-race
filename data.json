@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-30T15:18:27+00:00",
+ "generated": "2026-06-30T17:28:35+00:00",
  "matchesCompleted": 76,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -252,10 +252,7 @@
      "ga": 7,
      "points": 6,
      "out": false,
-     "next": {
-      "vs": "Ivory Coast",
-      "date": "2026-06-30T17:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "France",
       "score": "1-4",
@@ -305,10 +302,7 @@
      "ga": 2,
      "points": 6,
      "out": false,
-     "next": {
-      "vs": "Norway",
-      "date": "2026-06-30T17:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Curaçao",
       "score": "2-0",
@@ -1043,7 +1037,21 @@
    ]
   }
  ],
- "live": [],
+ "live": [
+  {
+   "date": "2026-06-30T17:00Z",
+   "round": "Round of 32",
+   "home": "Ivory Coast",
+   "away": "Norway",
+   "homeFlag": "ci",
+   "awayFlag": "no",
+   "homeOwner": "Finley",
+   "awayOwner": "Dad",
+   "hs": 0,
+   "as": 0,
+   "clock": "28'"
+  }
+ ],
  "results": [
   {
    "date": "2026-06-30T01:00Z",
@@ -2035,16 +2043,6 @@
   }
  ],
  "upcoming": [
-  {
-   "date": "2026-06-30T17:00Z",
-   "round": "Round of 32",
-   "home": "Ivory Coast",
-   "away": "Norway",
-   "homeFlag": "ci",
-   "awayFlag": "no",
-   "homeOwner": "Finley",
-   "awayOwner": "Dad"
-  },
   {
    "date": "2026-06-30T21:00Z",
    "round": "Round of 32",
