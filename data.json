@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-30T17:28:35+00:00",
- "matchesCompleted": 76,
+ "generated": "2026-06-30T19:23:51+00:00",
+ "matchesCompleted": 77,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -140,8 +140,8 @@
   {
    "name": "Dad",
    "color": "#1f5fa8",
-   "points": 33,
-   "w": 10,
+   "points": 36,
+   "w": 11,
    "d": 3,
    "l": 7,
    "alive": 3,
@@ -245,18 +245,21 @@
     {
      "display": "Norway",
      "flag": "no",
-     "w": 2,
+     "w": 3,
      "d": 0,
      "l": 1,
-     "gf": 8,
-     "ga": 7,
-     "points": 6,
+     "gf": 10,
+     "ga": 8,
+     "points": 9,
      "out": false,
-     "next": null,
+     "next": {
+      "vs": "Brazil",
+      "date": "2026-07-05T20:00Z"
+     },
      "last": {
-      "vs": "France",
-      "score": "1-4",
-      "res": "L",
+      "vs": "Ivory Coast",
+      "score": "2-1",
+      "res": "W",
       "detail": "FT"
      }
     }
@@ -268,8 +271,8 @@
    "points": 32,
    "w": 9,
    "d": 5,
-   "l": 5,
-   "alive": 5,
+   "l": 6,
+   "alive": 4,
    "teams": [
     {
      "display": "Croatia",
@@ -297,16 +300,16 @@
      "flag": "ci",
      "w": 2,
      "d": 0,
-     "l": 1,
-     "gf": 4,
-     "ga": 2,
+     "l": 2,
+     "gf": 5,
+     "ga": 4,
      "points": 6,
-     "out": false,
+     "out": true,
      "next": null,
      "last": {
-      "vs": "Curaçao",
-      "score": "2-0",
-      "res": "W",
+      "vs": "Norway",
+      "score": "1-2",
+      "res": "L",
       "detail": "FT"
      }
     },
@@ -771,7 +774,7 @@
      "points": 10,
      "out": false,
      "next": {
-      "vs": "Round of 32 6 Winner",
+      "vs": "Norway",
       "date": "2026-07-05T20:00Z"
      },
      "last": {
@@ -1037,7 +1040,8 @@
    ]
   }
  ],
- "live": [
+ "live": [],
+ "results": [
   {
    "date": "2026-06-30T17:00Z",
    "round": "Round of 32",
@@ -1047,12 +1051,10 @@
    "awayFlag": "no",
    "homeOwner": "Finley",
    "awayOwner": "Dad",
-   "hs": 0,
-   "as": 0,
-   "clock": "28'"
-  }
- ],
- "results": [
+   "hs": 1,
+   "as": 2,
+   "detail": "FT"
+  },
   {
    "date": "2026-06-30T01:00Z",
    "round": "Round of 32",
@@ -2092,6 +2094,16 @@
    "awayFlag": "ba",
    "homeOwner": "Beth",
    "awayOwner": "Mum"
+  },
+  {
+   "date": "2026-07-02T19:00Z",
+   "round": "Round of 32",
+   "home": "Spain",
+   "away": "Austria",
+   "homeFlag": "es",
+   "awayFlag": "at",
+   "homeOwner": "Finley",
+   "awayOwner": "Keir"
   }
  ]
 }
