@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-30T21:18:50+00:00",
- "matchesCompleted": 77,
+ "generated": "2026-06-30T22:56:08+00:00",
+ "matchesCompleted": 78,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -140,8 +140,8 @@
   {
    "name": "Dad",
    "color": "#1f5fa8",
-   "points": 36,
-   "w": 11,
+   "points": 39,
+   "w": 12,
    "d": 3,
    "l": 7,
    "alive": 3,
@@ -188,17 +188,20 @@
     {
      "display": "France",
      "flag": "fr",
-     "w": 3,
+     "w": 4,
      "d": 0,
      "l": 0,
-     "gf": 10,
+     "gf": 13,
      "ga": 2,
-     "points": 9,
+     "points": 12,
      "out": false,
-     "next": null,
+     "next": {
+      "vs": "Paraguay",
+      "date": "2026-07-04T21:00Z"
+     },
      "last": {
-      "vs": "Norway",
-      "score": "4-1",
+      "vs": "Sweden",
+      "score": "3-0",
       "res": "W",
       "detail": "FT"
      }
@@ -268,8 +271,8 @@
    "points": 32,
    "w": 9,
    "d": 5,
-   "l": 6,
-   "alive": 4,
+   "l": 7,
+   "alive": 3,
    "teams": [
     {
      "display": "Croatia",
@@ -336,16 +339,16 @@
      "flag": "se",
      "w": 1,
      "d": 1,
-     "l": 1,
+     "l": 2,
      "gf": 7,
-     "ga": 7,
+     "ga": 10,
      "points": 4,
-     "out": false,
+     "out": true,
      "next": null,
      "last": {
-      "vs": "Japan",
-      "score": "1-1",
-      "res": "D",
+      "vs": "France",
+      "score": "0-3",
+      "res": "L",
       "detail": "FT"
      }
     },
@@ -1021,7 +1024,7 @@
      "points": 7,
      "out": false,
      "next": {
-      "vs": "Round of 32 5 Winner",
+      "vs": "France",
       "date": "2026-07-04T21:00Z"
      },
      "last": {
@@ -1034,7 +1037,8 @@
    ]
   }
  ],
- "live": [
+ "live": [],
+ "results": [
   {
    "date": "2026-06-30T21:00Z",
    "round": "Round of 32",
@@ -1044,12 +1048,10 @@
    "awayFlag": "se",
    "homeOwner": "Dad",
    "awayOwner": "Finley",
-   "hs": 0,
+   "hs": 3,
    "as": 0,
-   "clock": "18'"
-  }
- ],
- "results": [
+   "detail": "FT"
+  },
   {
    "date": "2026-06-30T17:00Z",
    "round": "Round of 32",
