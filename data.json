@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-30T01:36:48+00:00",
- "matchesCompleted": 75,
+ "generated": "2026-06-30T05:55:39+00:00",
+ "matchesCompleted": 76,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -9,8 +9,8 @@
   {
    "name": "Beth",
    "color": "#d94f30",
-   "points": 31,
-   "w": 8,
+   "points": 34,
+   "w": 9,
    "d": 7,
    "l": 5,
    "alive": 4,
@@ -57,19 +57,22 @@
     {
      "display": "Morocco",
      "flag": "ma",
-     "w": 2,
+     "w": 3,
      "d": 1,
      "l": 0,
-     "gf": 6,
-     "ga": 3,
-     "points": 7,
+     "gf": 7,
+     "ga": 4,
+     "points": 10,
      "out": false,
-     "next": null,
+     "next": {
+      "vs": "Canada",
+      "date": "2026-07-04T17:00Z"
+     },
      "last": {
-      "vs": "Haiti",
-      "score": "4-2",
+      "vs": "Netherlands",
+      "score": "1-1",
       "res": "W",
-      "detail": "FT"
+      "detail": "FT-Pens"
      }
     },
     {
@@ -83,7 +86,7 @@
      "points": 7,
      "out": false,
      "next": {
-      "vs": "Round of 32 3 Winner",
+      "vs": "Morocco",
       "date": "2026-07-04T17:00Z"
      },
      "last": {
@@ -140,8 +143,8 @@
    "points": 33,
    "w": 10,
    "d": 3,
-   "l": 6,
-   "alive": 4,
+   "l": 7,
+   "alive": 3,
    "teams": [
     {
      "display": "Germany",
@@ -208,17 +211,17 @@
      "flag": "nl",
      "w": 2,
      "d": 1,
-     "l": 0,
-     "gf": 10,
-     "ga": 4,
+     "l": 1,
+     "gf": 11,
+     "ga": 5,
      "points": 7,
-     "out": false,
+     "out": true,
      "next": null,
      "last": {
-      "vs": "Tunisia",
-      "score": "3-1",
-      "res": "W",
-      "detail": "FT"
+      "vs": "Morocco",
+      "score": "1-1",
+      "res": "L",
+      "detail": "FT-Pens"
      }
     },
     {
@@ -1040,7 +1043,8 @@
    ]
   }
  ],
- "live": [
+ "live": [],
+ "results": [
   {
    "date": "2026-06-30T01:00Z",
    "round": "Round of 32",
@@ -1050,12 +1054,10 @@
    "awayFlag": "ma",
    "homeOwner": "Dad",
    "awayOwner": "Beth",
-   "hs": 0,
-   "as": 0,
-   "clock": "36'"
-  }
- ],
- "results": [
+   "hs": 1,
+   "as": 1,
+   "detail": "FT-Pens"
+  },
   {
    "date": "2026-06-29T20:30Z",
    "round": "Round of 32",
