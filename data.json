@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-29T23:40:10+00:00",
+ "generated": "2026-06-30T01:36:48+00:00",
  "matchesCompleted": 75,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -64,10 +64,7 @@
      "ga": 3,
      "points": 7,
      "out": false,
-     "next": {
-      "vs": "Netherlands",
-      "date": "2026-06-30T01:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Haiti",
       "score": "4-2",
@@ -216,10 +213,7 @@
      "ga": 4,
      "points": 7,
      "out": false,
-     "next": {
-      "vs": "Morocco",
-      "date": "2026-06-30T01:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Tunisia",
       "score": "3-1",
@@ -1046,7 +1040,21 @@
    ]
   }
  ],
- "live": [],
+ "live": [
+  {
+   "date": "2026-06-30T01:00Z",
+   "round": "Round of 32",
+   "home": "Netherlands",
+   "away": "Morocco",
+   "homeFlag": "nl",
+   "awayFlag": "ma",
+   "homeOwner": "Dad",
+   "awayOwner": "Beth",
+   "hs": 0,
+   "as": 0,
+   "clock": "36'"
+  }
+ ],
  "results": [
   {
    "date": "2026-06-29T20:30Z",
@@ -2026,16 +2034,6 @@
  ],
  "upcoming": [
   {
-   "date": "2026-06-30T01:00Z",
-   "round": "Round of 32",
-   "home": "Netherlands",
-   "away": "Morocco",
-   "homeFlag": "nl",
-   "awayFlag": "ma",
-   "homeOwner": "Dad",
-   "awayOwner": "Beth"
-  },
-  {
    "date": "2026-06-30T17:00Z",
    "round": "Round of 32",
    "home": "Ivory Coast",
@@ -2084,6 +2082,16 @@
    "awayFlag": "sn",
    "homeOwner": "Dad",
    "awayOwner": "KTB"
+  },
+  {
+   "date": "2026-07-02T00:00Z",
+   "round": "Round of 32",
+   "home": "USA",
+   "away": "Bosnia",
+   "homeFlag": "us",
+   "awayFlag": "ba",
+   "homeOwner": "Beth",
+   "awayOwner": "Mum"
   }
  ]
 }
