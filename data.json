@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-01T22:39:51+00:00",
- "matchesCompleted": 80,
+ "generated": "2026-07-01T23:55:05+00:00",
+ "matchesCompleted": 81,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -140,8 +140,8 @@
   {
    "name": "Dad",
    "color": "#1f5fa8",
-   "points": 39,
-   "w": 12,
+   "points": 42,
+   "w": 13,
    "d": 3,
    "l": 7,
    "alive": 3,
@@ -167,19 +167,22 @@
     {
      "display": "Belgium",
      "flag": "be",
-     "w": 1,
+     "w": 2,
      "d": 2,
      "l": 0,
-     "gf": 6,
-     "ga": 2,
-     "points": 5,
+     "gf": 9,
+     "ga": 4,
+     "points": 8,
      "out": false,
-     "next": null,
+     "next": {
+      "vs": "Round of 32 9 Winner",
+      "date": "2026-07-07T00:00Z"
+     },
      "last": {
-      "vs": "New Zealand",
-      "score": "5-1",
+      "vs": "Senegal",
+      "score": "3-2",
       "res": "W",
-      "detail": "FT"
+      "detail": "AET"
      }
     },
     {
@@ -524,8 +527,8 @@
    "points": 27,
    "w": 7,
    "d": 6,
-   "l": 5,
-   "alive": 4,
+   "l": 6,
+   "alive": 3,
    "teams": [
     {
      "display": "South Korea",
@@ -631,17 +634,17 @@
      "flag": "sn",
      "w": 1,
      "d": 0,
-     "l": 2,
-     "gf": 8,
-     "ga": 6,
+     "l": 3,
+     "gf": 10,
+     "ga": 9,
      "points": 3,
-     "out": false,
+     "out": true,
      "next": null,
      "last": {
-      "vs": "Iraq",
-      "score": "5-0",
-      "res": "W",
-      "detail": "FT"
+      "vs": "Belgium",
+      "score": "2-3",
+      "res": "L",
+      "detail": "AET"
      }
     }
    ]
@@ -1025,7 +1028,8 @@
    ]
   }
  ],
- "live": [
+ "live": [],
+ "results": [
   {
    "date": "2026-07-01T20:00Z",
    "round": "Round of 32",
@@ -1035,12 +1039,10 @@
    "awayFlag": "sn",
    "homeOwner": "Dad",
    "awayOwner": "KTB",
-   "hs": 2,
+   "hs": 3,
    "as": 2,
-   "clock": "120'+2'"
-  }
- ],
- "results": [
+   "detail": "AET"
+  },
   {
    "date": "2026-07-01T16:00Z",
    "round": "Round of 32",
