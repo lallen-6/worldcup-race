@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-01T21:11:41+00:00",
+ "generated": "2026-07-01T22:39:51+00:00",
  "matchesCompleted": 80,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -1035,9 +1035,9 @@
    "awayFlag": "sn",
    "homeOwner": "Dad",
    "awayOwner": "KTB",
-   "hs": 0,
-   "as": 1,
-   "clock": "49'"
+   "hs": 2,
+   "as": 2,
+   "clock": "120'+2'"
   }
  ],
  "results": [
@@ -2132,6 +2132,16 @@
    "awayFlag": "eg",
    "homeOwner": "Keir",
    "awayOwner": "Finley"
+  },
+  {
+   "date": "2026-07-03T22:00Z",
+   "round": "Round of 32",
+   "home": "Argentina",
+   "away": "Cape Verde",
+   "homeFlag": "ar",
+   "awayFlag": "cv",
+   "homeOwner": "Keir",
+   "awayOwner": "Jasper"
   }
  ]
 }
