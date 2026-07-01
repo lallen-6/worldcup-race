@@ -1,5 +1,5 @@
 {
- "generated": "2026-06-30T22:56:08+00:00",
+ "generated": "2026-07-01T00:20:55+00:00",
  "matchesCompleted": 78,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -2104,6 +2104,16 @@
    "awayFlag": "at",
    "homeOwner": "Finley",
    "awayOwner": "Keir"
+  },
+  {
+   "date": "2026-07-02T23:00Z",
+   "round": "Round of 32",
+   "home": "Portugal",
+   "away": "Croatia",
+   "homeFlag": "pt",
+   "awayFlag": "hr",
+   "homeOwner": "Louis",
+   "awayOwner": "Finley"
   }
  ]
 }
