@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-01T19:23:10+00:00",
+ "generated": "2026-07-01T21:11:41+00:00",
  "matchesCompleted": 80,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -174,10 +174,7 @@
      "ga": 2,
      "points": 5,
      "out": false,
-     "next": {
-      "vs": "Senegal",
-      "date": "2026-07-01T20:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "New Zealand",
       "score": "5-1",
@@ -639,10 +636,7 @@
      "ga": 6,
      "points": 3,
      "out": false,
-     "next": {
-      "vs": "Belgium",
-      "date": "2026-07-01T20:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Iraq",
       "score": "5-0",
@@ -1031,7 +1025,21 @@
    ]
   }
  ],
- "live": [],
+ "live": [
+  {
+   "date": "2026-07-01T20:00Z",
+   "round": "Round of 32",
+   "home": "Belgium",
+   "away": "Senegal",
+   "homeFlag": "be",
+   "awayFlag": "sn",
+   "homeOwner": "Dad",
+   "awayOwner": "KTB",
+   "hs": 0,
+   "as": 1,
+   "clock": "49'"
+  }
+ ],
  "results": [
   {
    "date": "2026-07-01T16:00Z",
@@ -2075,16 +2083,6 @@
   }
  ],
  "upcoming": [
-  {
-   "date": "2026-07-01T20:00Z",
-   "round": "Round of 32",
-   "home": "Belgium",
-   "away": "Senegal",
-   "homeFlag": "be",
-   "awayFlag": "sn",
-   "homeOwner": "Dad",
-   "awayOwner": "KTB"
-  },
   {
    "date": "2026-07-02T00:00Z",
    "round": "Round of 32",
