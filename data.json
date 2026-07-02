@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-01T23:55:05+00:00",
- "matchesCompleted": 81,
+ "generated": "2026-07-02T04:20:29+00:00",
+ "matchesCompleted": 82,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -9,8 +9,8 @@
   {
    "name": "Beth",
    "color": "#d94f30",
-   "points": 34,
-   "w": 9,
+   "points": 37,
+   "w": 10,
    "d": 7,
    "l": 5,
    "alive": 4,
@@ -36,21 +36,21 @@
     {
      "display": "USA",
      "flag": "us",
-     "w": 2,
+     "w": 3,
      "d": 0,
      "l": 1,
-     "gf": 8,
+     "gf": 10,
      "ga": 4,
-     "points": 6,
+     "points": 9,
      "out": false,
      "next": {
-      "vs": "Bosnia",
-      "date": "2026-07-02T00:00Z"
+      "vs": "Belgium",
+      "date": "2026-07-07T00:00Z"
      },
      "last": {
-      "vs": "Turkey",
-      "score": "2-3",
-      "res": "L",
+      "vs": "Bosnia",
+      "score": "2-0",
+      "res": "W",
       "detail": "FT"
      }
     },
@@ -175,7 +175,7 @@
      "points": 8,
      "out": false,
      "next": {
-      "vs": "Round of 32 9 Winner",
+      "vs": "USA",
       "date": "2026-07-07T00:00Z"
      },
      "last": {
@@ -908,27 +908,24 @@
    "points": 21,
    "w": 5,
    "d": 6,
-   "l": 10,
-   "alive": 2,
+   "l": 11,
+   "alive": 1,
    "teams": [
     {
      "display": "Bosnia",
      "flag": "ba",
      "w": 1,
      "d": 1,
-     "l": 1,
+     "l": 2,
      "gf": 5,
-     "ga": 6,
+     "ga": 8,
      "points": 4,
-     "out": false,
-     "next": {
-      "vs": "USA",
-      "date": "2026-07-02T00:00Z"
-     },
+     "out": true,
+     "next": null,
      "last": {
-      "vs": "Qatar",
-      "score": "3-1",
-      "res": "W",
+      "vs": "USA",
+      "score": "0-2",
+      "res": "L",
       "detail": "FT"
      }
     },
@@ -1030,6 +1027,19 @@
  ],
  "live": [],
  "results": [
+  {
+   "date": "2026-07-02T00:00Z",
+   "round": "Round of 32",
+   "home": "USA",
+   "away": "Bosnia",
+   "homeFlag": "us",
+   "awayFlag": "ba",
+   "homeOwner": "Beth",
+   "awayOwner": "Mum",
+   "hs": 2,
+   "as": 0,
+   "detail": "FT"
+  },
   {
    "date": "2026-07-01T20:00Z",
    "round": "Round of 32",
@@ -2086,16 +2096,6 @@
  ],
  "upcoming": [
   {
-   "date": "2026-07-02T00:00Z",
-   "round": "Round of 32",
-   "home": "USA",
-   "away": "Bosnia",
-   "homeFlag": "us",
-   "awayFlag": "ba",
-   "homeOwner": "Beth",
-   "awayOwner": "Mum"
-  },
-  {
    "date": "2026-07-02T19:00Z",
    "round": "Round of 32",
    "home": "Spain",
@@ -2144,6 +2144,16 @@
    "awayFlag": "cv",
    "homeOwner": "Keir",
    "awayOwner": "Jasper"
+  },
+  {
+   "date": "2026-07-04T01:30Z",
+   "round": "Round of 32",
+   "home": "Colombia",
+   "away": "Ghana",
+   "homeFlag": "co",
+   "awayFlag": "gh",
+   "homeOwner": "KTB",
+   "awayOwner": "Beth"
   }
  ]
 }
