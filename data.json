@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-02T17:19:00+00:00",
+ "generated": "2026-07-02T19:01:57+00:00",
  "matchesCompleted": 82,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -323,10 +323,7 @@
      "ga": 0,
      "points": 7,
      "out": false,
-     "next": {
-      "vs": "Austria",
-      "date": "2026-07-02T19:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Uruguay",
       "score": "1-0",
@@ -746,10 +743,7 @@
      "ga": 6,
      "points": 4,
      "out": false,
-     "next": {
-      "vs": "Spain",
-      "date": "2026-07-02T19:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Algeria",
       "score": "3-3",
@@ -1025,7 +1019,21 @@
    ]
   }
  ],
- "live": [],
+ "live": [
+  {
+   "date": "2026-07-02T19:00Z",
+   "round": "Round of 32",
+   "home": "Spain",
+   "away": "Austria",
+   "homeFlag": "es",
+   "awayFlag": "at",
+   "homeOwner": "Finley",
+   "awayOwner": "Keir",
+   "hs": 0,
+   "as": 0,
+   "clock": "2'"
+  }
+ ],
  "results": [
   {
    "date": "2026-07-02T00:00Z",
@@ -2095,16 +2103,6 @@
   }
  ],
  "upcoming": [
-  {
-   "date": "2026-07-02T19:00Z",
-   "round": "Round of 32",
-   "home": "Spain",
-   "away": "Austria",
-   "homeFlag": "es",
-   "awayFlag": "at",
-   "homeOwner": "Finley",
-   "awayOwner": "Keir"
-  },
   {
    "date": "2026-07-02T23:00Z",
    "round": "Round of 32",
