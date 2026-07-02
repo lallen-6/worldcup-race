@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-02T20:36:53+00:00",
- "matchesCompleted": 82,
+ "generated": "2026-07-02T21:48:59+00:00",
+ "matchesCompleted": 83,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -268,8 +268,8 @@
   {
    "name": "Finley",
    "color": "#c9a227",
-   "points": 32,
-   "w": 9,
+   "points": 35,
+   "w": 10,
    "d": 5,
    "l": 7,
    "alive": 3,
@@ -316,17 +316,20 @@
     {
      "display": "Spain",
      "flag": "es",
-     "w": 2,
+     "w": 3,
      "d": 1,
      "l": 0,
-     "gf": 5,
+     "gf": 8,
      "ga": 0,
-     "points": 7,
+     "points": 10,
      "out": false,
-     "next": null,
+     "next": {
+      "vs": "Round of 32 11 Winner",
+      "date": "2026-07-06T19:00Z"
+     },
      "last": {
-      "vs": "Uruguay",
-      "score": "1-0",
+      "vs": "Austria",
+      "score": "3-0",
       "res": "W",
       "detail": "FT"
      }
@@ -652,8 +655,8 @@
    "points": 27,
    "w": 8,
    "d": 3,
-   "l": 8,
-   "alive": 4,
+   "l": 9,
+   "alive": 3,
    "teams": [
     {
      "display": "Australia",
@@ -738,16 +741,16 @@
      "flag": "at",
      "w": 1,
      "d": 1,
-     "l": 1,
+     "l": 2,
      "gf": 6,
-     "ga": 6,
+     "ga": 9,
      "points": 4,
-     "out": false,
+     "out": true,
      "next": null,
      "last": {
-      "vs": "Algeria",
-      "score": "3-3",
-      "res": "D",
+      "vs": "Spain",
+      "score": "0-3",
+      "res": "L",
       "detail": "FT"
      }
     },
@@ -1019,7 +1022,8 @@
    ]
   }
  ],
- "live": [
+ "live": [],
+ "results": [
   {
    "date": "2026-07-02T19:00Z",
    "round": "Round of 32",
@@ -1029,12 +1033,10 @@
    "awayFlag": "at",
    "homeOwner": "Finley",
    "awayOwner": "Keir",
-   "hs": 2,
+   "hs": 3,
    "as": 0,
-   "clock": "75'"
-  }
- ],
- "results": [
+   "detail": "FT"
+  },
   {
    "date": "2026-07-02T00:00Z",
    "round": "Round of 32",
@@ -2162,6 +2164,16 @@
    "awayFlag": "ma",
    "homeOwner": "Beth",
    "awayOwner": "Beth"
+  },
+  {
+   "date": "2026-07-04T21:00Z",
+   "round": "Round of 16",
+   "home": "Paraguay",
+   "away": "France",
+   "homeFlag": "py",
+   "awayFlag": "fr",
+   "homeOwner": "Mum",
+   "awayOwner": "Dad"
   }
  ]
 }
