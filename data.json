@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-03T01:16:19+00:00",
- "matchesCompleted": 84,
+ "generated": "2026-07-03T05:35:26+00:00",
+ "matchesCompleted": 85,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -521,11 +521,11 @@
   {
    "name": "KTB",
    "color": "#2a8c82",
-   "points": 27,
-   "w": 7,
+   "points": 30,
+   "w": 8,
    "d": 6,
-   "l": 6,
-   "alive": 3,
+   "l": 7,
+   "alive": 2,
    "teams": [
     {
      "display": "South Korea",
@@ -550,19 +550,16 @@
      "flag": "dz",
      "w": 1,
      "d": 1,
-     "l": 1,
+     "l": 2,
      "gf": 5,
-     "ga": 7,
+     "ga": 9,
      "points": 4,
-     "out": false,
-     "next": {
-      "vs": "Switzerland",
-      "date": "2026-07-03T03:00Z"
-     },
+     "out": true,
+     "next": null,
      "last": {
-      "vs": "Austria",
-      "score": "3-3",
-      "res": "D",
+      "vs": "Switzerland",
+      "score": "0-2",
+      "res": "L",
       "detail": "FT"
      }
     },
@@ -608,20 +605,20 @@
     {
      "display": "Switzerland",
      "flag": "ch",
-     "w": 2,
+     "w": 3,
      "d": 1,
      "l": 0,
-     "gf": 7,
+     "gf": 9,
      "ga": 3,
-     "points": 7,
+     "points": 10,
      "out": false,
      "next": {
-      "vs": "Algeria",
-      "date": "2026-07-03T03:00Z"
+      "vs": "Round of 32 15 Winner",
+      "date": "2026-07-07T20:00Z"
      },
      "last": {
-      "vs": "Canada",
-      "score": "2-1",
+      "vs": "Algeria",
+      "score": "2-0",
       "res": "W",
       "detail": "FT"
      }
@@ -1021,6 +1018,19 @@
  ],
  "live": [],
  "results": [
+  {
+   "date": "2026-07-03T03:00Z",
+   "round": "Round of 32",
+   "home": "Switzerland",
+   "away": "Algeria",
+   "homeFlag": "ch",
+   "awayFlag": "dz",
+   "homeOwner": "KTB",
+   "awayOwner": "KTB",
+   "hs": 2,
+   "as": 0,
+   "detail": "FT"
+  },
   {
    "date": "2026-07-02T23:00Z",
    "round": "Round of 32",
@@ -2115,16 +2125,6 @@
   }
  ],
  "upcoming": [
-  {
-   "date": "2026-07-03T03:00Z",
-   "round": "Round of 32",
-   "home": "Switzerland",
-   "away": "Algeria",
-   "homeFlag": "ch",
-   "awayFlag": "dz",
-   "homeOwner": "KTB",
-   "awayOwner": "KTB"
-  },
   {
    "date": "2026-07-03T18:00Z",
    "round": "Round of 32",
