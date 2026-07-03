@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-03T21:31:07+00:00",
+ "generated": "2026-07-03T22:41:37+00:00",
  "matchesCompleted": 86,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -505,10 +505,7 @@
      "ga": 2,
      "points": 3,
      "out": false,
-     "next": {
-      "vs": "Argentina",
-      "date": "2026-07-03T22:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Saudi Arabia",
       "score": "0-0",
@@ -680,10 +677,7 @@
      "ga": 1,
      "points": 9,
      "out": false,
-     "next": {
-      "vs": "Cape Verde",
-      "date": "2026-07-03T22:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Jordan",
       "score": "3-1",
@@ -1013,7 +1007,21 @@
    ]
   }
  ],
- "live": [],
+ "live": [
+  {
+   "date": "2026-07-03T22:00Z",
+   "round": "Round of 32",
+   "home": "Argentina",
+   "away": "Cape Verde",
+   "homeFlag": "ar",
+   "awayFlag": "cv",
+   "homeOwner": "Keir",
+   "awayOwner": "Jasper",
+   "hs": 1,
+   "as": 0,
+   "clock": "41'"
+  }
+ ],
  "results": [
   {
    "date": "2026-07-03T18:00Z",
@@ -2135,16 +2143,6 @@
   }
  ],
  "upcoming": [
-  {
-   "date": "2026-07-03T22:00Z",
-   "round": "Round of 32",
-   "home": "Argentina",
-   "away": "Cape Verde",
-   "homeFlag": "ar",
-   "awayFlag": "cv",
-   "homeOwner": "Keir",
-   "awayOwner": "Jasper"
-  },
   {
    "date": "2026-07-04T01:30Z",
    "round": "Round of 32",
