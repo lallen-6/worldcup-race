@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-03T23:42:52+00:00",
- "matchesCompleted": 86,
+ "generated": "2026-07-04T01:17:52+00:00",
+ "matchesCompleted": 87,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -378,7 +378,7 @@
      "points": 8,
      "out": false,
      "next": {
-      "vs": "Round of 32 14 Winner",
+      "vs": "Argentina",
       "date": "2026-07-07T16:00Z"
      },
      "last": {
@@ -396,8 +396,8 @@
    "points": 32,
    "w": 9,
    "d": 5,
-   "l": 6,
-   "alive": 3,
+   "l": 7,
+   "alive": 2,
    "teams": [
     {
      "display": "Turkey",
@@ -500,17 +500,17 @@
      "flag": "cv",
      "w": 0,
      "d": 3,
-     "l": 0,
-     "gf": 2,
-     "ga": 2,
+     "l": 1,
+     "gf": 4,
+     "ga": 5,
      "points": 3,
-     "out": false,
+     "out": true,
      "next": null,
      "last": {
-      "vs": "Saudi Arabia",
-      "score": "0-0",
-      "res": "D",
-      "detail": "FT"
+      "vs": "Argentina",
+      "score": "2-3",
+      "res": "L",
+      "detail": "AET"
      }
     }
    ]
@@ -643,8 +643,8 @@
   {
    "name": "Keir",
    "color": "#b03a5b",
-   "points": 27,
-   "w": 8,
+   "points": 30,
+   "w": 9,
    "d": 3,
    "l": 10,
    "alive": 2,
@@ -670,19 +670,22 @@
     {
      "display": "Argentina",
      "flag": "ar",
-     "w": 3,
+     "w": 4,
      "d": 0,
      "l": 0,
-     "gf": 8,
-     "ga": 1,
-     "points": 9,
+     "gf": 11,
+     "ga": 3,
+     "points": 12,
      "out": false,
-     "next": null,
+     "next": {
+      "vs": "Egypt",
+      "date": "2026-07-07T16:00Z"
+     },
      "last": {
-      "vs": "Jordan",
-      "score": "3-1",
+      "vs": "Cape Verde",
+      "score": "3-2",
       "res": "W",
-      "detail": "FT"
+      "detail": "AET"
      }
     },
     {
@@ -1007,7 +1010,8 @@
    ]
   }
  ],
- "live": [
+ "live": [],
+ "results": [
   {
    "date": "2026-07-03T22:00Z",
    "round": "Round of 32",
@@ -1017,12 +1021,10 @@
    "awayFlag": "cv",
    "homeOwner": "Keir",
    "awayOwner": "Jasper",
-   "hs": 1,
-   "as": 1,
-   "clock": "82'"
-  }
- ],
- "results": [
+   "hs": 3,
+   "as": 2,
+   "detail": "AET"
+  },
   {
    "date": "2026-07-03T18:00Z",
    "round": "Round of 32",
@@ -2182,6 +2184,16 @@
    "awayFlag": "no",
    "homeOwner": "Keir",
    "awayOwner": "Dad"
+  },
+  {
+   "date": "2026-07-06T00:00Z",
+   "round": "Round of 16",
+   "home": "Mexico",
+   "away": "England",
+   "homeFlag": "mx",
+   "awayFlag": "gb-eng",
+   "homeOwner": "Jasper",
+   "awayOwner": "Jasper"
   }
  ]
 }
