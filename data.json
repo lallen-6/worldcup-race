@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-04T18:42:59+00:00",
- "matchesCompleted": 88,
+ "generated": "2026-07-04T19:56:25+00:00",
+ "matchesCompleted": 89,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -9,11 +9,11 @@
   {
    "name": "Beth",
    "color": "#d94f30",
-   "points": 37,
-   "w": 10,
+   "points": 40,
+   "w": 11,
    "d": 7,
-   "l": 6,
-   "alive": 3,
+   "l": 7,
+   "alive": 2,
    "teams": [
     {
      "display": "Japan",
@@ -57,19 +57,22 @@
     {
      "display": "Morocco",
      "flag": "ma",
-     "w": 3,
+     "w": 4,
      "d": 1,
      "l": 0,
-     "gf": 7,
+     "gf": 10,
      "ga": 4,
-     "points": 10,
+     "points": 13,
      "out": false,
-     "next": null,
+     "next": {
+      "vs": "Round of 16 1 Winner",
+      "date": "2026-07-09T20:00Z"
+     },
      "last": {
-      "vs": "Netherlands",
-      "score": "1-1",
+      "vs": "Canada",
+      "score": "3-0",
       "res": "W",
-      "detail": "FT-Pens"
+      "detail": "FT"
      }
     },
     {
@@ -77,16 +80,16 @@
      "flag": "ca",
      "w": 2,
      "d": 1,
-     "l": 1,
+     "l": 2,
      "gf": 9,
-     "ga": 3,
+     "ga": 6,
      "points": 7,
-     "out": false,
+     "out": true,
      "next": null,
      "last": {
-      "vs": "South Africa",
-      "score": "1-0",
-      "res": "W",
+      "vs": "Morocco",
+      "score": "0-3",
+      "res": "L",
       "detail": "FT"
      }
     },
@@ -1001,7 +1004,8 @@
    ]
   }
  ],
- "live": [
+ "live": [],
+ "results": [
   {
    "date": "2026-07-04T17:00Z",
    "round": "Round of 16",
@@ -1012,11 +1016,9 @@
    "homeOwner": "Beth",
    "awayOwner": "Beth",
    "hs": 0,
-   "as": 1,
-   "clock": "79'"
-  }
- ],
- "results": [
+   "as": 3,
+   "detail": "FT"
+  },
   {
    "date": "2026-07-04T01:30Z",
    "round": "Round of 32",
@@ -2192,6 +2194,16 @@
    "awayFlag": "gb-eng",
    "homeOwner": "Jasper",
    "awayOwner": "Jasper"
+  },
+  {
+   "date": "2026-07-06T19:00Z",
+   "round": "Round of 16",
+   "home": "Portugal",
+   "away": "Spain",
+   "homeFlag": "pt",
+   "awayFlag": "es",
+   "homeOwner": "Louis",
+   "awayOwner": "Finley"
   }
  ]
 }
