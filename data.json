@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-04T19:56:25+00:00",
+ "generated": "2026-07-04T21:13:13+00:00",
  "matchesCompleted": 89,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -189,10 +189,7 @@
      "ga": 2,
      "points": 12,
      "out": false,
-     "next": {
-      "vs": "Paraguay",
-      "date": "2026-07-04T21:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Sweden",
       "score": "3-0",
@@ -990,10 +987,7 @@
      "ga": 5,
      "points": 7,
      "out": false,
-     "next": {
-      "vs": "France",
-      "date": "2026-07-04T21:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Germany",
       "score": "1-1",
@@ -1004,7 +998,21 @@
    ]
   }
  ],
- "live": [],
+ "live": [
+  {
+   "date": "2026-07-04T21:00Z",
+   "round": "Round of 16",
+   "home": "Paraguay",
+   "away": "France",
+   "homeFlag": "py",
+   "awayFlag": "fr",
+   "homeOwner": "Mum",
+   "awayOwner": "Dad",
+   "hs": 0,
+   "as": 0,
+   "clock": "9'"
+  }
+ ],
  "results": [
   {
    "date": "2026-07-04T17:00Z",
@@ -2165,16 +2173,6 @@
   }
  ],
  "upcoming": [
-  {
-   "date": "2026-07-04T21:00Z",
-   "round": "Round of 16",
-   "home": "Paraguay",
-   "away": "France",
-   "homeFlag": "py",
-   "awayFlag": "fr",
-   "homeOwner": "Mum",
-   "awayOwner": "Dad"
-  },
   {
    "date": "2026-07-05T20:00Z",
    "round": "Round of 16",
