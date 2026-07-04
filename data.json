@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-04T16:41:16+00:00",
+ "generated": "2026-07-04T17:45:01+00:00",
  "matchesCompleted": 88,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -64,10 +64,7 @@
      "ga": 4,
      "points": 10,
      "out": false,
-     "next": {
-      "vs": "Canada",
-      "date": "2026-07-04T17:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Netherlands",
       "score": "1-1",
@@ -85,10 +82,7 @@
      "ga": 3,
      "points": 7,
      "out": false,
-     "next": {
-      "vs": "Morocco",
-      "date": "2026-07-04T17:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "South Africa",
       "score": "1-0",
@@ -1007,7 +1001,21 @@
    ]
   }
  ],
- "live": [],
+ "live": [
+  {
+   "date": "2026-07-04T17:00Z",
+   "round": "Round of 16",
+   "home": "Canada",
+   "away": "Morocco",
+   "homeFlag": "ca",
+   "awayFlag": "ma",
+   "homeOwner": "Beth",
+   "awayOwner": "Beth",
+   "hs": 0,
+   "as": 0,
+   "clock": "43'"
+  }
+ ],
  "results": [
   {
    "date": "2026-07-04T01:30Z",
@@ -2155,16 +2163,6 @@
   }
  ],
  "upcoming": [
-  {
-   "date": "2026-07-04T17:00Z",
-   "round": "Round of 16",
-   "home": "Canada",
-   "away": "Morocco",
-   "homeFlag": "ca",
-   "awayFlag": "ma",
-   "homeOwner": "Beth",
-   "awayOwner": "Beth"
-  },
   {
    "date": "2026-07-04T21:00Z",
    "round": "Round of 16",
