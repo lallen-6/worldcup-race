@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-04T22:12:12+00:00",
- "matchesCompleted": 89,
+ "generated": "2026-07-04T23:13:47+00:00",
+ "matchesCompleted": 90,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -65,7 +65,7 @@
      "points": 13,
      "out": false,
      "next": {
-      "vs": "Round of 16 1 Winner",
+      "vs": "France",
       "date": "2026-07-09T20:00Z"
      },
      "last": {
@@ -134,8 +134,8 @@
   {
    "name": "Dad",
    "color": "#1f5fa8",
-   "points": 42,
-   "w": 13,
+   "points": 45,
+   "w": 14,
    "d": 3,
    "l": 7,
    "alive": 3,
@@ -182,17 +182,20 @@
     {
      "display": "France",
      "flag": "fr",
-     "w": 4,
+     "w": 5,
      "d": 0,
      "l": 0,
-     "gf": 13,
+     "gf": 14,
      "ga": 2,
-     "points": 12,
+     "points": 15,
      "out": false,
-     "next": null,
+     "next": {
+      "vs": "Morocco",
+      "date": "2026-07-09T20:00Z"
+     },
      "last": {
-      "vs": "Sweden",
-      "score": "3-0",
+      "vs": "Paraguay",
+      "score": "1-0",
       "res": "W",
       "detail": "FT"
      }
@@ -884,8 +887,8 @@
    "points": 21,
    "w": 5,
    "d": 6,
-   "l": 11,
-   "alive": 1,
+   "l": 12,
+   "alive": 0,
    "teams": [
     {
      "display": "Bosnia",
@@ -982,23 +985,24 @@
      "flag": "py",
      "w": 2,
      "d": 1,
-     "l": 1,
+     "l": 2,
      "gf": 3,
-     "ga": 5,
+     "ga": 6,
      "points": 7,
-     "out": false,
+     "out": true,
      "next": null,
      "last": {
-      "vs": "Germany",
-      "score": "1-1",
-      "res": "W",
-      "detail": "FT-Pens"
+      "vs": "France",
+      "score": "0-1",
+      "res": "L",
+      "detail": "FT"
      }
     }
    ]
   }
  ],
- "live": [
+ "live": [],
+ "results": [
   {
    "date": "2026-07-04T21:00Z",
    "round": "Round of 16",
@@ -1009,11 +1013,9 @@
    "homeOwner": "Mum",
    "awayOwner": "Dad",
    "hs": 0,
-   "as": 0,
-   "clock": "48'"
-  }
- ],
- "results": [
+   "as": 1,
+   "detail": "FT"
+  },
   {
    "date": "2026-07-04T17:00Z",
    "round": "Round of 16",
