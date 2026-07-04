@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-04T01:17:52+00:00",
- "matchesCompleted": 87,
+ "generated": "2026-07-04T05:28:23+00:00",
+ "matchesCompleted": 88,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -12,8 +12,8 @@
    "points": 37,
    "w": 10,
    "d": 7,
-   "l": 5,
-   "alive": 4,
+   "l": 6,
+   "alive": 3,
    "teams": [
     {
      "display": "Japan",
@@ -101,18 +101,15 @@
      "flag": "gh",
      "w": 1,
      "d": 1,
-     "l": 1,
+     "l": 2,
      "gf": 2,
-     "ga": 2,
+     "ga": 3,
      "points": 4,
-     "out": false,
-     "next": {
-      "vs": "Colombia",
-      "date": "2026-07-04T01:30Z"
-     },
+     "out": true,
+     "next": null,
      "last": {
-      "vs": "Croatia",
-      "score": "1-2",
+      "vs": "Colombia",
+      "score": "0-1",
       "res": "L",
       "detail": "FT"
      }
@@ -518,8 +515,8 @@
   {
    "name": "KTB",
    "color": "#2a8c82",
-   "points": 30,
-   "w": 8,
+   "points": 33,
+   "w": 9,
    "d": 6,
    "l": 7,
    "alive": 2,
@@ -563,21 +560,21 @@
     {
      "display": "Colombia",
      "flag": "co",
-     "w": 2,
+     "w": 3,
      "d": 1,
      "l": 0,
-     "gf": 4,
+     "gf": 5,
      "ga": 1,
-     "points": 7,
+     "points": 10,
      "out": false,
      "next": {
-      "vs": "Ghana",
-      "date": "2026-07-04T01:30Z"
+      "vs": "Switzerland",
+      "date": "2026-07-07T20:00Z"
      },
      "last": {
-      "vs": "Portugal",
-      "score": "0-0",
-      "res": "D",
+      "vs": "Ghana",
+      "score": "1-0",
+      "res": "W",
       "detail": "FT"
      }
     },
@@ -610,7 +607,7 @@
      "points": 10,
      "out": false,
      "next": {
-      "vs": "Round of 32 15 Winner",
+      "vs": "Colombia",
       "date": "2026-07-07T20:00Z"
      },
      "last": {
@@ -1012,6 +1009,19 @@
  ],
  "live": [],
  "results": [
+  {
+   "date": "2026-07-04T01:30Z",
+   "round": "Round of 32",
+   "home": "Colombia",
+   "away": "Ghana",
+   "homeFlag": "co",
+   "awayFlag": "gh",
+   "homeOwner": "KTB",
+   "awayOwner": "Beth",
+   "hs": 1,
+   "as": 0,
+   "detail": "FT"
+  },
   {
    "date": "2026-07-03T22:00Z",
    "round": "Round of 32",
@@ -2145,16 +2155,6 @@
   }
  ],
  "upcoming": [
-  {
-   "date": "2026-07-04T01:30Z",
-   "round": "Round of 32",
-   "home": "Colombia",
-   "away": "Ghana",
-   "homeFlag": "co",
-   "awayFlag": "gh",
-   "homeOwner": "KTB",
-   "awayOwner": "Beth"
-  },
   {
    "date": "2026-07-04T17:00Z",
    "round": "Round of 16",
