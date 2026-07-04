@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-04T17:45:01+00:00",
+ "generated": "2026-07-04T18:42:59+00:00",
  "matchesCompleted": 88,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -1012,8 +1012,8 @@
    "homeOwner": "Beth",
    "awayOwner": "Beth",
    "hs": 0,
-   "as": 0,
-   "clock": "43'"
+   "as": 1,
+   "clock": "79'"
   }
  ],
  "results": [
