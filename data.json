@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-05T19:41:14+00:00",
+ "generated": "2026-07-05T20:40:19+00:00",
  "matchesCompleted": 90,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -246,10 +246,7 @@
      "ga": 8,
      "points": 9,
      "out": false,
-     "next": {
-      "vs": "Brazil",
-      "date": "2026-07-05T20:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Ivory Coast",
       "score": "2-1",
@@ -746,10 +743,7 @@
      "ga": 2,
      "points": 10,
      "out": false,
-     "next": {
-      "vs": "Norway",
-      "date": "2026-07-05T20:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Japan",
       "score": "2-1",
@@ -1001,7 +995,21 @@
    ]
   }
  ],
- "live": [],
+ "live": [
+  {
+   "date": "2026-07-05T20:00Z",
+   "round": "Round of 16",
+   "home": "Brazil",
+   "away": "Norway",
+   "homeFlag": "br",
+   "awayFlag": "no",
+   "homeOwner": "Keir",
+   "awayOwner": "Dad",
+   "hs": 0,
+   "as": 0,
+   "clock": "40'"
+  }
+ ],
  "results": [
   {
    "date": "2026-07-04T21:00Z",
@@ -2176,16 +2184,6 @@
  ],
  "upcoming": [
   {
-   "date": "2026-07-05T20:00Z",
-   "round": "Round of 16",
-   "home": "Brazil",
-   "away": "Norway",
-   "homeFlag": "br",
-   "awayFlag": "no",
-   "homeOwner": "Keir",
-   "awayOwner": "Dad"
-  },
-  {
    "date": "2026-07-06T00:00Z",
    "round": "Round of 16",
    "home": "Mexico",
@@ -2224,6 +2222,16 @@
    "awayFlag": "eg",
    "homeOwner": "Keir",
    "awayOwner": "Finley"
+  },
+  {
+   "date": "2026-07-07T20:00Z",
+   "round": "Round of 16",
+   "home": "Switzerland",
+   "away": "Colombia",
+   "homeFlag": "ch",
+   "awayFlag": "co",
+   "homeOwner": "KTB",
+   "awayOwner": "KTB"
   }
  ]
 }
