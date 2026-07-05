@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-05T21:40:18+00:00",
- "matchesCompleted": 90,
+ "generated": "2026-07-05T22:39:16+00:00",
+ "matchesCompleted": 91,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -134,8 +134,8 @@
   {
    "name": "Dad",
    "color": "#1f5fa8",
-   "points": 45,
-   "w": 14,
+   "points": 48,
+   "w": 15,
    "d": 3,
    "l": 7,
    "alive": 3,
@@ -239,16 +239,19 @@
     {
      "display": "Norway",
      "flag": "no",
-     "w": 3,
+     "w": 4,
      "d": 0,
      "l": 1,
-     "gf": 10,
-     "ga": 8,
-     "points": 9,
+     "gf": 12,
+     "ga": 9,
+     "points": 12,
      "out": false,
-     "next": null,
+     "next": {
+      "vs": "Round of 16 4 Winner",
+      "date": "2026-07-11T21:00Z"
+     },
      "last": {
-      "vs": "Ivory Coast",
+      "vs": "Brazil",
       "score": "2-1",
       "res": "W",
       "detail": "FT"
@@ -637,8 +640,8 @@
    "points": 30,
    "w": 9,
    "d": 3,
-   "l": 10,
-   "alive": 2,
+   "l": 11,
+   "alive": 1,
    "teams": [
     {
      "display": "Australia",
@@ -738,16 +741,16 @@
      "flag": "br",
      "w": 3,
      "d": 1,
-     "l": 0,
-     "gf": 9,
-     "ga": 2,
+     "l": 1,
+     "gf": 10,
+     "ga": 4,
      "points": 10,
-     "out": false,
+     "out": true,
      "next": null,
      "last": {
-      "vs": "Japan",
-      "score": "2-1",
-      "res": "W",
+      "vs": "Norway",
+      "score": "1-2",
+      "res": "L",
       "detail": "FT"
      }
     }
@@ -995,7 +998,8 @@
    ]
   }
  ],
- "live": [
+ "live": [],
+ "results": [
   {
    "date": "2026-07-05T20:00Z",
    "round": "Round of 16",
@@ -1005,12 +1009,10 @@
    "awayFlag": "no",
    "homeOwner": "Keir",
    "awayOwner": "Dad",
-   "hs": 0,
-   "as": 0,
-   "clock": "77'"
-  }
- ],
- "results": [
+   "hs": 1,
+   "as": 2,
+   "detail": "FT"
+  },
   {
    "date": "2026-07-04T21:00Z",
    "round": "Round of 16",
