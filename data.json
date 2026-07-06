@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-06T19:22:30+00:00",
- "matchesCompleted": 92,
+ "generated": "2026-07-06T21:14:01+00:00",
+ "matchesCompleted": 93,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -262,8 +262,8 @@
   {
    "name": "Finley",
    "color": "#c9a227",
-   "points": 38,
-   "w": 11,
+   "points": 41,
+   "w": 12,
    "d": 5,
    "l": 8,
    "alive": 2,
@@ -307,17 +307,20 @@
     {
      "display": "Spain",
      "flag": "es",
-     "w": 3,
+     "w": 4,
      "d": 1,
      "l": 0,
-     "gf": 8,
+     "gf": 9,
      "ga": 0,
-     "points": 10,
+     "points": 13,
      "out": false,
-     "next": null,
+     "next": {
+      "vs": "Round of 16 6 Winner",
+      "date": "2026-07-10T19:00Z"
+     },
      "last": {
-      "vs": "Austria",
-      "score": "3-0",
+      "vs": "Portugal",
+      "score": "1-0",
       "res": "W",
       "detail": "FT"
      }
@@ -756,8 +759,8 @@
    "points": 11,
    "w": 2,
    "d": 5,
-   "l": 12,
-   "alive": 1,
+   "l": 13,
+   "alive": 0,
    "teams": [
     {
      "display": "Haiti",
@@ -854,16 +857,16 @@
      "flag": "pt",
      "w": 2,
      "d": 2,
-     "l": 0,
+     "l": 1,
      "gf": 8,
-     "ga": 2,
+     "ga": 3,
      "points": 8,
-     "out": false,
+     "out": true,
      "next": null,
      "last": {
-      "vs": "Croatia",
-      "score": "2-1",
-      "res": "W",
+      "vs": "Spain",
+      "score": "0-1",
+      "res": "L",
       "detail": "FT"
      }
     }
@@ -989,7 +992,8 @@
    ]
   }
  ],
- "live": [
+ "live": [],
+ "results": [
   {
    "date": "2026-07-06T19:00Z",
    "round": "Round of 16",
@@ -1000,11 +1004,9 @@
    "homeOwner": "Louis",
    "awayOwner": "Finley",
    "hs": 0,
-   "as": 0,
-   "clock": "22'"
-  }
- ],
- "results": [
+   "as": 1,
+   "detail": "FT"
+  },
   {
    "date": "2026-07-06T01:00Z",
    "round": "Round of 16",
