@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-05T23:44:00+00:00",
+ "generated": "2026-07-06T01:26:02+00:00",
  "matchesCompleted": 91,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -439,10 +439,7 @@
      "ga": 3,
      "points": 10,
      "out": false,
-     "next": {
-      "vs": "Mexico",
-      "date": "2026-07-06T01:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "DR Congo",
       "score": "2-1",
@@ -478,10 +475,7 @@
      "ga": 0,
      "points": 12,
      "out": false,
-     "next": {
-      "vs": "England",
-      "date": "2026-07-06T01:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Ecuador",
       "score": "2-0",
@@ -998,7 +992,21 @@
    ]
   }
  ],
- "live": [],
+ "live": [
+  {
+   "date": "2026-07-06T01:00Z",
+   "round": "Round of 16",
+   "home": "Mexico",
+   "away": "England",
+   "homeFlag": "mx",
+   "awayFlag": "gb-eng",
+   "homeOwner": "Jasper",
+   "awayOwner": "Jasper",
+   "hs": 0,
+   "as": 0,
+   "clock": "26'"
+  }
+ ],
  "results": [
   {
    "date": "2026-07-05T20:00Z",
@@ -2185,16 +2193,6 @@
   }
  ],
  "upcoming": [
-  {
-   "date": "2026-07-06T01:00Z",
-   "round": "Round of 16",
-   "home": "Mexico",
-   "away": "England",
-   "homeFlag": "mx",
-   "awayFlag": "gb-eng",
-   "homeOwner": "Jasper",
-   "awayOwner": "Jasper"
-  },
   {
    "date": "2026-07-06T19:00Z",
    "round": "Round of 16",
