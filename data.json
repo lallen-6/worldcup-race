@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-06T17:27:49+00:00",
+ "generated": "2026-07-06T19:22:30+00:00",
  "matchesCompleted": 92,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -314,10 +314,7 @@
      "ga": 0,
      "points": 10,
      "out": false,
-     "next": {
-      "vs": "Portugal",
-      "date": "2026-07-06T19:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Austria",
       "score": "3-0",
@@ -862,10 +859,7 @@
      "ga": 2,
      "points": 8,
      "out": false,
-     "next": {
-      "vs": "Spain",
-      "date": "2026-07-06T19:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Croatia",
       "score": "2-1",
@@ -995,7 +989,21 @@
    ]
   }
  ],
- "live": [],
+ "live": [
+  {
+   "date": "2026-07-06T19:00Z",
+   "round": "Round of 16",
+   "home": "Portugal",
+   "away": "Spain",
+   "homeFlag": "pt",
+   "awayFlag": "es",
+   "homeOwner": "Louis",
+   "awayOwner": "Finley",
+   "hs": 0,
+   "as": 0,
+   "clock": "22'"
+  }
+ ],
  "results": [
   {
    "date": "2026-07-06T01:00Z",
@@ -2195,16 +2203,6 @@
   }
  ],
  "upcoming": [
-  {
-   "date": "2026-07-06T19:00Z",
-   "round": "Round of 16",
-   "home": "Portugal",
-   "away": "Spain",
-   "homeFlag": "pt",
-   "awayFlag": "es",
-   "homeOwner": "Louis",
-   "awayOwner": "Finley"
-  },
   {
    "date": "2026-07-07T00:00Z",
    "round": "Round of 16",
