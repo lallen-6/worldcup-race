@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-07T22:29:53+00:00",
- "matchesCompleted": 95,
+ "generated": "2026-07-07T23:36:00+00:00",
+ "matchesCompleted": 96,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -503,11 +503,11 @@
   {
    "name": "KTB",
    "color": "#2a8c82",
-   "points": 33,
-   "w": 9,
+   "points": 36,
+   "w": 10,
    "d": 6,
-   "l": 7,
-   "alive": 2,
+   "l": 8,
+   "alive": 1,
    "teams": [
     {
      "display": "South Korea",
@@ -550,17 +550,17 @@
      "flag": "co",
      "w": 3,
      "d": 1,
-     "l": 0,
+     "l": 1,
      "gf": 5,
      "ga": 1,
      "points": 10,
-     "out": false,
+     "out": true,
      "next": null,
      "last": {
-      "vs": "Ghana",
-      "score": "1-0",
-      "res": "W",
-      "detail": "FT"
+      "vs": "Switzerland",
+      "score": "0-0",
+      "res": "L",
+      "detail": "FT-Pens"
      }
     },
     {
@@ -584,19 +584,22 @@
     {
      "display": "Switzerland",
      "flag": "ch",
-     "w": 3,
+     "w": 4,
      "d": 1,
      "l": 0,
      "gf": 9,
      "ga": 3,
-     "points": 10,
+     "points": 13,
      "out": false,
-     "next": null,
+     "next": {
+      "vs": "Argentina",
+      "date": "2026-07-12T01:00Z"
+     },
      "last": {
-      "vs": "Algeria",
-      "score": "2-0",
+      "vs": "Colombia",
+      "score": "0-0",
       "res": "W",
-      "detail": "FT"
+      "detail": "FT-Pens"
      }
     },
     {
@@ -657,7 +660,7 @@
      "points": 15,
      "out": false,
      "next": {
-      "vs": "Round of 16 8 Winner",
+      "vs": "Switzerland",
       "date": "2026-07-12T01:00Z"
      },
      "last": {
@@ -980,7 +983,8 @@
    ]
   }
  ],
- "live": [
+ "live": [],
+ "results": [
   {
    "date": "2026-07-07T20:00Z",
    "round": "Round of 16",
@@ -992,10 +996,8 @@
    "awayOwner": "KTB",
    "hs": 0,
    "as": 0,
-   "clock": "115'"
-  }
- ],
- "results": [
+   "detail": "FT-Pens"
+  },
   {
    "date": "2026-07-07T16:00Z",
    "round": "Round of 16",
