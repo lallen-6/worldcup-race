@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-07T01:25:07+00:00",
- "matchesCompleted": 93,
+ "generated": "2026-07-07T05:50:27+00:00",
+ "matchesCompleted": 94,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -12,8 +12,8 @@
    "points": 40,
    "w": 11,
    "d": 7,
-   "l": 7,
-   "alive": 2,
+   "l": 8,
+   "alive": 1,
    "teams": [
     {
      "display": "Japan",
@@ -38,16 +38,16 @@
      "flag": "us",
      "w": 3,
      "d": 0,
-     "l": 1,
-     "gf": 10,
-     "ga": 4,
+     "l": 2,
+     "gf": 11,
+     "ga": 8,
      "points": 9,
-     "out": false,
+     "out": true,
      "next": null,
      "last": {
-      "vs": "Bosnia",
-      "score": "2-0",
-      "res": "W",
+      "vs": "Belgium",
+      "score": "1-4",
+      "res": "L",
       "detail": "FT"
      }
     },
@@ -131,8 +131,8 @@
   {
    "name": "Dad",
    "color": "#1f5fa8",
-   "points": 48,
-   "w": 15,
+   "points": 51,
+   "w": 16,
    "d": 3,
    "l": 7,
    "alive": 3,
@@ -158,19 +158,22 @@
     {
      "display": "Belgium",
      "flag": "be",
-     "w": 2,
+     "w": 3,
      "d": 2,
      "l": 0,
-     "gf": 9,
-     "ga": 4,
-     "points": 8,
+     "gf": 13,
+     "ga": 5,
+     "points": 11,
      "out": false,
-     "next": null,
+     "next": {
+      "vs": "Spain",
+      "date": "2026-07-10T19:00Z"
+     },
      "last": {
-      "vs": "Senegal",
-      "score": "3-2",
+      "vs": "USA",
+      "score": "4-1",
       "res": "W",
-      "detail": "AET"
+      "detail": "FT"
      }
     },
     {
@@ -309,7 +312,7 @@
      "points": 13,
      "out": false,
      "next": {
-      "vs": "Round of 16 6 Winner",
+      "vs": "Belgium",
       "date": "2026-07-10T19:00Z"
      },
      "last": {
@@ -986,7 +989,8 @@
    ]
   }
  ],
- "live": [
+ "live": [],
+ "results": [
   {
    "date": "2026-07-07T00:00Z",
    "round": "Round of 16",
@@ -997,11 +1001,9 @@
    "homeOwner": "Beth",
    "awayOwner": "Dad",
    "hs": 1,
-   "as": 3,
-   "clock": "60'"
-  }
- ],
- "results": [
+   "as": 4,
+   "detail": "FT"
+  },
   {
    "date": "2026-07-06T19:00Z",
    "round": "Round of 16",
