@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-07T17:36:05+00:00",
- "matchesCompleted": 94,
+ "generated": "2026-07-07T19:24:46+00:00",
+ "matchesCompleted": 95,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -262,8 +262,8 @@
    "points": 41,
    "w": 12,
    "d": 5,
-   "l": 8,
-   "alive": 2,
+   "l": 9,
+   "alive": 1,
    "teams": [
     {
      "display": "Croatia",
@@ -363,17 +363,17 @@
      "flag": "eg",
      "w": 2,
      "d": 2,
-     "l": 0,
-     "gf": 6,
-     "ga": 4,
+     "l": 1,
+     "gf": 8,
+     "ga": 7,
      "points": 8,
-     "out": false,
+     "out": true,
      "next": null,
      "last": {
-      "vs": "Australia",
-      "score": "1-1",
-      "res": "W",
-      "detail": "FT-Pens"
+      "vs": "Argentina",
+      "score": "2-3",
+      "res": "L",
+      "detail": "FT"
      }
     }
    ]
@@ -628,8 +628,8 @@
   {
    "name": "Keir",
    "color": "#b03a5b",
-   "points": 30,
-   "w": 9,
+   "points": 33,
+   "w": 10,
    "d": 3,
    "l": 11,
    "alive": 1,
@@ -655,19 +655,22 @@
     {
      "display": "Argentina",
      "flag": "ar",
-     "w": 4,
+     "w": 5,
      "d": 0,
      "l": 0,
-     "gf": 11,
-     "ga": 3,
-     "points": 12,
+     "gf": 14,
+     "ga": 5,
+     "points": 15,
      "out": false,
-     "next": null,
+     "next": {
+      "vs": "Round of 16 8 Winner",
+      "date": "2026-07-12T01:00Z"
+     },
      "last": {
-      "vs": "Cape Verde",
+      "vs": "Egypt",
       "score": "3-2",
       "res": "W",
-      "detail": "AET"
+      "detail": "FT"
      }
     },
     {
@@ -983,7 +986,8 @@
    ]
   }
  ],
- "live": [
+ "live": [],
+ "results": [
   {
    "date": "2026-07-07T16:00Z",
    "round": "Round of 16",
@@ -993,12 +997,10 @@
    "awayFlag": "eg",
    "homeOwner": "Keir",
    "awayOwner": "Finley",
-   "hs": 0,
+   "hs": 3,
    "as": 2,
-   "clock": "72'"
-  }
- ],
- "results": [
+   "detail": "FT"
+  },
   {
    "date": "2026-07-07T00:00Z",
    "round": "Round of 16",
