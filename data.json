@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-09T18:59:21+00:00",
+ "generated": "2026-07-09T20:55:35+00:00",
  "matchesCompleted": 96,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -61,10 +61,7 @@
      "ga": 4,
      "points": 13,
      "out": false,
-     "next": {
-      "vs": "France",
-      "date": "2026-07-09T20:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Canada",
       "score": "3-0",
@@ -186,10 +183,7 @@
      "ga": 2,
      "points": 15,
      "out": false,
-     "next": {
-      "vs": "Morocco",
-      "date": "2026-07-09T20:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Paraguay",
       "score": "1-0",
@@ -983,7 +977,21 @@
    ]
   }
  ],
- "live": [],
+ "live": [
+  {
+   "date": "2026-07-09T20:00Z",
+   "round": "Quarterfinals",
+   "home": "France",
+   "away": "Morocco",
+   "homeFlag": "fr",
+   "awayFlag": "ma",
+   "homeOwner": "Dad",
+   "awayOwner": "Beth",
+   "hs": 0,
+   "as": 0,
+   "clock": "45'+5'"
+  }
+ ],
  "results": [
   {
    "date": "2026-07-07T20:00Z",
@@ -2235,16 +2243,6 @@
   }
  ],
  "upcoming": [
-  {
-   "date": "2026-07-09T20:00Z",
-   "round": "Quarterfinals",
-   "home": "France",
-   "away": "Morocco",
-   "homeFlag": "fr",
-   "awayFlag": "ma",
-   "homeOwner": "Dad",
-   "awayOwner": "Beth"
-  },
   {
    "date": "2026-07-10T19:00Z",
    "round": "Quarterfinals",
