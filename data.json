@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-09T20:55:35+00:00",
- "matchesCompleted": 96,
+ "generated": "2026-07-09T22:42:21+00:00",
+ "matchesCompleted": 97,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -12,8 +12,8 @@
    "points": 40,
    "w": 11,
    "d": 7,
-   "l": 8,
-   "alive": 1,
+   "l": 9,
+   "alive": 0,
    "teams": [
     {
      "display": "Japan",
@@ -56,16 +56,16 @@
      "flag": "ma",
      "w": 4,
      "d": 1,
-     "l": 0,
+     "l": 1,
      "gf": 10,
-     "ga": 4,
+     "ga": 6,
      "points": 13,
-     "out": false,
+     "out": true,
      "next": null,
      "last": {
-      "vs": "Canada",
-      "score": "3-0",
-      "res": "W",
+      "vs": "France",
+      "score": "0-2",
+      "res": "L",
       "detail": "FT"
      }
     },
@@ -128,8 +128,8 @@
   {
    "name": "Dad",
    "color": "#1f5fa8",
-   "points": 51,
-   "w": 16,
+   "points": 54,
+   "w": 17,
    "d": 3,
    "l": 7,
    "alive": 3,
@@ -176,17 +176,20 @@
     {
      "display": "France",
      "flag": "fr",
-     "w": 5,
+     "w": 6,
      "d": 0,
      "l": 0,
-     "gf": 14,
+     "gf": 16,
      "ga": 2,
-     "points": 15,
+     "points": 18,
      "out": false,
-     "next": null,
+     "next": {
+      "vs": "Quarterfinal 2 Winner",
+      "date": "2026-07-14T19:00Z"
+     },
      "last": {
-      "vs": "Paraguay",
-      "score": "1-0",
+      "vs": "Morocco",
+      "score": "2-0",
       "res": "W",
       "detail": "FT"
      }
@@ -977,7 +980,8 @@
    ]
   }
  ],
- "live": [
+ "live": [],
+ "results": [
   {
    "date": "2026-07-09T20:00Z",
    "round": "Quarterfinals",
@@ -987,12 +991,10 @@
    "awayFlag": "ma",
    "homeOwner": "Dad",
    "awayOwner": "Beth",
-   "hs": 0,
+   "hs": 2,
    "as": 0,
-   "clock": "45'+5'"
-  }
- ],
- "results": [
+   "detail": "FT"
+  },
   {
    "date": "2026-07-07T20:00Z",
    "round": "Round of 16",
@@ -2252,6 +2254,16 @@
    "awayFlag": "be",
    "homeOwner": "Finley",
    "awayOwner": "Dad"
+  },
+  {
+   "date": "2026-07-11T21:00Z",
+   "round": "Quarterfinals",
+   "home": "Norway",
+   "away": "England",
+   "homeFlag": "no",
+   "awayFlag": "gb-eng",
+   "homeOwner": "Dad",
+   "awayOwner": "Jasper"
   }
  ]
 }
