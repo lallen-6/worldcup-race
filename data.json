@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-10T19:50:11+00:00",
- "matchesCompleted": 97,
+ "generated": "2026-07-10T21:19:23+00:00",
+ "matchesCompleted": 98,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -131,8 +131,8 @@
    "points": 54,
    "w": 17,
    "d": 3,
-   "l": 7,
-   "alive": 3,
+   "l": 8,
+   "alive": 2,
    "teams": [
     {
      "display": "Germany",
@@ -157,16 +157,16 @@
      "flag": "be",
      "w": 3,
      "d": 2,
-     "l": 0,
-     "gf": 13,
-     "ga": 5,
+     "l": 1,
+     "gf": 14,
+     "ga": 7,
      "points": 11,
-     "out": false,
+     "out": true,
      "next": null,
      "last": {
-      "vs": "USA",
-      "score": "4-1",
-      "res": "W",
+      "vs": "Spain",
+      "score": "1-2",
+      "res": "L",
       "detail": "FT"
      }
     },
@@ -181,7 +181,7 @@
      "points": 18,
      "out": false,
      "next": {
-      "vs": "Quarterfinal 2 Winner",
+      "vs": "Spain",
       "date": "2026-07-14T19:00Z"
      },
      "last": {
@@ -253,8 +253,8 @@
   {
    "name": "Finley",
    "color": "#c9a227",
-   "points": 41,
-   "w": 12,
+   "points": 44,
+   "w": 13,
    "d": 5,
    "l": 9,
    "alive": 1,
@@ -298,17 +298,20 @@
     {
      "display": "Spain",
      "flag": "es",
-     "w": 4,
+     "w": 5,
      "d": 1,
      "l": 0,
-     "gf": 9,
-     "ga": 0,
-     "points": 13,
+     "gf": 11,
+     "ga": 1,
+     "points": 16,
      "out": false,
-     "next": null,
+     "next": {
+      "vs": "France",
+      "date": "2026-07-14T19:00Z"
+     },
      "last": {
-      "vs": "Portugal",
-      "score": "1-0",
+      "vs": "Belgium",
+      "score": "2-1",
       "res": "W",
       "detail": "FT"
      }
@@ -974,7 +977,8 @@
    ]
   }
  ],
- "live": [
+ "live": [],
+ "results": [
   {
    "date": "2026-07-10T19:00Z",
    "round": "Quarterfinals",
@@ -984,12 +988,10 @@
    "awayFlag": "be",
    "homeOwner": "Finley",
    "awayOwner": "Dad",
-   "hs": 1,
+   "hs": 2,
    "as": 1,
-   "clock": "45'+4'"
-  }
- ],
- "results": [
+   "detail": "FT"
+  },
   {
    "date": "2026-07-09T20:00Z",
    "round": "Quarterfinals",
