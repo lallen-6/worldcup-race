@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-10T18:00:46+00:00",
+ "generated": "2026-07-10T19:50:11+00:00",
  "matchesCompleted": 97,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -162,10 +162,7 @@
      "ga": 5,
      "points": 11,
      "out": false,
-     "next": {
-      "vs": "Spain",
-      "date": "2026-07-10T19:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "USA",
       "score": "4-1",
@@ -308,10 +305,7 @@
      "ga": 0,
      "points": 13,
      "out": false,
-     "next": {
-      "vs": "Belgium",
-      "date": "2026-07-10T19:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Portugal",
       "score": "1-0",
@@ -980,7 +974,21 @@
    ]
   }
  ],
- "live": [],
+ "live": [
+  {
+   "date": "2026-07-10T19:00Z",
+   "round": "Quarterfinals",
+   "home": "Spain",
+   "away": "Belgium",
+   "homeFlag": "es",
+   "awayFlag": "be",
+   "homeOwner": "Finley",
+   "awayOwner": "Dad",
+   "hs": 1,
+   "as": 1,
+   "clock": "45'+4'"
+  }
+ ],
  "results": [
   {
    "date": "2026-07-09T20:00Z",
@@ -2245,16 +2253,6 @@
   }
  ],
  "upcoming": [
-  {
-   "date": "2026-07-10T19:00Z",
-   "round": "Quarterfinals",
-   "home": "Spain",
-   "away": "Belgium",
-   "homeFlag": "es",
-   "awayFlag": "be",
-   "homeOwner": "Finley",
-   "awayOwner": "Dad"
-  },
   {
    "date": "2026-07-11T21:00Z",
    "round": "Quarterfinals",
