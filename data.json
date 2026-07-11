@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-11T19:50:57+00:00",
+ "generated": "2026-07-11T21:04:18+00:00",
  "matchesCompleted": 98,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -237,10 +237,7 @@
      "ga": 9,
      "points": 12,
      "out": false,
-     "next": {
-      "vs": "England",
-      "date": "2026-07-11T21:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Brazil",
       "score": "2-1",
@@ -427,10 +424,7 @@
      "ga": 5,
      "points": 13,
      "out": false,
-     "next": {
-      "vs": "Norway",
-      "date": "2026-07-11T21:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Mexico",
       "score": "3-2",
@@ -977,7 +971,21 @@
    ]
   }
  ],
- "live": [],
+ "live": [
+  {
+   "date": "2026-07-11T21:00Z",
+   "round": "Quarterfinals",
+   "home": "Norway",
+   "away": "England",
+   "homeFlag": "no",
+   "awayFlag": "gb-eng",
+   "homeOwner": "Dad",
+   "awayOwner": "Jasper",
+   "hs": 0,
+   "as": 0,
+   "clock": "3'"
+  }
+ ],
  "results": [
   {
    "date": "2026-07-10T19:00Z",
@@ -2255,16 +2263,6 @@
   }
  ],
  "upcoming": [
-  {
-   "date": "2026-07-11T21:00Z",
-   "round": "Quarterfinals",
-   "home": "Norway",
-   "away": "England",
-   "homeFlag": "no",
-   "awayFlag": "gb-eng",
-   "homeOwner": "Dad",
-   "awayOwner": "Jasper"
-  },
   {
    "date": "2026-07-12T01:00Z",
    "round": "Quarterfinals",
