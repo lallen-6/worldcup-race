@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-12T18:36:40+00:00",
+ "generated": "2026-07-12T19:49:39+00:00",
  "matchesCompleted": 100,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -2274,5 +2274,16 @@
    "detail": "FT"
   }
  ],
- "upcoming": []
+ "upcoming": [
+  {
+   "date": "2026-07-14T19:00Z",
+   "round": "Semifinals",
+   "home": "France",
+   "away": "Spain",
+   "homeFlag": "fr",
+   "awayFlag": "es",
+   "homeOwner": "Dad",
+   "awayOwner": "Finley"
+  }
+ ]
 }
