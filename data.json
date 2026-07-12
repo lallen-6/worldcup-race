@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-11T23:09:09+00:00",
- "matchesCompleted": 98,
+ "generated": "2026-07-12T00:09:35+00:00",
+ "matchesCompleted": 99,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -131,8 +131,8 @@
    "points": 54,
    "w": 17,
    "d": 3,
-   "l": 8,
-   "alive": 2,
+   "l": 9,
+   "alive": 1,
    "teams": [
     {
      "display": "Germany",
@@ -232,17 +232,17 @@
      "flag": "no",
      "w": 4,
      "d": 0,
-     "l": 1,
-     "gf": 12,
-     "ga": 9,
+     "l": 2,
+     "gf": 13,
+     "ga": 11,
      "points": 12,
-     "out": false,
+     "out": true,
      "next": null,
      "last": {
-      "vs": "Brazil",
-      "score": "2-1",
-      "res": "W",
-      "detail": "FT"
+      "vs": "England",
+      "score": "1-2",
+      "res": "L",
+      "detail": "AET"
      }
     }
    ]
@@ -372,8 +372,8 @@
   {
    "name": "Jasper",
    "color": "#5a3b8c",
-   "points": 35,
-   "w": 10,
+   "points": 38,
+   "w": 11,
    "d": 5,
    "l": 8,
    "alive": 1,
@@ -417,19 +417,22 @@
     {
      "display": "England",
      "flag": "gb-eng",
-     "w": 4,
+     "w": 5,
      "d": 1,
      "l": 0,
-     "gf": 11,
-     "ga": 5,
-     "points": 13,
+     "gf": 13,
+     "ga": 6,
+     "points": 16,
      "out": false,
-     "next": null,
+     "next": {
+      "vs": "Quarterfinal 4 Winner",
+      "date": "2026-07-15T19:00Z"
+     },
      "last": {
-      "vs": "Mexico",
-      "score": "3-2",
+      "vs": "Norway",
+      "score": "2-1",
       "res": "W",
-      "detail": "FT"
+      "detail": "AET"
      }
     },
     {
@@ -971,7 +974,8 @@
    ]
   }
  ],
- "live": [
+ "live": [],
+ "results": [
   {
    "date": "2026-07-11T21:00Z",
    "round": "Quarterfinals",
@@ -982,11 +986,9 @@
    "homeOwner": "Dad",
    "awayOwner": "Jasper",
    "hs": 1,
-   "as": 1,
-   "clock": "92'"
-  }
- ],
- "results": [
+   "as": 2,
+   "detail": "AET"
+  },
   {
    "date": "2026-07-10T19:00Z",
    "round": "Quarterfinals",
