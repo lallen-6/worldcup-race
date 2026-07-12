@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-12T00:09:35+00:00",
- "matchesCompleted": 99,
+ "generated": "2026-07-12T03:55:15+00:00",
+ "matchesCompleted": 100,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -425,7 +425,7 @@
      "points": 16,
      "out": false,
      "next": {
-      "vs": "Quarterfinal 4 Winner",
+      "vs": "Argentina",
       "date": "2026-07-15T19:00Z"
      },
      "last": {
@@ -497,8 +497,8 @@
    "points": 36,
    "w": 10,
    "d": 6,
-   "l": 8,
-   "alive": 1,
+   "l": 9,
+   "alive": 0,
    "teams": [
     {
      "display": "South Korea",
@@ -577,20 +577,17 @@
      "flag": "ch",
      "w": 4,
      "d": 1,
-     "l": 0,
-     "gf": 9,
-     "ga": 3,
+     "l": 1,
+     "gf": 10,
+     "ga": 6,
      "points": 13,
-     "out": false,
-     "next": {
-      "vs": "Argentina",
-      "date": "2026-07-12T01:00Z"
-     },
+     "out": true,
+     "next": null,
      "last": {
-      "vs": "Colombia",
-      "score": "0-0",
-      "res": "W",
-      "detail": "FT-Pens"
+      "vs": "Argentina",
+      "score": "1-3",
+      "res": "L",
+      "detail": "AET"
      }
     },
     {
@@ -616,8 +613,8 @@
   {
    "name": "Keir",
    "color": "#b03a5b",
-   "points": 33,
-   "w": 10,
+   "points": 36,
+   "w": 11,
    "d": 3,
    "l": 11,
    "alive": 1,
@@ -643,22 +640,22 @@
     {
      "display": "Argentina",
      "flag": "ar",
-     "w": 5,
+     "w": 6,
      "d": 0,
      "l": 0,
-     "gf": 14,
-     "ga": 5,
-     "points": 15,
+     "gf": 17,
+     "ga": 6,
+     "points": 18,
      "out": false,
      "next": {
-      "vs": "Switzerland",
-      "date": "2026-07-12T01:00Z"
+      "vs": "England",
+      "date": "2026-07-15T19:00Z"
      },
      "last": {
-      "vs": "Egypt",
-      "score": "3-2",
+      "vs": "Switzerland",
+      "score": "3-1",
       "res": "W",
-      "detail": "FT"
+      "detail": "AET"
      }
     },
     {
@@ -976,6 +973,19 @@
  ],
  "live": [],
  "results": [
+  {
+   "date": "2026-07-12T01:00Z",
+   "round": "Quarterfinals",
+   "home": "Argentina",
+   "away": "Switzerland",
+   "homeFlag": "ar",
+   "awayFlag": "ch",
+   "homeOwner": "Keir",
+   "awayOwner": "KTB",
+   "hs": 3,
+   "as": 1,
+   "detail": "AET"
+  },
   {
    "date": "2026-07-11T21:00Z",
    "round": "Quarterfinals",
@@ -2264,16 +2274,5 @@
    "detail": "FT"
   }
  ],
- "upcoming": [
-  {
-   "date": "2026-07-12T01:00Z",
-   "round": "Quarterfinals",
-   "home": "Argentina",
-   "away": "Switzerland",
-   "homeFlag": "ar",
-   "awayFlag": "ch",
-   "homeOwner": "Keir",
-   "awayOwner": "KTB"
-  }
- ]
+ "upcoming": []
 }
