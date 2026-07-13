@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-13T18:05:30+00:00",
+ "generated": "2026-07-13T19:47:54+00:00",
  "matchesCompleted": 100,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -2284,6 +2284,16 @@
    "awayFlag": "es",
    "homeOwner": "Dad",
    "awayOwner": "Finley"
+  },
+  {
+   "date": "2026-07-15T19:00Z",
+   "round": "Semifinals",
+   "home": "England",
+   "away": "Argentina",
+   "homeFlag": "gb-eng",
+   "awayFlag": "ar",
+   "homeOwner": "Jasper",
+   "awayOwner": "Keir"
   }
  ]
 }
