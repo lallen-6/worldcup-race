@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-14T20:21:18+00:00",
- "matchesCompleted": 100,
+ "generated": "2026-07-14T21:36:56+00:00",
+ "matchesCompleted": 101,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -131,8 +131,8 @@
    "points": 54,
    "w": 17,
    "d": 3,
-   "l": 9,
-   "alive": 1,
+   "l": 10,
+   "alive": 0,
    "teams": [
     {
      "display": "Germany",
@@ -175,16 +175,19 @@
      "flag": "fr",
      "w": 6,
      "d": 0,
-     "l": 0,
+     "l": 1,
      "gf": 16,
-     "ga": 2,
+     "ga": 4,
      "points": 18,
-     "out": false,
-     "next": null,
+     "out": true,
+     "next": {
+      "vs": "Semifinal 2 Loser",
+      "date": "2026-07-18T21:00Z"
+     },
      "last": {
-      "vs": "Morocco",
-      "score": "2-0",
-      "res": "W",
+      "vs": "Spain",
+      "score": "0-2",
+      "res": "L",
       "detail": "FT"
      }
     },
@@ -247,8 +250,8 @@
   {
    "name": "Finley",
    "color": "#c9a227",
-   "points": 44,
-   "w": 13,
+   "points": 47,
+   "w": 14,
    "d": 5,
    "l": 9,
    "alive": 1,
@@ -292,17 +295,20 @@
     {
      "display": "Spain",
      "flag": "es",
-     "w": 5,
+     "w": 6,
      "d": 1,
      "l": 0,
-     "gf": 11,
+     "gf": 13,
      "ga": 1,
-     "points": 16,
+     "points": 19,
      "out": false,
-     "next": null,
+     "next": {
+      "vs": "Semifinal 2 Winner",
+      "date": "2026-07-19T19:00Z"
+     },
      "last": {
-      "vs": "Belgium",
-      "score": "2-1",
+      "vs": "France",
+      "score": "2-0",
       "res": "W",
       "detail": "FT"
      }
@@ -965,7 +971,8 @@
    ]
   }
  ],
- "live": [
+ "live": [],
+ "results": [
   {
    "date": "2026-07-14T19:00Z",
    "round": "Semifinals",
@@ -977,10 +984,8 @@
    "awayOwner": "Finley",
    "hs": 0,
    "as": 2,
-   "clock": "59'"
-  }
- ],
- "results": [
+   "detail": "FT"
+  },
   {
    "date": "2026-07-12T01:00Z",
    "round": "Quarterfinals",
