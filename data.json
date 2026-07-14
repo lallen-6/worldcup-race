@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-14T18:46:31+00:00",
+ "generated": "2026-07-14T20:21:18+00:00",
  "matchesCompleted": 100,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -180,10 +180,7 @@
      "ga": 2,
      "points": 18,
      "out": false,
-     "next": {
-      "vs": "Spain",
-      "date": "2026-07-14T19:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Morocco",
       "score": "2-0",
@@ -302,10 +299,7 @@
      "ga": 1,
      "points": 16,
      "out": false,
-     "next": {
-      "vs": "France",
-      "date": "2026-07-14T19:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Belgium",
       "score": "2-1",
@@ -971,7 +965,21 @@
    ]
   }
  ],
- "live": [],
+ "live": [
+  {
+   "date": "2026-07-14T19:00Z",
+   "round": "Semifinals",
+   "home": "France",
+   "away": "Spain",
+   "homeFlag": "fr",
+   "awayFlag": "es",
+   "homeOwner": "Dad",
+   "awayOwner": "Finley",
+   "hs": 0,
+   "as": 2,
+   "clock": "59'"
+  }
+ ],
  "results": [
   {
    "date": "2026-07-12T01:00Z",
@@ -2275,16 +2283,6 @@
   }
  ],
  "upcoming": [
-  {
-   "date": "2026-07-14T19:00Z",
-   "round": "Semifinals",
-   "home": "France",
-   "away": "Spain",
-   "homeFlag": "fr",
-   "awayFlag": "es",
-   "homeOwner": "Dad",
-   "awayOwner": "Finley"
-  },
   {
    "date": "2026-07-15T19:00Z",
    "round": "Semifinals",
