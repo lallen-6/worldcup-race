@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-15T20:17:56+00:00",
- "matchesCompleted": 101,
+ "generated": "2026-07-15T21:37:46+00:00",
+ "matchesCompleted": 102,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -181,7 +181,7 @@
      "points": 18,
      "out": true,
      "next": {
-      "vs": "Semifinal 2 Loser",
+      "vs": "England",
       "date": "2026-07-18T21:00Z"
      },
      "last": {
@@ -303,7 +303,7 @@
      "points": 19,
      "out": false,
      "next": {
-      "vs": "Semifinal 2 Winner",
+      "vs": "Argentina",
       "date": "2026-07-19T19:00Z"
      },
      "last": {
@@ -375,8 +375,8 @@
    "points": 38,
    "w": 11,
    "d": 5,
-   "l": 8,
-   "alive": 1,
+   "l": 9,
+   "alive": 0,
    "teams": [
     {
      "display": "Turkey",
@@ -419,17 +419,20 @@
      "flag": "gb-eng",
      "w": 5,
      "d": 1,
-     "l": 0,
-     "gf": 13,
-     "ga": 6,
+     "l": 1,
+     "gf": 14,
+     "ga": 8,
      "points": 16,
-     "out": false,
-     "next": null,
+     "out": true,
+     "next": {
+      "vs": "France",
+      "date": "2026-07-18T21:00Z"
+     },
      "last": {
-      "vs": "Norway",
-      "score": "2-1",
-      "res": "W",
-      "detail": "AET"
+      "vs": "Argentina",
+      "score": "1-2",
+      "res": "L",
+      "detail": "FT"
      }
     },
     {
@@ -610,8 +613,8 @@
   {
    "name": "Keir",
    "color": "#b03a5b",
-   "points": 36,
-   "w": 11,
+   "points": 39,
+   "w": 12,
    "d": 3,
    "l": 11,
    "alive": 1,
@@ -637,19 +640,22 @@
     {
      "display": "Argentina",
      "flag": "ar",
-     "w": 6,
+     "w": 7,
      "d": 0,
      "l": 0,
-     "gf": 17,
-     "ga": 6,
-     "points": 18,
+     "gf": 19,
+     "ga": 7,
+     "points": 21,
      "out": false,
-     "next": null,
+     "next": {
+      "vs": "Spain",
+      "date": "2026-07-19T19:00Z"
+     },
      "last": {
-      "vs": "Switzerland",
-      "score": "3-1",
+      "vs": "England",
+      "score": "2-1",
       "res": "W",
-      "detail": "AET"
+      "detail": "FT"
      }
     },
     {
@@ -965,7 +971,8 @@
    ]
   }
  ],
- "live": [
+ "live": [],
+ "results": [
   {
    "date": "2026-07-15T19:00Z",
    "round": "Semifinals",
@@ -976,11 +983,9 @@
    "homeOwner": "Jasper",
    "awayOwner": "Keir",
    "hs": 1,
-   "as": 0,
-   "clock": "56'"
-  }
- ],
- "results": [
+   "as": 2,
+   "detail": "FT"
+  },
   {
    "date": "2026-07-14T19:00Z",
    "round": "Semifinals",
