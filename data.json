@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-15T18:45:10+00:00",
+ "generated": "2026-07-15T20:17:56+00:00",
  "matchesCompleted": 101,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -424,10 +424,7 @@
      "ga": 6,
      "points": 16,
      "out": false,
-     "next": {
-      "vs": "Argentina",
-      "date": "2026-07-15T19:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Norway",
       "score": "2-1",
@@ -647,10 +644,7 @@
      "ga": 6,
      "points": 18,
      "out": false,
-     "next": {
-      "vs": "England",
-      "date": "2026-07-15T19:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Switzerland",
       "score": "3-1",
@@ -971,7 +965,21 @@
    ]
   }
  ],
- "live": [],
+ "live": [
+  {
+   "date": "2026-07-15T19:00Z",
+   "round": "Semifinals",
+   "home": "England",
+   "away": "Argentina",
+   "homeFlag": "gb-eng",
+   "awayFlag": "ar",
+   "homeOwner": "Jasper",
+   "awayOwner": "Keir",
+   "hs": 1,
+   "as": 0,
+   "clock": "56'"
+  }
+ ],
  "results": [
   {
    "date": "2026-07-14T19:00Z",
@@ -2287,16 +2295,5 @@
    "detail": "FT"
   }
  ],
- "upcoming": [
-  {
-   "date": "2026-07-15T19:00Z",
-   "round": "Semifinals",
-   "home": "England",
-   "away": "Argentina",
-   "homeFlag": "gb-eng",
-   "awayFlag": "ar",
-   "homeOwner": "Jasper",
-   "awayOwner": "Keir"
-  }
- ]
+ "upcoming": []
 }
