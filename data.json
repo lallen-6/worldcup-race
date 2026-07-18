@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-18T20:27:05+00:00",
+ "generated": "2026-07-18T21:32:58+00:00",
  "matchesCompleted": 102,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -180,10 +180,7 @@
      "ga": 4,
      "points": 18,
      "out": true,
-     "next": {
-      "vs": "England",
-      "date": "2026-07-18T21:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Spain",
       "score": "0-2",
@@ -424,10 +421,7 @@
      "ga": 8,
      "points": 16,
      "out": true,
-     "next": {
-      "vs": "France",
-      "date": "2026-07-18T21:00Z"
-     },
+     "next": null,
      "last": {
       "vs": "Argentina",
       "score": "1-2",
@@ -971,7 +965,21 @@
    ]
   }
  ],
- "live": [],
+ "live": [
+  {
+   "date": "2026-07-18T21:00Z",
+   "round": "3rd-Place Match",
+   "home": "France",
+   "away": "England",
+   "homeFlag": "fr",
+   "awayFlag": "gb-eng",
+   "homeOwner": "Dad",
+   "awayOwner": "Jasper",
+   "hs": 0,
+   "as": 2,
+   "clock": "33'"
+  }
+ ],
  "results": [
   {
    "date": "2026-07-15T19:00Z",
@@ -2301,16 +2309,6 @@
   }
  ],
  "upcoming": [
-  {
-   "date": "2026-07-18T21:00Z",
-   "round": "3rd-Place Match",
-   "home": "France",
-   "away": "England",
-   "homeFlag": "fr",
-   "awayFlag": "gb-eng",
-   "homeOwner": "Dad",
-   "awayOwner": "Jasper"
-  },
   {
    "date": "2026-07-19T19:00Z",
    "round": "Final",
