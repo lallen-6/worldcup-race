@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-18T22:31:24+00:00",
- "matchesCompleted": 102,
+ "generated": "2026-07-18T23:35:09+00:00",
+ "matchesCompleted": 103,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -131,7 +131,7 @@
    "points": 54,
    "w": 17,
    "d": 3,
-   "l": 10,
+   "l": 11,
    "alive": 0,
    "teams": [
     {
@@ -175,15 +175,15 @@
      "flag": "fr",
      "w": 6,
      "d": 0,
-     "l": 1,
-     "gf": 16,
-     "ga": 4,
+     "l": 2,
+     "gf": 20,
+     "ga": 10,
      "points": 18,
      "out": true,
      "next": null,
      "last": {
-      "vs": "Spain",
-      "score": "0-2",
+      "vs": "England",
+      "score": "4-6",
       "res": "L",
       "detail": "FT"
      }
@@ -369,8 +369,8 @@
   {
    "name": "Jasper",
    "color": "#5a3b8c",
-   "points": 38,
-   "w": 11,
+   "points": 41,
+   "w": 12,
    "d": 5,
    "l": 9,
    "alive": 0,
@@ -414,18 +414,18 @@
     {
      "display": "England",
      "flag": "gb-eng",
-     "w": 5,
+     "w": 6,
      "d": 1,
      "l": 1,
-     "gf": 14,
-     "ga": 8,
-     "points": 16,
+     "gf": 20,
+     "ga": 12,
+     "points": 19,
      "out": true,
      "next": null,
      "last": {
-      "vs": "Argentina",
-      "score": "1-2",
-      "res": "L",
+      "vs": "France",
+      "score": "6-4",
+      "res": "W",
       "detail": "FT"
      }
     },
@@ -965,7 +965,8 @@
    ]
   }
  ],
- "live": [
+ "live": [],
+ "results": [
   {
    "date": "2026-07-18T21:00Z",
    "round": "3rd-Place Match",
@@ -975,12 +976,10 @@
    "awayFlag": "gb-eng",
    "homeOwner": "Dad",
    "awayOwner": "Jasper",
-   "hs": 3,
-   "as": 4,
-   "clock": "67'"
-  }
- ],
- "results": [
+   "hs": 4,
+   "as": 6,
+   "detail": "FT"
+  },
   {
    "date": "2026-07-15T19:00Z",
    "round": "Semifinals",
