@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-18T21:32:58+00:00",
+ "generated": "2026-07-18T22:31:24+00:00",
  "matchesCompleted": 102,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
@@ -975,9 +975,9 @@
    "awayFlag": "gb-eng",
    "homeOwner": "Dad",
    "awayOwner": "Jasper",
-   "hs": 0,
-   "as": 2,
-   "clock": "33'"
+   "hs": 3,
+   "as": 4,
+   "clock": "67'"
   }
  ],
  "results": [
