@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-19T21:06:12+00:00",
- "matchesCompleted": 103,
+ "generated": "2026-07-19T22:07:48+00:00",
+ "matchesCompleted": 104,
  "totalMatches": 104,
  "title": "The Family World Cup Stakes",
  "subtitle": "2026 Sweepstake · 8 runners · 48 nations",
@@ -247,8 +247,8 @@
   {
    "name": "Finley",
    "color": "#c9a227",
-   "points": 47,
-   "w": 14,
+   "points": 50,
+   "w": 15,
    "d": 5,
    "l": 9,
    "alive": 1,
@@ -292,19 +292,19 @@
     {
      "display": "Spain",
      "flag": "es",
-     "w": 6,
+     "w": 7,
      "d": 1,
      "l": 0,
-     "gf": 13,
+     "gf": 14,
      "ga": 1,
-     "points": 19,
+     "points": 22,
      "out": false,
      "next": null,
      "last": {
-      "vs": "France",
-      "score": "2-0",
+      "vs": "Argentina",
+      "score": "1-0",
       "res": "W",
-      "detail": "FT"
+      "detail": "AET"
      }
     },
     {
@@ -607,8 +607,8 @@
    "points": 39,
    "w": 12,
    "d": 3,
-   "l": 11,
-   "alive": 1,
+   "l": 12,
+   "alive": 0,
    "teams": [
     {
      "display": "Australia",
@@ -633,17 +633,17 @@
      "flag": "ar",
      "w": 7,
      "d": 0,
-     "l": 0,
+     "l": 1,
      "gf": 19,
-     "ga": 7,
+     "ga": 8,
      "points": 21,
-     "out": false,
+     "out": true,
      "next": null,
      "last": {
-      "vs": "England",
-      "score": "2-1",
-      "res": "W",
-      "detail": "FT"
+      "vs": "Spain",
+      "score": "0-1",
+      "res": "L",
+      "detail": "AET"
      }
     },
     {
@@ -959,7 +959,8 @@
    ]
   }
  ],
- "live": [
+ "live": [],
+ "results": [
   {
    "date": "2026-07-19T19:00Z",
    "round": "Final",
@@ -969,12 +970,10 @@
    "awayFlag": "ar",
    "homeOwner": "Finley",
    "awayOwner": "Keir",
-   "hs": 0,
+   "hs": 1,
    "as": 0,
-   "clock": "88'"
-  }
- ],
- "results": [
+   "detail": "AET"
+  },
   {
    "date": "2026-07-18T21:00Z",
    "round": "3rd-Place Match",
